@@ -1,0 +1,951 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2015-09-14T03:19:40.000Z,-29.821,-71.197,64.5,4,mb,,,,1.35,us,us20003j8r,2015-12-12T00:42:51.040Z,"10 km NNE of La Serena, Chile",earthquake,4.1,6.8,0.366,2,reviewed,guc,us
+2015-08-26T23:49:19.450Z,-29.7014,-71.4158,51.14,4.3,mb,,135,0.265,1.24,us,us1000356x,2022-08-01T02:03:34.010Z,"27 km NW of La Serena, Chile",earthquake,5.7,5,0.266,4,reviewed,us,us
+2015-08-25T06:16:39.040Z,-29.663,-71.4373,52,4.5,mb,,88,0.307,1.32,us,us100034ns,2015-11-24T02:09:34.040Z,"32 km NW of La Serena, Chile",earthquake,5.4,6.1,0.066,68,reviewed,us,us
+2015-08-24T05:13:49.000Z,-29.882,-71.252,44.7,4.8,mb,,,,1.09,us,us100034f1,2022-08-01T01:33:33.795Z,"2 km N of La Serena, Chile",earthquake,4.8,3.6,0.04,189,reviewed,guc,us
+2015-08-24T02:42:48.000Z,-29.844,-71.239,44.9,4.2,mb,,,,1,us,us100034eh,2022-08-01T01:30:41.542Z,"6 km N of La Serena, Chile",earthquake,6.8,5.1,0.153,12,reviewed,guc,us
+2015-08-23T23:10:04.420Z,-29.7191,-71.2958,31.11,5.7,mww,,33,0.205,1.01,us,us100034du,2022-05-03T17:29:01.676Z,"21 km NNW of La Serena, Chile",earthquake,4.5,2.9,,,reviewed,us,us
+2015-08-12T00:14:40.320Z,-31.6968,-71.6227,30,5.5,mww,,45,0.724,1,us,us100031b7,2022-05-03T17:28:40.129Z,"43 km W of Illapel, Chile",earthquake,5.1,1.8,,,reviewed,us,us
+2015-08-06T05:28:55.910Z,-31.7636,-72.2219,14.55,4.1,mwr,,153,1.183,0.71,us,us10002z19,2015-11-06T18:06:19.040Z,"100 km W of Illapel, Chile",earthquake,3.3,4.8,0.052,35,reviewed,us,us
+2015-08-01T19:53:49.000Z,-31.964,-71.198,65,4.1,mb,,,,0.78,us,us10002x7t,2015-10-30T02:47:42.040Z,"30 km SW of Salamanca, Chile",earthquake,5.8,6.2,0.185,8,reviewed,guc,us
+2015-07-23T17:28:05.000Z,-31.913,-71.103,65.1,4.1,mb,,,,1.41,us,us20002zkm,2015-10-22T20:04:54.040Z,"19 km SW of Salamanca, Chile",earthquake,6,6,0.198,7,reviewed,guc,us
+2015-07-22T00:04:19.000Z,-32.221,-71.703,32.3,4,mwr,,,,1.13,us,us20002z3d,2015-10-14T21:05:49.040Z,"51 km WNW of La Ligua, Chile",earthquake,5.1,4.2,0.05,39,reviewed,guc,us
+2015-07-20T19:47:25.000Z,-31.688,-71.967,29.4,4.5,mb,,,,1.11,us,us100030tb,2015-10-14T21:05:47.040Z,"75 km W of Illapel, Chile",earthquake,7.4,5.3,0.312,3,reviewed,guc,us
+2015-07-19T21:08:46.000Z,-31.713,-71.806,32,4.2,mwr,,,,1.2,us,us20002yk8,2015-10-14T21:05:45.040Z,"60 km W of Illapel, Chile",earthquake,3.6,6,0.068,21,reviewed,guc,us
+2015-07-19T05:49:54.000Z,-31.725,-71.903,25,4.2,mb,,,,0.9,us,us20002ygu,2015-10-14T21:05:43.040Z,"70 km W of Illapel, Chile",earthquake,5,5.5,0.306,4,reviewed,guc,us
+2015-07-16T10:48:04.930Z,-29.5,-71.8098,7.66,5,mww,,101,1.084,0.96,us,us20002xvy,2022-07-31T18:53:56.116Z,"67 km NW of Coquimbo, Chile",earthquake,4.5,3.9,,,reviewed,us,us
+2015-07-12T06:54:49.000Z,-32.085,-71.16,63.6,4.1,mb,,,,0.46,us,us20002wwk,2022-07-31T18:08:53.196Z,"38 km SSW of Salamanca, Chile",earthquake,4,6.2,0.233,5,reviewed,guc,us
+2015-07-06T07:32:09.000Z,-30.911,-71.513,74.3,4,mb,,,,1.42,us,us10002nm9,2015-09-30T00:20:58.040Z,"45 km SW of Ovalle, Chile",earthquake,5.9,6.3,0.212,6,reviewed,guc,us
+2015-07-05T22:24:11.000Z,-31.581,-71.76,27.8,4.2,mb,,,,0.65,us,us20002zhz,2015-09-30T00:20:57.040Z,"56 km W of Illapel, Chile",earthquake,5.3,6.5,0.264,4,reviewed,guc,us
+2015-06-24T22:18:22.540Z,-30.3274,-71.4373,55.53,4.5,mb,,162,0.573,0.83,us,us10002lgu,2015-09-01T00:53:56.040Z,"38 km NW of Ovalle, Chile",earthquake,6.2,6.5,0.171,10,reviewed,us,us
+2015-05-15T06:05:24.230Z,-29.5367,-71.2062,47.59,4.2,mwr,,143,0.685,0.65,us,us10002974,2015-07-23T01:04:00.040Z,"40 km N of La Serena, Chile",earthquake,4.1,6.4,0.063,24,reviewed,us,us
+2015-05-13T14:40:19.490Z,-29.8158,-71.3867,59.36,4.4,mb,,140,0.621,0.62,us,us20002f05,2015-07-17T07:06:15.040Z,"15 km NNW of Coquimbo, Chile",earthquake,7.4,6.8,0.1,29,reviewed,us,us
+2015-05-02T03:46:15.770Z,-30.3367,-71.8687,33.48,4.2,mb,,198,0.939,0.98,us,us20002dsl,2015-07-09T22:00:05.040Z,"66 km SW of Coquimbo, Chile",earthquake,7.7,3.1,0.373,2,reviewed,us,us
+2015-04-26T17:54:31.500Z,-32.322,-71.79,36.2,4.8,mb,,,,1.3,us,us200029ek,2015-07-03T00:23:42.040Z,"54 km WNW of La Ligua, Chile",earthquake,4.8,6,0.196,8,reviewed,guc,us
+2015-04-13T23:36:35.000Z,-31.051,-71.771,45,4.1,mb,,,,1.72,us,us2000269z,2015-06-22T23:19:00.040Z,"74 km SW of Ovalle, Chile",earthquake,6.5,8.2,0.302,3,reviewed,guc,us
+2015-03-27T03:29:20.000Z,-29.912,-71.278,58.1,3.9,ml,,,,1.83,us,us10001r3r,2015-06-12T01:53:24.040Z,"2 km WSW of La Serena, Chile",earthquake,9.3,9,,,reviewed,guc,guc
+2015-03-26T17:45:08.000Z,-31.063,-71.798,30.5,4.4,mwr,,,,1.13,us,us10001qxd,2022-07-28T04:33:31.859Z,"76 km SW of Ovalle, Chile",earthquake,5.1,4.2,0.06,27,reviewed,guc,us
+2015-03-24T17:31:02.320Z,-32.25,-71.9165,21.43,3.9,mwr,,168,1.201,0.79,us,us10001s01,2015-06-09T21:30:05.040Z,"68 km WNW of La Ligua, Chile",earthquake,5.3,4.4,0.069,20,reviewed,us,us
+2015-03-17T23:43:52.460Z,-29.5424,-71.6619,40.72,4.2,mb,,183,0.977,1.16,us,us10001nba,2015-06-04T00:46:25.040Z,"55 km NW of Coquimbo, Chile",earthquake,6.6,8.3,0.216,6,reviewed,us,us
+2015-03-17T12:43:56.730Z,-30.5364,-72.2625,9.84,4.5,mb,,115,1.272,1.35,us,us10001n31,2015-06-04T00:46:24.040Z,"102 km W of Ovalle, Chile",earthquake,4.8,3,0.191,8,reviewed,us,us
+2015-02-26T15:40:03.780Z,-30.2846,-71.6559,40.74,4,ml,,178,0.749,1.26,us,usc000ttcp,2015-05-19T00:28:43.040Z,"47 km SW of Coquimbo, Chile",earthquake,3.6,18.9,,,reviewed,us,guc
+2015-02-17T14:35:54.000Z,-32.375,-71.013,72.6,5.4,mww,,,,0.88,us,usb000tq1p,2022-07-27T21:38:08.666Z,"22 km ENE of La Ligua, Chile",earthquake,5.2,3.7,,,reviewed,guc,us
+2015-02-17T07:50:44.610Z,-30.9685,-71.4018,65.23,4.6,mb,,80,0.416,0.59,us,usc000trw7,2015-05-11T23:20:20.040Z,"45 km SSW of Ovalle, Chile",earthquake,5.7,5.3,0.117,24,reviewed,us,us
+2015-02-16T20:33:47.000Z,-30.282,-71.53,35.5,4.8,mb,,,,1.51,us,usb000tpss,2015-05-11T23:20:19.040Z,"40 km SSW of Coquimbo, Chile",earthquake,6.2,6,0.175,11,reviewed,guc,us
+2015-02-11T17:07:17.500Z,-30.1665,-71.6112,56.43,4.7,mb,,54,0.703,1.22,us,usc000tp13,2015-05-04T22:47:55.040Z,"35 km SW of Coquimbo, Chile",earthquake,4.2,5.5,0.209,8,reviewed,us,us
+2015-01-26T01:17:15.840Z,-31.0733,-71.7793,10.91,4.3,mb,,85,0.68,1.13,us,usc000tj1h,2015-04-24T16:55:36.040Z,"76 km SW of Ovalle, Chile",earthquake,2.8,5.8,0.308,3,reviewed,us,us
+2015-01-23T01:25:39.000Z,-29.841,-71.456,64.4,4.2,mb,,,,1.16,us,usc000tkxp,2015-04-24T16:55:52.040Z,"16 km NW of Coquimbo, Chile",earthquake,10.4,5,0.374,3,reviewed,guc,us
+2015-01-21T17:33:38.000Z,-29.806,-71.246,59.1,4.1,ml,,,,0.59,us,usc000thv8,2015-04-20T16:05:39.040Z,"10 km N of La Serena, Chile",earthquake,7.3,9.3,,,reviewed,guc,guc
+2015-01-18T14:14:45.000Z,-30.929,-71.746,27.2,4.6,mb,,,,0.86,us,usc000tgyf,2015-04-20T16:05:34.040Z,"63 km SW of Ovalle, Chile",earthquake,5.7,6.7,0.386,2,reviewed,guc,us
+2015-01-06T02:12:14.560Z,-30.7366,-71.9782,34.63,4.3,mb,,106,0.96,0.55,us,usc000tc1z,2015-03-27T07:02:09.040Z,"76 km W of Ovalle, Chile",earthquake,5.3,3.1,0.237,5,reviewed,us,us
+2015-01-01T21:08:22.000Z,-31.072,-71.347,61.2,4.5,mwr,,,,1.55,us,usc000tb6x,2022-07-27T12:17:51.550Z,"54 km SSW of Ovalle, Chile",earthquake,5.2,3.8,0.065,23,reviewed,guc,us
+2014-12-27T22:06:07.170Z,-30.1588,-71.5814,22.49,4.4,mb,,86,0.677,1.14,us,usc000tab6,2022-07-27T11:39:08.792Z,"Near the coast of Coquimbo, Chile",earthquake,5.2,5.6,0.17,11,reviewed,us,us
+2014-12-25T22:11:33.000Z,-30.89,-71.58,68,4.2,ml,,,,2,us,usc000t9zy,2015-03-17T02:37:10.040Z,"48 km SW of Ovalle, Chile",earthquake,6.2,7.1,,,reviewed,guc,guc
+2014-12-15T00:32:19.000Z,-32.073,-71.57,25.1,4.4,mb,,,,1.37,us,usc000tckf,2015-03-04T21:55:04.040Z,"52 km NW of La Ligua, Chile",earthquake,6.1,5,0.191,9,reviewed,guc,us
+2014-12-10T08:09:57.000Z,-32.138,-71.887,35.8,4.1,ml,,,,1,us,usc000t9rg,2015-03-04T21:54:54.040Z,"70 km WNW of La Ligua, Chile",earthquake,7,8.5,,,reviewed,guc,guc
+2014-11-29T13:30:16.860Z,-29.6921,-71.5803,51.83,4.5,mb,,91,0.83,1.3,us,usb000t160,2015-02-24T00:35:11.040Z,"37 km NW of Coquimbo, Chile",earthquake,5.4,8,0.18,13,reviewed,us,us
+2014-11-28T20:55:36.760Z,-30.9068,-71.6991,67.73,4.6,mb,,86,0.668,0.88,us,usb000t0zb,2022-07-27T09:06:20.170Z,"58 km SW of Ovalle, Chile",earthquake,5.4,4.3,0.223,7,reviewed,us,us
+2014-11-28T08:22:07.020Z,-30.2434,-71.7013,25.68,4.3,mwr,,107,0.784,1.23,us,usb000t0uf,2022-07-27T09:02:23.470Z,"47 km SW of Coquimbo, Chile",earthquake,4.6,3.4,0.054,33,reviewed,us,us
+2014-10-12T16:23:12.220Z,-30.8037,-71.226,76.57,4.4,mb,,80,0.443,0.75,us,usb000slaw,2015-01-06T23:49:53.040Z,"22 km S of Ovalle, Chile",earthquake,6,3.9,0.155,15,reviewed,us,us
+2014-10-03T03:38:17.000Z,-31.759,-71.425,45.1,4.2,mb,,,,1.06,us,usb000sidr,2014-12-23T01:41:59.040Z,"27 km WSW of Illapel, Chile",earthquake,5.4,8.1,0.373,4,reviewed,guc,us
+2014-09-25T19:04:05.000Z,-31.597,-71.441,53.3,4.6,mb,,,,0.76,us,usb000sfzu,2014-12-20T00:53:58.040Z,"26 km W of Illapel, Chile",earthquake,6.6,2.8,0.273,5,reviewed,guc,us
+2014-09-18T23:43:25.000Z,-30.446,-72.099,35.1,4.2,mb,,,,1.38,us,usb000sh26,2014-12-19T00:05:21.040Z,"88 km WNW of Ovalle, Chile",earthquake,5.5,8.4,0.305,3,reviewed,guc,us
+2014-09-15T06:35:19.000Z,-31.973,-71.241,84.9,4.5,mb,,,,1.06,us,usb000scf2,2014-12-08T23:31:01.040Z,"33 km SW of Salamanca, Chile",earthquake,5,4.7,0.085,46,reviewed,guc,us
+2014-09-05T20:49:05.660Z,-30.6688,-71.5245,56.46,4.9,mb,,49,0.698,0.79,us,usb000s9la,2014-12-05T23:36:33.040Z,"32 km WSW of Ovalle, Chile",earthquake,4.9,4.8,0.061,92,reviewed,us,us
+2014-07-31T20:40:51.000Z,-31.812,-71.235,74.5,4.8,mb,,,,0.74,us,usb000ryzm,2014-10-29T19:52:52.000Z,"20 km SSW of Illapel, Chile",earthquake,,2.5,0.059,89,reviewed,guc,us
+2014-07-30T13:41:54.030Z,-32.352,-71.987,19.85,4.5,mb,,132,1.028,0.92,us,usb000ryjx,2014-10-29T19:52:49.000Z,"71 km W of La Ligua, Chile",earthquake,,1.4,0.311,5,reviewed,us,us
+2014-07-26T07:31:44.350Z,-30.3514,-72.2762,11.77,4.9,mww,,87,1.29,1.08,us,usb000rxiu,2014-10-25T01:49:39.000Z,"100 km WSW of Coquimbo, Chile",earthquake,,2.9,,,reviewed,us,us
+2014-07-25T01:16:50.000Z,-29.644,-71.457,35.1,4.1,mb,,,,0.92,us,usb000s0cp,2014-10-25T01:49:35.000Z,"35 km NW of La Serena, Chile",earthquake,,6.6,0.522,2,reviewed,guc,us
+2014-07-18T10:32:56.790Z,-30.8198,-71.7868,8.51,4.1,mb,,87,0.776,1.02,us,usb000ru3y,2014-10-17T21:12:09.000Z,"61 km WSW of Ovalle, Chile",earthquake,,7.5,0.521,1,reviewed,us,us
+2014-06-27T18:30:04.140Z,-30.168,-71.2757,68.8,4.8,mb,,90,0.412,0.99,us,usc000rmxi,2022-07-26T18:19:37.303Z,"24 km SSE of Coquimbo, Chile",earthquake,,1.2,0.167,13,reviewed,us,us
+2014-06-24T11:23:33.000Z,-32.471,-71.761,27.9,4.2,mb,,,,1.44,us,usc000rl2m,2014-09-19T17:23:34.000Z,"49 km W of La Ligua, Chile",earthquake,,4.8,0.2,8,reviewed,guc,us
+2014-06-11T23:01:58.000Z,-30.021,-71.618,11.8,4,ml,,,,0.97,us,usc000redh,2014-09-12T15:47:17.000Z,"27 km WSW of Coquimbo, Chile",earthquake,,5.5,,,reviewed,guc,guc
+2014-05-28T10:27:06.000Z,-32.388,-71.516,59.6,4.5,mb,,,,1.1,us,usb000r6dd,2014-08-26T01:21:02.000Z,"27 km WNW of La Ligua, Chile",earthquake,,4.2,0.15,13,reviewed,guc,us
+2014-05-21T09:00:53.210Z,-30.452,-71.311,36.2,5.1,mww,,,,0.75,us,usb000qxwk,2022-07-26T15:26:47.739Z,"19 km NNW of Ovalle, Chile",earthquake,,2.8,,,reviewed,guc,us
+2014-05-17T17:55:48.000Z,-32.028,-71.059,51.6,3.9,ml,,,,2.32,us,usb000qsr9,2014-08-09T02:53:47.000Z,"29 km SSW of Salamanca, Chile",earthquake,,5.6,,,reviewed,guc,guc
+2014-05-15T13:28:14.000Z,-32.136,-71.762,25,4.5,mb,,,,1.02,us,usb000qnn9,2014-08-09T02:53:43.000Z,"61 km NW of La Ligua, Chile",earthquake,,2.6,0.242,5,reviewed,guc,us
+2014-05-12T16:27:26.430Z,-29.566,-71.7309,30.78,4.5,mb,,119,1.01,0.85,us,usc000r931,2014-08-06T00:55:33.000Z,"57 km NW of Coquimbo, Chile",earthquake,,4.8,0.542,2,reviewed,us,us
+2014-03-14T12:22:34.000Z,-32.077,-71.549,72.4,4.6,mb,,,,0.83,us,usc000nb7x,2022-07-26T09:32:21.127Z,"51 km NW of La Ligua, Chile",earthquake,,4.6,0.067,81,reviewed,guc,us
+2014-03-09T15:48:43.000Z,-32.243,-71.587,25.4,4.5,mwr,,,,0.76,us,usc000n5y6,2014-05-15T02:23:56.000Z,"40 km NW of La Ligua, Chile",earthquake,,3.6,0.078,16,reviewed,guc,us
+2014-02-17T00:34:34.000Z,-31.712,-71.802,32.4,5.1,mb,,,,0.71,us,usc000mrq6,2022-07-26T07:21:19.889Z,"60 km W of Illapel, Chile",earthquake,,3.2,0.034,303,reviewed,guc,us
+2014-01-30T10:02:14.000Z,-32.118,-71.786,25.7,4.5,mwr,,,,1.1,us,usc000mdi2,2022-07-26T06:24:43.068Z,"64 km NW of La Ligua, Chile",earthquake,,1.7,0.098,10,reviewed,guc,us
+2014-01-01T23:42:15.000Z,-29.888,-71.621,40,4,ml,,,,3.09,us,usc000mnnn,2014-03-07T00:25:54.000Z,"28 km WNW of Coquimbo, Chile",earthquake,,10.1,,,reviewed,guc,guc
+2013-12-27T18:52:13.170Z,-32.089,-71.8492,17.29,4.8,mb,,115,1.13,1.05,us,usc000lsuy,2022-07-26T04:06:02.102Z,"70 km NW of La Ligua, Chile",earthquake,,3,0.111,,reviewed,us,us
+2013-12-26T08:12:35.560Z,-30.5631,-71.8188,37.14,4.2,mb,,153,0.963,1.19,us,usc000lypj,2014-02-28T08:44:08.000Z,"59 km W of Ovalle, Chile",earthquake,,9.9,0.304,,reviewed,us,us
+2013-12-18T23:51:49.000Z,-30.143,-71.991,57.5,4.1,ml,,,,2.87,us,usc000lnwm,2014-02-27T21:37:22.000Z,"66 km WSW of Coquimbo, Chile",earthquake,,6.8,,,reviewed,guc,guc
+2013-12-15T08:01:01.000Z,-30.771,-71.39,35.4,4.7,mb,,,,0.98,us,usc000lkzn,2014-02-21T23:00:55.000Z,"26 km SW of Ovalle, Chile",earthquake,,4.4,0.081,,reviewed,guc,us
+2013-12-06T21:00:42.000Z,-30.515,-71.982,2.4,4.6,mb,,,,1.16,us,usc000lhfq,2014-02-15T01:32:11.000Z,"75 km W of Ovalle, Chile",earthquake,,4.3,0.245,,reviewed,guc,us
+2013-12-06T03:19:23.000Z,-32.224,-71.886,34.8,4.6,mb,,,,1.27,us,usb000lcf7,2022-07-26T02:57:32.977Z,"66 km WNW of La Ligua, Chile",earthquake,,3.7,0.151,,reviewed,guc,us
+2013-11-21T08:28:54.000Z,-31.485,-71.893,26.8,4.3,mb,,,,1.43,us,usb000l78q,2014-02-11T02:18:53.000Z,"70 km WNW of Illapel, Chile",earthquake,,4.7,0.216,,reviewed,guc,us
+2013-11-01T02:45:59.000Z,-30.333,-71.428,50.2,4.6,mb,,,,1.05,us,usb000kyec,2014-01-10T10:03:40.000Z,"36 km NW of Ovalle, Chile",earthquake,,5.8,0.548,,reviewed,guc,us
+2013-10-31T23:03:59.720Z,-30.2921,-71.5215,27,6.6,mww,,31,0.636,1.28,us,usb000kqnc,2022-08-08T19:35:49.254Z,"41 km SSW of Coquimbo, Chile",earthquake,,1.7,,,reviewed,us,us
+2013-10-29T03:40:49.000Z,-30.705,-71.279,46.9,4.7,mb,,,,0.76,us,usc000kqeu,2014-01-10T10:03:34.000Z,"13 km SSW of Ovalle, Chile",earthquake,,5.4,0.093,,reviewed,guc,us
+2013-09-24T17:08:08.000Z,-29.833,-71.325,56.3,4.3,mb,,,,0.87,us,usb000jypx,2013-12-13T09:00:32.000Z,"10 km NW of La Serena, Chile",earthquake,,6.9,0.143,,reviewed,guc,us
+2013-09-13T10:56:08.000Z,-32.307,-71.208,69.4,4.3,mb,,,,1.19,us,usc000jtkg,2013-11-19T17:37:40.000Z,"16 km N of La Ligua, Chile",earthquake,,7,0.308,,reviewed,us_guc,us
+2013-07-28T02:04:47.940Z,-29.778,-72.108,9.5,4.1,mb,18,82,,1.29,us,usb000itml,2014-11-07T01:51:21.028Z,"76 km WNW of Coquimbo, Chile",earthquake,,2.5,,3,reviewed,us,us
+2013-07-26T23:13:03.000Z,-29.774,-72.093,41.3,4.3,mb,66,100,,,us,usc000iqag,2014-11-07T01:51:20.496Z,"Off the coast of Coquimbo, Chile",earthquake,,,,37,reviewed,guc,us
+2013-07-25T17:26:32.880Z,-31.514,-72.087,6.9,4.4,mb,11,147,,0.69,us,usb000it01,2014-11-07T01:51:20.203Z,"88 km W of Illapel, Chile",earthquake,,4,,2,reviewed,us,us
+2013-07-19T17:56:41.000Z,-29.961,-71.509,48.9,4.2,ml,19,100,,,us,usp000k25n,2014-11-07T01:51:18.433Z,"16 km W of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2013-06-28T02:08:14.100Z,-29.828,-71.598,5.2,4.5,mb,39,115,,0.68,us,usb000i2ag,2014-11-07T01:51:07.905Z,"28 km WNW of Coquimbo, Chile",earthquake,,1.7,,13,reviewed,us,us
+2013-06-27T23:23:40.520Z,-29.584,-71.497,35,4.6,mb,16,120,,1.18,us,usp000k1hm,2014-11-07T01:51:07.893Z,"42 km NW of La Serena, Chile",earthquake,,2.9,,5,reviewed,us,us
+2013-06-19T15:24:31.200Z,-30.013,-71.459,27.4,4.8,mb,41,115,,1.29,us,usc000huzi,2022-07-25T16:58:20.209Z,"13 km WSW of Coquimbo, Chile",earthquake,,4.9,,9,reviewed,us,us
+2013-06-19T13:48:39.560Z,-29.647,-71.266,45.3,4.1,ml,14,141,,0.86,us,us2013rqde,2014-11-07T01:51:06.031Z,"28 km N of La Serena, Chile",earthquake,,12.9,,,reviewed,us,guc
+2013-06-19T05:24:27.000Z,-30.726,-71.801,37.1,4,ml,13,100,,,us,usp000k1bh,2014-11-07T01:51:05.715Z,"59 km WSW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2013-06-18T22:43:19.000Z,-30.719,-71.771,42.9,4.1,ml,22,100,,,us,us2013rpc9,2014-11-07T01:51:05.671Z,"56 km WSW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2013-06-13T09:44:28.000Z,-29.794,-71.262,46.6,4,ml,8,100,,,us,usp000k17x,2014-11-07T01:51:04.038Z,"12 km N of La Serena, Chile",earthquake,,,,,reviewed,guc,guc
+2013-04-14T21:50:43.000Z,-30.735,-71.847,12.6,4.4,mb,20,100,,,us,usp000k07t,2014-11-07T01:50:34.096Z,"63 km WSW of Ovalle, Chile",earthquake,,,,6,reviewed,guc,us
+2013-04-08T08:50:09.000Z,-30.102,-71.213,69.9,4.5,mb,35,119.8,,,us,usb000g1zd,2022-07-24T23:01:42.237Z,"20 km SE of Coquimbo, Chile",earthquake,,,,4,reviewed,guc,us
+2013-03-18T19:17:54.000Z,-32.442,-71.756,28,4,ml,10,115.6,,,us,usp000jztg,2014-11-07T01:50:21.384Z,"49 km W of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2013-03-11T01:37:11.000Z,-30.411,-71.103,69.3,4.6,mb,27,135.9,,,us,usb000filv,2014-11-07T01:50:19.362Z,"22 km NNE of Ovalle, Chile",earthquake,,,,1,reviewed,guc,us
+2013-03-02T11:47:57.090Z,-30.418,-71.422,52.1,4.1,ml,11,183.6,,,us,us2013mgdk,2014-11-07T01:50:16.883Z,"29 km NW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2013-02-03T20:54:43.000Z,-32.335,-71.379,33.4,4.6,mb,44,114.8,,,us,usc000f0np,2014-11-07T01:50:00.329Z,"19 km NW of La Ligua, Chile",earthquake,,,,10,reviewed,guc,us
+2013-02-02T20:16:05.000Z,-31.126,-71.433,53,4.6,mb,52,113.2,,,us,usc000f06q,2014-11-07T01:49:59.927Z,"61 km NNW of Illapel, Chile",earthquake,,,,18,reviewed,guc,us
+2013-01-23T02:47:38.660Z,-31.699,-71.438,28.8,4.9,mwr,264,85.9,,0.8,us,usp000jyr4,2022-05-03T16:03:54.823Z,"26 km WSW of Illapel, Chile",earthquake,,,,,reviewed,us,us
+2013-01-07T08:13:36.000Z,-29.557,-71.039,36.4,4.4,mb,31,138.5,,,us,usp000jy0r,2014-11-07T01:49:47.416Z,"43 km NNE of La Serena, Chile",earthquake,,,,4,reviewed,guc,us
+2013-01-05T12:08:58.080Z,-30.306,-72.009,10,4.8,mb,85,114.7,,0.89,us,usp000jxvs,2015-03-24T02:39:58.273Z,"75 km WSW of Coquimbo, Chile",earthquake,,,,35,reviewed,us,us
+2012-12-28T13:50:34.000Z,-29.553,-71.068,39.7,4.5,mwr,38,84,,,us,usp000jxhb,2015-03-24T02:29:57.555Z,"42 km NNE of La Serena, Chile",earthquake,,,,,reviewed,guc,us
+2012-12-02T18:56:24.000Z,-29.656,-71.383,50.6,4.3,ml,11,182.3,,,us,usp000jwc6,2014-11-07T01:49:31.407Z,"30 km NNW of La Serena, Chile",earthquake,,,,,reviewed,guc,guc
+2012-12-02T07:37:06.000Z,-31.138,-71.335,57.4,4.3,ml,20,156.1,,,us,usp000jwba,2014-11-07T01:49:31.056Z,"57 km NNW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2012-11-15T23:41:02.000Z,-30.988,-71.171,65.8,4.2,mb,13,166.6,,,us,usp000jvnh,2014-11-07T01:49:23.325Z,"38 km SSW of Monte Patria, Chile",earthquake,,,,4,reviewed,guc,us
+2012-11-13T04:32:44.820Z,-30.374,-72.232,3.4,4,ml,31,130.7,,1.14,us,usp000jvgw,2014-11-07T01:49:22.158Z,"97 km WSW of Coquimbo, Chile",earthquake,,21.7,,,reviewed,us,guc
+2012-11-07T15:16:27.130Z,-30.78,-71.934,33.6,4.6,mb,26,120.1,,1.06,us,usp000jv5b,2014-11-07T01:49:19.040Z,"73 km WSW of Ovalle, Chile",earthquake,,4.5,,4,reviewed,us,us
+2012-11-04T17:35:47.000Z,-31.768,-71.857,36,4.6,ml,30,115.3,,,us,usp000jv1c,2014-11-07T01:49:18.201Z,"66 km WSW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2012-11-04T14:33:06.000Z,-31.729,-71.885,43,4.2,mb,31,115.3,,,us,usp000jv12,2014-11-07T01:49:18.167Z,"68 km W of Illapel, Chile",earthquake,,,,5,reviewed,guc,us
+2012-10-24T03:46:30.000Z,-31.698,-72.069,43.5,4.7,mb,33,134,,,us,usp000jucp,2014-11-07T01:49:08.327Z,"Off the coast of Coquimbo, Chile",earthquake,,,,6,reviewed,guc,us
+2012-10-20T00:25:48.000Z,-32.251,-72.141,21.7,4.3,mwr,37,80.2,,,us,usp000ju6p,2014-11-07T01:49:07.111Z,"88 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,us
+2012-10-19T22:48:18.230Z,-31.758,-71.95,10,4.5,mwr,39,115.3,,1.28,us,usp000ju6k,2014-11-07T01:49:07.103Z,"75 km W of Illapel, Chile",earthquake,,,,,reviewed,us,us
+2012-10-19T05:35:22.000Z,-31.793,-72.024,42.5,4,ml,16,192,,,us,usp000ju5h,2014-11-07T01:49:06.931Z,"82 km WSW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2012-10-18T04:37:59.680Z,-31.827,-72.034,28.8,4.5,mb,28,115.3,,0.96,us,usp000ju45,2014-11-07T01:49:06.736Z,"84 km WSW of Illapel, Chile",earthquake,,13.1,,2,reviewed,us,us
+2012-10-15T21:04:20.600Z,-31.814,-71.787,24,5,mwr,203,106.4,,0.89,us,usp000ju19,2022-05-03T15:52:43.121Z,"61 km WSW of Illapel, Chile",earthquake,,9.5,,,reviewed,us,us
+2012-10-08T01:41:34.000Z,-32.311,-71.769,10.6,4.1,ml,20,163.2,,,us,usp000jtqc,2014-11-07T01:49:03.632Z,"52 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2012-10-06T22:49:38.000Z,-32.127,-71.86,7.2,4.1,mwr,31,117.4,,,us,usp000jtnp,2014-11-07T01:49:03.364Z,"69 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,us
+2012-10-06T03:18:15.210Z,-32.132,-72.107,9.2,4.6,mb,44,115.4,,0.95,us,usp000jtmm,2015-03-24T02:18:22.390Z,"89 km WNW of La Ligua, Chile",earthquake,,13.4,,7,reviewed,us,us
+2012-10-01T08:06:29.000Z,-30.786,-71.184,55.5,4.6,mb,46,115.2,,,us,usp000jtb2,2015-03-24T01:33:07.412Z,"20 km S of Ovalle, Chile",earthquake,,,,20,reviewed,guc,us
+2012-08-28T08:11:25.000Z,-32.418,-71.169,44.3,4.8,mb,219,59.6,,,us,usp000jqz4,2022-08-08T23:06:01.172Z,"6 km ENE of La Ligua, Chile",earthquake,,,,116,reviewed,guc,us
+2012-07-17T22:03:26.000Z,-31.298,-71.21,51.8,4,mb,23,140.5,,,us,usp000jp4t,2014-11-07T01:48:20.798Z,"37 km N of Illapel, Chile",earthquake,,,,4,reviewed,guc,us
+2012-06-23T18:14:21.000Z,-31.58,-71.856,42.3,4.7,mb,24,141.7,,1.24,us,usp000jn50,2014-11-07T01:48:08.258Z,"65 km W of Illapel, Chile",earthquake,,8.5,,1,reviewed,us,us
+2012-06-08T01:38:24.360Z,-29.657,-72.753,10,4.2,mb,41,112,,1.06,us,usp000jmge,2014-11-07T01:48:01.908Z,"140 km WNW of Coquimbo, Chile",earthquake,,,,8,reviewed,us,us
+2012-06-07T07:40:54.000Z,-31.643,-71.219,35.6,4.7,mb,70,114.6,,,us,usp000jmf7,2014-11-07T01:48:01.637Z,"4 km WSW of Illapel, Chile",earthquake,,,,39,reviewed,guc,us
+2012-05-22T06:22:01.000Z,-32.244,-71.691,31,4.3,mb,26,146.1,,,us,usp000jks9,2014-11-07T01:47:51.101Z,"49 km WNW of La Ligua, Chile",earthquake,,,,2,reviewed,guc,us
+2012-05-21T11:13:33.000Z,-30.994,-71.648,58.9,4.4,mb,35,115.1,,,us,usp000jkr3,2014-11-07T01:47:50.778Z,"61 km SW of Ovalle, Chile",earthquake,,,,4,reviewed,guc,us
+2012-05-20T03:32:00.000Z,-30.782,-71.353,47.9,4.1,ml,21,115.1,,,us,usp000jkng,2014-11-07T01:47:49.686Z,"24 km SW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2012-05-01T20:52:13.600Z,-30.813,-71.935,22.2,4.8,mb,37,115.7,,1.17,us,usp000jjvs,2014-11-07T01:47:42.547Z,"74 km WSW of Ovalle, Chile",earthquake,,14.6,,7,reviewed,us,us
+2012-04-30T07:39:45.560Z,-29.868,-71.46,37,5.6,mww,446,22.5,,0.75,us,usp000jjt6,2022-05-03T15:38:02.429Z,"14 km NW of Coquimbo, Chile",earthquake,,3.4,,,reviewed,us,us
+2012-04-19T01:14:06.000Z,-30.868,-71.188,65.1,4.7,mb,64,111.3,,,us,usp000jj78,2015-03-24T01:57:01.074Z,"29 km SW of Monte Patria, Chile",earthquake,,,,24,reviewed,guc,us
+2012-04-19T00:35:25.000Z,-32.447,-71.77,30.5,4.1,ml,13,156.7,,,us,usp000jj75,2014-11-07T01:47:34.141Z,"50 km W of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2012-04-15T18:58:20.820Z,-32.385,-71.94,27,4.4,mb,18,107.8,,1.09,us,usp000jj18,2014-11-07T01:47:32.523Z,"67 km W of La Ligua, Chile",earthquake,,21.2,,1,reviewed,us,us
+2012-04-01T19:09:57.000Z,-31.908,-71.322,65,4.9,mb,67,95.4,,,us,usp000jh3v,2015-03-24T01:27:57.852Z,"33 km SSW of Illapel, Chile",earthquake,,,,23,reviewed,guc,us
+2012-03-30T04:37:47.000Z,-30.091,-71.536,16.3,4,ml,21,112.6,,,us,usp000jgz5,2014-11-07T01:47:20.415Z,"24 km SW of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2012-03-03T11:01:47.250Z,-30.348,-71.129,49,5.3,mwc,330,50.8,,0.79,us,usp000jfqw,2022-05-03T15:32:32.440Z,"28 km NNE of Ovalle, Chile",earthquake,,,,,reviewed,us,gcmt
+2012-02-27T23:23:10.000Z,-29.519,-71.141,46.2,3.8,ml,9,231.9,,,us,usp000jfh7,2014-11-07T01:47:05.367Z,"43 km NNE of La Serena, Chile",earthquake,,,,,reviewed,guc,guc
+2012-02-18T17:44:47.990Z,-32.097,-71.771,18,4.9,mb,26,184.9,,0.77,us,usp000jf2z,2014-11-07T01:47:02.314Z,"64 km NW of La Ligua, Chile",earthquake,,4.4,,4,reviewed,us,us
+2012-02-10T04:07:51.000Z,-30.735,-71.222,38.1,4.1,ml,18,115.2,,,us,usp000jerz,2014-11-07T01:46:59.971Z,"15 km S of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2012-02-10T02:05:22.100Z,-30.791,-71.304,56.8,4.9,mb,100,114.2,,0.93,us,usp000jert,2022-05-03T15:30:19.819Z,"23 km SSW of Ovalle, Chile",earthquake,,4.9,,51,reviewed,us,us
+2012-01-24T17:07:54.730Z,-31.768,-71.998,35,4.5,ml,16,164,,1.17,us,usp000jdxf,2014-11-07T01:46:50.079Z,"79 km W of Illapel, Chile",earthquake,,,,,reviewed,us,guc
+2012-01-19T08:22:49.000Z,-32.223,-71.318,72.2,4,ml,12,115.7,,,us,usp000jdpw,2014-11-07T01:46:48.289Z,"26 km NNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2012-01-19T07:10:18.000Z,-31.654,-71.576,39,4.9,mb,76,114.5,,,us,usp000jdpm,2015-03-24T01:24:55.196Z,"38 km W of Illapel, Chile",earthquake,,,,32,reviewed,guc,us
+2012-01-18T03:17:13.000Z,-31.642,-71.681,65.1,4.7,mb,25,113.5,,,us,usp000jdmu,2014-11-07T01:46:47.904Z,"48 km W of Illapel, Chile",earthquake,,,,4,reviewed,guc,us
+2012-01-17T23:26:01.000Z,-31.717,-71.703,37.8,4.9,mb,52,106.9,,,us,usp000jdmp,2014-11-07T01:46:47.882Z,"51 km W of Illapel, Chile",earthquake,,,,19,reviewed,guc,us
+2012-01-17T23:23:23.000Z,-31.728,-71.615,34.3,5.3,mb,73,105.5,,,us,usp000jdmn,2022-05-03T15:28:30.542Z,"43 km WSW of Illapel, Chile",earthquake,,,,34,reviewed,guc,us
+2012-01-17T23:21:35.040Z,-31.655,-71.499,32.9,5.6,mww,358,60.6,,0.87,us,usp000jdmm,2022-08-09T03:22:50.021Z,"31 km W of Illapel, Chile",earthquake,,7.3,,,reviewed,us,us
+2012-01-17T15:08:58.180Z,-31.073,-71.207,66.6,4.1,ml,9,163,,0.36,us,usp000jdm8,2014-11-07T01:46:47.797Z,"48 km SSW of Monte Patria, Chile",earthquake,,9.1,,,reviewed,us,guc
+2011-12-05T19:47:51.580Z,-31.508,-71.824,22.1,4.9,mb,39,140.8,,0.92,us,usp000jbvh,2014-11-07T01:46:31.422Z,"63 km WNW of Illapel, Chile",earthquake,,11.8,,4,reviewed,us,us
+2011-12-05T06:06:29.000Z,-32.093,-71.537,30.7,4.6,mb,32,113,,,us,usp000jbuj,2014-11-07T01:46:31.216Z,"49 km NW of La Ligua, Chile",earthquake,,,,11,reviewed,guc,us
+2011-11-03T13:46:33.000Z,-31.303,-72.38,14.8,4.3,mb,16,150.5,,,us,usp000ja9t,2014-11-07T01:46:17.029Z,"120 km WNW of Illapel, Chile",earthquake,,,,1,reviewed,guc,us
+2011-11-03T09:57:21.510Z,-31.342,-72.066,10,4.6,mb,24,152,,1.23,us,usp000ja9h,2014-11-07T01:46:16.902Z,"91 km WNW of Illapel, Chile",earthquake,,,,10,reviewed,us,us
+2011-11-03T01:51:40.000Z,-31.396,-71.965,26.3,5,mb,57,132.1,,,us,usp000ja95,2015-03-24T01:22:16.166Z,"80 km WNW of Illapel, Chile",earthquake,,,,20,reviewed,guc,us
+2011-10-16T10:39:47.000Z,-32.486,-71.459,48.1,4.9,mb,236,49,,,us,usp000j9dy,2015-03-24T01:46:23.000Z,"Near the coast of Valparaiso, Chile",earthquake,,,,164,reviewed,guc,us
+2011-10-15T22:14:10.000Z,-30.008,-71.279,85,4.5,mb,50,73.9,,,us,usp000j9cz,2015-03-24T02:20:59.921Z,"8 km SE of Coquimbo, Chile",earthquake,,,,21,reviewed,guc,us
+2011-10-15T06:04:57.030Z,-30.554,-71.881,36.5,4.6,mb,13,155.7,,1.18,us,usp000j9c5,2014-11-07T01:46:06.842Z,"65 km W of Ovalle, Chile",earthquake,,13.1,,2,reviewed,us,us
+2011-09-28T17:07:57.420Z,-29.681,-71.095,40.3,4.9,mb,17,119.6,,0.93,us,usp000j8pf,2014-11-07T01:45:57.832Z,"28 km NNE of La Serena, Chile",earthquake,,17.5,,2,reviewed,us,us
+2011-09-23T10:00:53.000Z,-31.255,-71.501,13.1,3.9,ml,17,120.4,,,us,usp000j8f2,2014-11-07T01:45:56.714Z,"52 km NW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2011-09-05T03:18:15.000Z,-30.814,-72.091,30.3,4.4,mb,13,194.9,,,us,usp000j7mm,2014-11-07T01:45:50.232Z,"88 km WSW of Ovalle, Chile",earthquake,,,,1,reviewed,guc,us
+2011-08-27T09:23:40.640Z,-31.623,-71.17,52.4,4.9,mb,90,80.5,,0.79,us,usp000j73z,2014-11-07T01:45:43.822Z,"1 km N of Illapel, Chile",earthquake,,6,,24,reviewed,us,us
+2011-08-25T03:28:02.000Z,-32.467,-71.54,12.7,3.7,ml,8,196.9,,,us,usp000j702,2014-11-07T01:45:42.320Z,"29 km W of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2011-08-23T10:54:55.000Z,-31.241,-71.887,24.7,4.2,ml,16,120.3,,,us,usp000j6x0,2014-11-07T01:45:41.465Z,"80 km WNW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2011-08-21T04:33:07.000Z,-30.139,-71.448,49.5,4.3,mb,28,147.1,,,us,usp000j6t1,2014-11-07T01:45:39.857Z,"23 km SSW of Coquimbo, Chile",earthquake,,,,15,reviewed,guc,us
+2011-08-21T00:00:47.000Z,-30.792,-71.236,57.1,3.7,mb,16,152.5,,,us,usp000j6se,2014-11-07T01:45:39.617Z,"21 km S of Ovalle, Chile",earthquake,,,,1,reviewed,guc,us
+2011-08-16T00:57:08.000Z,-32.442,-71.378,22,3.6,ml,18,154.3,,,us,usp000j6h8,2014-11-07T01:45:36.958Z,"13 km W of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2011-08-13T19:07:20.310Z,-30.387,-71.779,34.3,3.9,ml,21,159.4,,1.13,us,usp000j6e3,2014-11-07T01:45:36.293Z,"60 km WNW of Ovalle, Chile",earthquake,,17.1,,,reviewed,us,guc
+2011-08-04T02:13:28.000Z,-30.526,-72.155,38.3,4.3,mb,15,150.1,,,us,usp000j5y0,2014-11-07T01:45:33.648Z,"92 km W of Ovalle, Chile",earthquake,,,,1,reviewed,guc,us
+2011-06-29T08:22:13.000Z,-32.237,-71.337,42.6,5,mb,173,79.3,,,us,usp000j3xt,2022-08-08T23:16:40.878Z,"25 km NNW of La Ligua, Chile",earthquake,,,,109,reviewed,guc,us
+2011-06-22T08:41:25.270Z,-30.822,-71.365,43.8,4.2,mb,17,120.2,,1.1,us,usp000j3jg,2014-11-07T01:45:08.917Z,"29 km SSW of Ovalle, Chile",earthquake,,11,,2,reviewed,us,us
+2011-06-17T01:52:15.000Z,-30.624,-71.495,37.2,4,mb,17,116.3,,,us,usp000j39z,2014-11-07T01:45:06.374Z,"28 km W of Ovalle, Chile",earthquake,,,,3,reviewed,guc,us
+2011-06-15T10:29:55.000Z,-30.852,-71.292,43.3,4.2,mb,5,207.9,,,us,usp000j371,2014-11-07T01:45:05.939Z,"29 km SSW of Ovalle, Chile",earthquake,,,,2,reviewed,guc,us
+2011-06-13T05:19:55.000Z,-32.418,-71.222,45.6,4.7,mb,46,115.8,,,us,usp000j33j,2022-07-19T17:38:43.984Z,"3 km NNE of La Ligua, Chile",earthquake,,,,21,reviewed,guc,us
+2011-05-24T19:38:23.540Z,-31.288,-71.947,18.2,4.4,mb,23,156.6,,0.64,us,usp000j25g,2014-11-07T01:44:54.911Z,"83 km WNW of Illapel, Chile",earthquake,,14.3,,4,reviewed,us,us
+2011-04-22T00:08:20.000Z,-30.816,-71.616,42,4.4,mb,28,144.7,,,us,usp000j0cu,2014-11-07T01:44:36.273Z,"46 km WSW of Ovalle, Chile",earthquake,,,,9,reviewed,guc,us
+2011-04-20T20:55:06.020Z,-31.589,-71.079,63.4,4.8,mb,18,120.7,,1,us,usp000j0b2,2014-11-07T01:44:35.860Z,"9 km ENE of Illapel, Chile",earthquake,,9.8,,1,reviewed,us,us
+2011-03-17T00:55:02.000Z,-32.5,-71.61,30.8,5.1,mb,207,111.5,,,us,usp000hxkr,2022-07-19T08:59:12.056Z,"36 km W of La Ligua, Chile",earthquake,,,,127,reviewed,guc,us
+2011-03-06T05:51:54.000Z,-31.575,-71.367,65.1,4.2,m,13,115.4,,,us,usp000hvdr,2014-11-07T01:43:52.046Z,"19 km WNW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2011-03-05T15:12:49.000Z,-30.719,-71.817,41.8,4.6,mb,33,114.9,,,us,usp000hvct,2014-11-07T01:43:51.877Z,"60 km WSW of Ovalle, Chile",earthquake,,,,7,reviewed,guc,us
+2011-02-11T22:20:40.000Z,-31.62,-71.279,31.4,4.1,mb,17,266.4,,,us,usp000hucf,2014-11-07T01:43:39.338Z,"10 km W of Illapel, Chile",earthquake,,,,15,reviewed,guc,us
+2011-02-07T00:29:48.000Z,-31.725,-71.707,34.3,4.1,mb,10,156.4,,,us,usp000hu69,2014-11-07T01:43:37.879Z,"51 km W of Illapel, Chile",earthquake,,,,3,reviewed,guc,us
+2011-02-03T16:01:54.800Z,-30.067,-71.655,23.1,4.7,mb,19,119.7,,0.83,us,usp000hu12,2014-11-07T01:43:36.504Z,"32 km WSW of Coquimbo, Chile",earthquake,,18.6,,3,reviewed,us,us
+2011-01-30T21:48:28.000Z,-29.881,-71.503,50,4.8,mb,138,97.7,,,us,usp000htvn,2022-08-08T23:07:55.637Z,"17 km WNW of Coquimbo, Chile",earthquake,,,,69,reviewed,guc,us
+2011-01-26T20:13:42.690Z,-31.646,-71.817,12.8,4.8,mb,35,114.8,,0.91,us,usp000htpe,2014-11-07T01:43:30.150Z,"61 km W of Illapel, Chile",earthquake,,18.5,,3,reviewed,us,us
+2011-01-23T06:21:48.000Z,-32.034,-71.849,21.9,4.5,mb,22,115.4,,,us,usp000hthr,2014-11-07T01:43:28.783Z,"Near the coast of Valparaiso, Chile",earthquake,,,,1,reviewed,guc,us
+2011-01-17T23:29:49.000Z,-30.321,-71.508,65,5,mwc,162,82.3,,,us,usp000ht9m,2022-07-19T02:27:55.908Z,"42 km NW of Ovalle, Chile",earthquake,,,,,reviewed,guc,gcmt
+2010-12-23T04:24:01.000Z,-32.075,-71.95,31.8,4.3,ml,15,120.4,,,us,usp000hrn7,2014-11-07T01:43:12.895Z,"79 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2010-12-22T14:26:43.280Z,-31.931,-71.041,53.3,3.8,mb,17,118,,1.28,us,usp000hrjj,2014-11-07T01:43:12.402Z,"18 km SSW of Salamanca, Chile",earthquake,,,,1,reviewed,us,us
+2010-12-16T05:59:51.000Z,-29.693,-71.104,28.4,4.5,mb,6,189.9,,,us,usp000hqzd,2014-11-07T01:43:08.131Z,"27 km NNE of La Serena, Chile",earthquake,,,,3,reviewed,guc,us
+2010-12-03T10:23:05.000Z,-31.534,-71.843,47.2,4.5,m,20,115.2,,,us,usp000hqfa,2014-11-07T01:43:03.611Z,"64 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2010-11-30T01:59:44.000Z,-29.728,-71.651,44.9,4.8,mb,105,83,,,us,usp000hqat,2014-11-07T01:42:59.114Z,"39 km NW of Coquimbo, Chile",earthquake,,,,63,reviewed,guc,us
+2010-11-26T00:38:58.000Z,-32.499,-71.714,49.5,4.1,m,13,163,,,us,usp000hq43,2014-11-07T01:42:58.147Z,"Near the coast of Valparaiso, Chile",earthquake,,,,,reviewed,guc,guc
+2010-11-23T05:02:21.000Z,-31.252,-71.035,94.2,4.8,mb,70,81.3,,,us,usp000hpzv,2022-07-19T00:32:48.593Z,"44 km NNE of Illapel, Chile",earthquake,,,,19,reviewed,guc,us
+2010-10-28T13:21:28.000Z,-29.637,-71.086,38.3,4.1,ml,12,162.7,,,us,usp000hnq4,2014-11-07T01:42:46.601Z,"33 km NNE of La Serena, Chile",earthquake,,,,,reviewed,guc,guc
+2010-10-24T22:56:27.000Z,-29.959,-71.417,37.2,3.8,mb,15,119.7,,,us,usp000hnh5,2014-11-07T01:42:45.308Z,"7 km W of Coquimbo, Chile",earthquake,,,,2,reviewed,guc,us
+2010-10-23T01:38:14.000Z,-29.593,-71.112,44,5.6,mwc,271,71.2,,,us,usp000hnea,2022-07-18T22:48:56.761Z,"36 km NNE of La Serena, Chile",earthquake,,,,,reviewed,guc,gcmt
+2010-10-18T22:17:56.000Z,-31.704,-71.527,21.8,4.2,ml,21,149.4,,,us,usp000hn8r,2014-11-07T01:42:43.737Z,"34 km WSW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2010-07-18T02:43:43.550Z,-30.75,-71.284,44.7,4.7,mb,103,81.8,,0.74,us,usp000hfdj,2022-07-18T16:33:13.060Z,"18 km SSW of Ovalle, Chile",earthquake,,,,54,reviewed,us,us
+2010-07-15T04:19:23.000Z,-29.87,-71.529,49.8,4.5,mb,56,114.7,,,us,usp000hfab,2022-07-18T16:17:52.568Z,"20 km WNW of Coquimbo, Chile",earthquake,,,,25,reviewed,guc,us
+2010-07-01T06:50:56.820Z,-31.882,-72.804,35,4.6,mb,57,83.2,,0.59,us,usp000hes0,2014-11-07T01:41:48.393Z,"157 km W of Illapel, Chile",earthquake,,,,27,reviewed,us,us
+2010-06-21T04:01:26.300Z,-31.516,-72.024,28.6,4.8,mb,33,145,,0.66,us,usp000hebb,2014-11-07T01:41:43.388Z,"82 km W of Illapel, Chile",earthquake,,16.4,,13,reviewed,us,us
+2010-06-11T04:09:31.000Z,-29.88,-71.353,47.6,4.1,mb,6,190.1,,,us,usp000hdu2,2014-11-07T01:41:39.994Z,"8 km N of Coquimbo, Chile",earthquake,,,,2,reviewed,guc,us
+2010-05-13T14:29:05.000Z,-31.56,-71.4,48.7,4,mb,5,191.8,,,us,usp000hcq6,2014-11-07T01:41:29.083Z,"23 km WNW of Illapel, Chile",earthquake,,,,1,reviewed,guc,us
+2010-05-07T14:14:58.000Z,-30.637,-71.421,56.6,4,mb,6,196.2,,,us,usp000hcev,2014-11-07T01:41:27.646Z,"21 km W of Ovalle, Chile",earthquake,,,,2,reviewed,guc,us
+2010-05-01T13:07:45.660Z,-30.739,-71.388,62.3,4.4,mb,20,120.1,,1.14,us,usp000hc5k,2014-11-07T01:41:24.482Z,"23 km SW of Ovalle, Chile",earthquake,,10.1,,2,reviewed,us,us
+2010-04-22T16:52:33.390Z,-30.727,-72.199,35,4.5,mb,11,206.9,,1.21,us,usp000hbsk,2014-11-07T01:41:18.549Z,"96 km W of Ovalle, Chile",earthquake,,0,,2,reviewed,us,us
+2010-04-19T22:15:30.000Z,-32.465,-71.692,32.4,4,mb,23,115.7,,,us,usp000hbp3,2014-11-07T01:41:17.937Z,"43 km W of La Ligua, Chile",earthquake,,,,2,reviewed,guc,us
+2010-04-19T08:51:18.140Z,-32.384,-71.614,50.1,4,mb,16,155.8,,0.85,us,usp000hbnj,2014-11-07T01:41:17.872Z,"36 km WNW of La Ligua, Chile",earthquake,,9.3,,4,reviewed,us,us
+2010-04-08T10:42:44.300Z,-29.982,-71.378,39.4,4.7,mb,30,114.8,,,us,usp000hayx,2014-11-07T01:41:13.898Z,"Near the coast of Coquimbo, Chile",earthquake,,,,2,reviewed,guc,us
+2010-04-07T19:35:45.400Z,-30.653,-71.143,39.9,2.9,m,4,202.1,,,us,usp000hawr,2014-11-07T01:41:13.666Z,"7 km SE of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2010-04-06T08:45:19.700Z,-30.055,-71.576,30.2,4.2,mb,21,119.7,,,us,usp000haqv,2014-11-07T01:41:12.959Z,"25 km WSW of Coquimbo, Chile",earthquake,,,,2,reviewed,guc,us
+2010-04-04T22:39:08.800Z,-32.054,-71.414,30.5,3.8,ml,12,155.8,,,us,usp000habt,2014-11-07T01:41:11.186Z,"47 km NNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2010-03-19T11:04:45.000Z,-32.321,-71.302,42.9,3.7,mb,13,121,,,us,usp000h9pp,2014-11-07T01:41:03.466Z,"16 km NNW of La Ligua, Chile",earthquake,,,,2,reviewed,guc,us
+2010-03-05T21:15:48.600Z,-29.934,-71.917,31.7,5.2,mb,42,114.5,,,us,usp000h8sn,2022-07-16T05:15:20.746Z,"55 km W of Coquimbo, Chile",earthquake,,,,4,reviewed,guc,us
+2010-02-27T14:45:45.410Z,-31.457,-72.313,35,4.1,mb,13,121.1,,0.82,us,usp000h7xp,2014-11-07T01:40:46.619Z,"110 km W of Illapel, Chile",earthquake,,,,2,reviewed,us,us
+2010-02-27T06:58:28.080Z,-31.72,-72.156,35,5.2,mb,13,115.2,,1.29,us,usp000h7rp,2014-11-07T01:40:45.420Z,"94 km W of Illapel, Chile",earthquake,,,,4,reviewed,us,us
+2010-02-17T09:44:49.000Z,-29.997,-72.663,31.8,4.4,ml,13,166.9,,,us,usp000h7cx,2014-11-07T01:40:43.105Z,"127 km W of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2010-02-09T07:48:10.720Z,-31.101,-71.52,66.5,4.5,mb,60,113.3,,0.9,us,usp000h73n,2022-07-16T02:11:13.964Z,"63 km SSW of Ovalle, Chile",earthquake,,,,19,reviewed,us,us
+2010-01-12T00:30:20.000Z,-29.922,-71.616,31.3,4.3,ml,6,221.9,,,us,usp000h5zd,2014-11-07T01:40:26.540Z,"26 km W of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2010-01-11T23:01:52.700Z,-29.923,-71.591,10.9,4,ml,4,230.7,,,us,usp000h5z6,2014-11-07T01:40:26.514Z,"24 km W of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2009-12-27T09:13:01.100Z,-32.033,-71.349,61.8,4.6,mb,39,115.6,,,us,usp000h5de,2014-11-07T01:40:18.898Z,"46 km SW of Salamanca, Chile",earthquake,,,,10,reviewed,guc,us
+2009-12-10T21:42:35.000Z,-32.054,-71.507,27.2,3.6,ml,10,196.7,,,us,usp000h4xw,2014-11-07T01:40:15.683Z,"51 km NNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2009-10-19T06:37:23.700Z,-30.371,-71.225,67.9,4.1,m,10,183.3,,,us,usp000h35m,2014-11-07T01:39:57.036Z,"25 km N of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2009-09-26T06:39:27.340Z,-32.36,-71.699,43.3,4.5,mb,63,113.8,,0.82,us,usp000h1vq,2022-07-15T18:12:02.334Z,"45 km WNW of La Ligua, Chile",earthquake,,7.4,,24,reviewed,us,us
+2009-09-25T15:47:23.750Z,-32.107,-71.608,47.5,5.1,mwc,74,117.2,,1.02,us,usp000h1v3,2022-07-15T18:09:47.922Z,"52 km NW of La Ligua, Chile",earthquake,,4.1,,,reviewed,us,gcmt
+2009-09-25T02:04:36.270Z,-32.369,-71.752,52.2,4.4,mb,56,99.6,,0.91,us,usp000h1un,2014-11-07T01:39:44.678Z,"49 km W of La Ligua, Chile",earthquake,,7.9,,22,reviewed,us,us
+2009-09-20T01:00:36.550Z,-32.301,-72.079,28.2,4,mb,29,98.5,,0.99,us,usp000h1pp,2014-11-07T01:39:43.703Z,"81 km WNW of La Ligua, Chile",earthquake,,18.3,,8,reviewed,us,us
+2009-09-11T00:04:26.430Z,-32.444,-71.79,36.4,4.7,mb,19,150.2,,1.12,us,usp000h1dm,2014-11-07T01:39:41.758Z,"52 km W of La Ligua, Chile",earthquake,,10.5,,3,reviewed,us,us
+2009-08-23T19:43:51.000Z,-29.753,-71.519,45,4.6,mb,21,119.6,,,us,usp000h0sw,2014-11-07T01:39:33.352Z,"28 km NW of Coquimbo, Chile",earthquake,,,,5,reviewed,guc,us
+2009-08-13T16:29:55.500Z,-31.07,-71.408,45.9,4.4,mb,30,120.3,,,us,usp000h0ad,2014-11-07T01:39:30.371Z,"55 km SSW of Ovalle, Chile",earthquake,,,,2,reviewed,guc,us
+2009-08-08T13:56:08.000Z,-31.817,-71.287,47.3,3.5,m,5,214.4,,,us,usp000h03u,2014-11-07T01:39:29.076Z,"23 km SSW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2009-08-06T01:20:33.900Z,-32.406,-71.643,18.6,4,mb,26,121,,,us,usp000h00x,2014-11-07T01:39:28.144Z,"39 km W of La Ligua, Chile",earthquake,,,,3,reviewed,guc,us
+2009-08-05T16:34:35.200Z,-30.707,-71.318,43.4,4.2,m,4,231.6,,,us,usp000h00g,2014-11-07T01:39:28.070Z,"16 km SW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2009-07-30T07:15:19.100Z,-30.695,-71.286,41.9,4.2,md,11,199.7,,,us,usp000gzt9,2014-11-07T01:39:23.165Z,"13 km SW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2009-07-12T14:43:50.300Z,-30.653,-71.147,59.1,5.2,mwc,140,97.1,,0.85,us,usp000gz5m,2022-07-15T13:47:56.219Z,"7 km SE of Ovalle, Chile",earthquake,,3.8,,,reviewed,us,gcmt
+2009-07-02T08:13:29.900Z,-32.459,-71.873,29.9,4.1,mb,32,150.3,,,us,usp000gyv7,2014-11-07T01:39:15.888Z,"60 km W of La Ligua, Chile",earthquake,,,,3,reviewed,guc,us
+2009-06-29T04:08:39.100Z,-31.749,-71.633,32.3,4.1,ml,18,192.2,,,us,usp000gyqv,2014-11-07T01:39:12.334Z,"45 km WSW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2009-06-26T13:05:33.000Z,-31.735,-71.392,41.8,4.4,mb,53,102.6,,,us,usp000gymp,2014-11-07T01:39:11.790Z,"23 km WSW of Illapel, Chile",earthquake,,,,11,reviewed,guc,us
+2009-06-19T20:35:52.000Z,-30.763,-71.263,58.7,4.5,mb,41,120.2,,,us,usp000gycz,2014-11-07T01:39:10.608Z,"18 km SSW of Ovalle, Chile",earthquake,,,,12,reviewed,guc,us
+2009-06-13T21:22:06.670Z,-30.647,-71.631,28.1,5,mwc,95,113.4,,0.75,us,usp000gy5h,2022-07-15T11:52:20.666Z,"41 km W of Ovalle, Chile",earthquake,,,,,reviewed,us,gcmt
+2009-05-31T14:40:09.900Z,-29.755,-71.177,34.5,4,ml,13,179.3,,,us,usp000gxr0,2014-11-07T01:39:02.407Z,"Near the coast of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2009-04-29T16:24:40.770Z,-29.999,-71.392,43.6,4.8,mb,84,72.6,,0.78,us,usp000gwp7,2022-08-08T23:10:03.027Z,"7 km SW of Coquimbo, Chile",earthquake,,,,42,reviewed,us,us
+2009-04-22T10:05:47.300Z,-31.137,-71.185,65.8,4,md,6,171.3,,,us,usp000gwg0,2014-11-07T01:38:49.334Z,"53 km SSW of Monte Patria, Chile",earthquake,,,,,reviewed,guc,guc
+2009-04-17T18:17:53.000Z,-30.726,-71.418,43.1,4,m,7,196.7,,,us,usp000gw9w,2014-11-07T01:38:47.852Z,"25 km WSW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2009-04-17T01:11:35.300Z,-29.863,-71.39,58.5,4.2,mb,19,187.6,,,us,usp000gw8a,2014-11-07T01:38:47.549Z,"11 km NNW of Coquimbo, Chile",earthquake,,,,1,reviewed,guc,us
+2009-04-02T17:39:27.780Z,-29.785,-71.512,35,4.2,mb,40,114.6,,0.98,us,usp000gvpd,2014-11-07T01:38:42.570Z,"25 km NW of Coquimbo, Chile",earthquake,,,,4,reviewed,us,us
+2009-03-19T00:33:38.500Z,-31.772,-71.882,28.1,4.8,mb,66,115.3,,,us,usp000gv4k,2014-11-07T01:38:36.143Z,"69 km WSW of Illapel, Chile",earthquake,,,,10,reviewed,guc,us
+2009-03-06T21:03:57.400Z,-31.269,-72.172,8.1,4.4,mb,35,115,,0.8,us,usp000guq1,2014-11-07T01:38:33.003Z,"103 km WNW of Illapel, Chile",earthquake,,7.8,,3,reviewed,us,us
+2009-02-20T21:09:03.000Z,-31.85,-71.558,60.9,3.8,md,15,115.5,,,us,usp000gu7v,2014-11-07T01:38:25.544Z,"43 km WSW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2009-02-17T19:24:42.010Z,-31.521,-71.485,47.5,4.4,mb,25,134.8,,1.08,us,usp000gu43,2014-11-07T01:38:24.942Z,"32 km WNW of Illapel, Chile",earthquake,,9.7,,6,reviewed,us,us
+2009-01-13T17:17:13.640Z,-29.549,-71.224,60.5,5.1,mb,151,83.8,,0.87,us,usp000gsj3,2022-07-15T03:24:02.295Z,"39 km N of La Serena, Chile",earthquake,,,,84,reviewed,us,us
+2009-01-02T21:12:56.000Z,-30.122,-72.191,26,4.2,mb,21,156.9,,,us,usp000gs18,2014-11-07T01:38:08.714Z,"84 km WSW of Coquimbo, Chile",earthquake,,,,1,reviewed,guc,us
+2008-12-31T01:50:13.200Z,-31.082,-71.407,46.5,2.6,m,4,204.2,,,us,usp000grwa,2014-11-07T01:38:04.802Z,"56 km SSW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2008-12-29T16:44:06.400Z,-31.719,-71.7,30.7,3.4,ml,11,200.2,,,us,usp000grsx,2014-11-07T01:38:04.225Z,"51 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2008-12-28T07:54:58.900Z,-32.227,-71.723,32.6,2.6,ml,10,204.2,,,us,usp000grpx,2014-11-07T01:38:03.716Z,"52 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-12-28T07:17:29.900Z,-32.228,-71.716,27.3,2.5,ml,4,272.3,,,us,usp000grpw,2014-11-07T01:38:03.715Z,"51 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-12-28T03:40:20.700Z,-32.243,-71.753,25,3.1,ml,9,203.1,,,us,usp000grp3,2014-11-07T01:38:03.649Z,"54 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-12-28T01:09:21.800Z,-32.457,-71.828,14,3.1,ml,12,208.1,,,us,usp000grnv,2014-11-07T01:38:03.515Z,"56 km W of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-12-27T05:26:44.600Z,-32.447,-72.145,10.6,3,ml,9,249.5,,,us,usp000grkg,2014-11-07T01:38:03.225Z,"81 km NW of Valparaíso, Chile",earthquake,,,,,reviewed,guc,guc
+2008-12-24T03:39:52.400Z,-31.872,-71.507,50.5,4.1,mb,27,120.7,,,us,usp000grbc,2014-11-07T01:38:02.131Z,"41 km SW of Illapel, Chile",earthquake,,,,4,reviewed,guc,us
+2008-12-23T20:56:47.900Z,-32.394,-72.056,5.4,4.1,mb,24,174.5,,,us,usp000grad,2014-11-07T01:38:01.681Z,"77 km W of La Ligua, Chile",earthquake,,,,2,reviewed,guc,us
+2008-12-21T04:13:45.920Z,-32.425,-72.179,10.9,4.1,mb,24,166.9,,1.15,us,usp000gr2y,2014-11-07T01:38:00.737Z,"85 km NW of Valparaíso, Chile",earthquake,,10.4,,5,reviewed,us,us
+2008-12-20T22:56:49.200Z,-32.32,-72.534,15.5,4,mb,13,195,,0.82,us,usp000gr2a,2014-11-07T01:38:00.687Z,"116 km NW of Valparaíso, Chile",earthquake,,26.2,,2,reviewed,us,us
+2008-12-20T16:43:10.390Z,-32.396,-71.981,23,4.9,mb,70,83.1,,0.83,us,usp000gr1a,2014-11-07T01:38:00.414Z,"70 km W of La Ligua, Chile",earthquake,,6.8,,25,reviewed,us,us
+2008-12-20T14:18:47.800Z,-32.475,-72.338,29.5,4.1,ml,23,115.4,,,us,usp000gr10,2014-11-07T01:38:00.375Z,"90 km NW of Valparaíso, Chile",earthquake,,,,,reviewed,guc,guc
+2008-12-19T19:25:54.080Z,-32.499,-71.751,23,4.9,mb,78,113.8,,0.84,us,usp000gqz5,2022-07-14T22:36:19.868Z,"49 km W of La Ligua, Chile",earthquake,,7.2,,32,reviewed,us,us
+2008-12-19T13:21:18.690Z,-32.497,-72.137,35,4.1,mb,16,150.5,,1.1,us,usp000gqyk,2014-11-07T01:38:00.038Z,"76 km NW of Valparaíso, Chile",earthquake,,,,2,reviewed,us,us
+2008-12-19T12:24:08.350Z,-32.404,-71.877,37.1,4,mb,21,115.6,,0.96,us,usp000gqyf,2014-11-07T01:38:00.027Z,"60 km W of La Ligua, Chile",earthquake,,10.5,,4,reviewed,us,us
+2008-12-19T10:48:57.710Z,-32.435,-72.28,13.7,3.8,mb,11,194.1,,0.85,us,usp000gqy8,2014-11-07T01:38:00.012Z,"90 km NW of Valparaíso, Chile",earthquake,,28.1,,2,reviewed,us,us
+2008-12-19T09:36:04.900Z,-32.458,-71.949,32.2,5.7,mwc,261,40.7,,,us,usp000gqxv,2022-05-02T19:57:27.489Z,"67 km W of La Ligua, Chile",earthquake,,,,,reviewed,guc,gcmt
+2008-12-19T09:02:43.050Z,-32.399,-72.413,35.6,3.5,mb,9,204.3,,1.14,us,usp000gqxt,2014-11-07T01:37:59.844Z,"101 km NW of Valparaíso, Chile",earthquake,,15.5,,1,reviewed,us,us
+2008-12-19T08:08:49.240Z,-32.456,-72.465,10,4.4,mb,17,152.9,,1.05,us,usp000gqxn,2014-11-07T01:37:59.793Z,"Off the coast of Valparaiso, Chile",earthquake,,,,5,reviewed,us,us
+2008-12-19T08:06:35.620Z,-32.307,-72.538,10,3.5,mb,8,205.3,,1.45,us,usp000gqxm,2014-11-07T01:37:59.792Z,"117 km NW of Valparaíso, Chile",earthquake,,,,1,reviewed,us,us
+2008-12-19T04:24:12.400Z,-32.474,-71.989,28.8,4.5,mb,79,115.6,,,us,usp000gqx2,2014-11-07T01:37:59.718Z,"70 km NNW of Valparaíso, Chile",earthquake,,,,26,reviewed,guc,us
+2008-12-19T03:04:16.900Z,-32.491,-71.914,26.7,4.1,mb,27,152.8,,,us,usp000gqww,2014-11-07T01:37:59.698Z,"Near the coast of Valparaiso, Chile",earthquake,,,,5,reviewed,guc,us
+2008-12-19T01:08:25.100Z,-32.448,-72.002,15,4.2,mb,33,134,,,us,usp000gqwk,2014-11-07T01:37:59.675Z,"72 km W of La Ligua, Chile",earthquake,,,,5,reviewed,guc,us
+2008-12-19T00:22:35.900Z,-32.475,-71.919,29.1,4.5,mb,33,152.2,,,us,usp000gqwd,2014-11-07T01:37:59.651Z,"64 km W of La Ligua, Chile",earthquake,,,,6,reviewed,guc,us
+2008-12-18T23:51:22.800Z,-32.474,-71.932,15,4.4,mb,30,121,,,us,usp000gqwa,2014-11-07T01:37:59.629Z,"65 km W of La Ligua, Chile",earthquake,,,,5,reviewed,guc,us
+2008-12-18T23:03:35.100Z,-32.5,-71.834,6.2,3.6,ml,20,199.4,,,us,usp000gqw8,2014-11-07T01:37:59.623Z,"56 km W of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-12-18T22:28:02.300Z,-32.497,-71.857,14.4,3.5,ml,18,199.6,,,us,usp000gqw5,2014-11-07T01:37:59.612Z,"59 km W of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-12-18T21:50:28.000Z,-32.473,-72.051,25,6,mwc,304,25.4,,,us,usp000gqw3,2022-07-14T22:25:39.251Z,"73 km NNW of Valparaíso, Chile",earthquake,,,,,reviewed,guc,us
+2008-12-18T21:26:30.800Z,-32.485,-71.91,29.7,4.8,mb,10,192.8,,,us,usp000gqvy,2022-05-02T20:14:32.639Z,"63 km W of La Ligua, Chile",earthquake,,,,2,reviewed,guc,us
+2008-12-18T21:25:02.000Z,-32.487,-71.873,37.7,4.6,m,23,164.8,,,us,usp000gqvx,2014-11-07T01:37:59.519Z,"60 km W of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-12-18T21:19:28.380Z,-32.458,-71.726,18,6.2,mwc,346,37.9,,0.9,us,usp000gqvv,2022-08-09T03:58:31.072Z,"46 km W of La Ligua, Chile",earthquake,,,,,reviewed,us,us
+2008-12-16T22:05:25.000Z,-29.726,-71.506,67.6,5.1,mwc,84,132.8,,,us,usp000gqre,2022-05-02T20:14:19.751Z,"29 km NNW of Coquimbo, Chile",earthquake,,,,,reviewed,guc,gcmt
+2008-11-29T16:41:57.090Z,-29.917,-71.188,61.9,4.7,mb,80,83.3,,0.85,us,usp000gpp0,2014-11-07T01:37:48.979Z,"6 km ESE of La Serena, Chile",earthquake,,,,43,reviewed,us,us
+2008-11-23T14:17:09.880Z,-29.561,-71.257,35,4.2,mb,19,114.6,,0.76,us,usp000gp9k,2014-11-07T01:37:47.023Z,"38 km N of La Serena, Chile",earthquake,,,,3,reviewed,us,us
+2008-11-19T17:17:32.900Z,-30.455,-71.906,45.8,3.8,md,5,263.5,,,us,usp000gp23,2014-11-07T01:37:46.147Z,"69 km WNW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2008-11-18T00:50:26.100Z,-30.033,-71.585,34.7,2.7,ml,6,230.4,,,us,usp000gnyh,2014-11-07T01:37:45.565Z,"25 km WSW of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2008-11-15T16:51:09.400Z,-32.375,-71.809,24.7,3.4,ml,13,206.9,,,us,usp000gns4,2014-11-07T01:37:44.466Z,"55 km W of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-11-15T16:13:33.810Z,-32.09,-71.8,39,4.4,mb,34,122.1,,0.85,us,usp000gnrz,2014-11-07T01:37:44.450Z,"66 km NW of La Ligua, Chile",earthquake,,6.3,,8,reviewed,us,us
+2008-11-15T11:16:48.000Z,-32.126,-71.817,31.7,3.1,ml,4,225.2,,,us,usp000gnrf,2014-11-07T01:37:44.403Z,"66 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-11-13T04:14:31.600Z,-29.917,-72.013,46.9,2.5,m,5,247.8,,,us,usp000gnjy,2014-11-07T01:37:43.774Z,"65 km W of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2008-11-11T20:32:33.600Z,-29.68,-71.009,67.6,2.9,md,5,149.3,,,us,usp000gng7,2014-11-07T01:37:43.522Z,"34 km NE of La Serena, Chile",earthquake,,,,,reviewed,guc,guc
+2008-11-11T13:31:45.800Z,-31.999,-71.168,29.1,3.1,ml,5,190.3,,,us,usp000gnf8,2014-11-07T01:37:43.397Z,"31 km SW of Salamanca, Chile",earthquake,,,,,reviewed,guc,guc
+2008-11-11T12:04:36.600Z,-30.145,-71.679,15,3.8,ml,5,236.9,,,us,usp000gnf1,2014-11-07T01:37:43.380Z,"39 km WSW of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2008-11-11T05:29:18.000Z,-30.116,-71.256,72.7,3,m,5,201.4,,,us,usp000gnea,2014-11-07T01:37:43.319Z,"19 km SSE of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2008-11-09T23:28:14.600Z,-30.823,-71.177,54.9,4.8,mb,70,115.2,,,us,usp000gnb9,2014-11-07T01:37:42.938Z,"24 km S of Ovalle, Chile",earthquake,,,,33,reviewed,guc,us
+2008-11-06T01:31:29.500Z,-31.508,-71.715,11.6,3.1,ml,6,221.7,,,us,usp000gn1p,2014-11-07T01:37:41.325Z,"53 km WNW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2008-11-05T22:34:52.520Z,-31.371,-72,35,4.1,mb,11,188.8,,1.11,us,usp000gn1h,2014-11-07T01:37:41.285Z,"84 km WNW of Illapel, Chile",earthquake,,,,1,reviewed,us,us
+2008-11-04T04:40:06.600Z,-31.666,-71.255,50.2,3.3,md,4,211.4,,,us,usp000gmwz,2014-11-07T01:37:40.700Z,"8 km WSW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2008-11-04T02:02:43.200Z,-30.777,-71.387,60.1,3,m,4,238.7,,,us,usp000gmwm,2014-11-07T01:37:40.662Z,"26 km SW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2008-11-02T10:22:10.900Z,-32.451,-71.261,49.3,3.1,md,7,202.6,,,us,usp000gmpj,2014-11-07T01:37:39.127Z,"2 km W of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-11-01T17:46:41.500Z,-31.996,-71.524,30.8,3.5,ml,13,188.2,,,us,usp000gmmg,2014-11-07T01:37:38.244Z,"52 km SW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2008-11-01T05:50:58.100Z,-32.115,-71.545,27.3,3.1,ml,11,193.2,,,us,usp000gmke,2014-11-07T01:37:37.686Z,"47 km NW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-11-01T05:29:51.000Z,-32.124,-71.736,27.1,2.9,ml,10,210.9,,,us,usp000gmkd,2014-11-07T01:37:37.678Z,"59 km NW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-10-28T15:23:51.120Z,-32.479,-71.88,36.4,4.7,mb,37,115.6,,0.93,us,usp000gm7j,2014-11-07T01:37:33.118Z,"61 km W of La Ligua, Chile",earthquake,,8.8,,8,reviewed,us,us
+2008-10-21T18:49:22.400Z,-29.819,-71.971,43.8,3,m,5,260.9,,,us,usp000gkrw,2014-11-07T01:37:31.083Z,"62 km WNW of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2008-10-21T04:53:07.600Z,-29.504,-71.229,62.5,3.1,m,5,198.1,,,us,usp000gkqj,2014-11-07T01:37:30.938Z,"44 km N of La Serena, Chile",earthquake,,,,,reviewed,guc,guc
+2008-10-20T12:20:48.900Z,-32.381,-71.297,44.1,3.5,md,10,177,,,us,usp000gknq,2014-11-07T01:37:30.753Z,"10 km NW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-10-18T07:38:40.100Z,-29.904,-71.563,56.1,4.1,mb,22,114.7,,1.08,us,usp000gkgg,2014-11-07T01:37:30.116Z,"22 km WNW of Coquimbo, Chile",earthquake,,13.5,,3,reviewed,us,us
+2008-10-17T02:02:27.600Z,-29.948,-71.138,51.6,3.7,m,6,108.5,,,us,usp000gke3,2014-11-07T01:37:29.901Z,"11 km ESE of La Serena, Chile",earthquake,,,,,reviewed,guc,guc
+2008-10-17T01:34:12.700Z,-32.248,-71.762,11.3,3.5,ml,12,203.6,,,us,usp000gke0,2014-11-07T01:37:29.895Z,"54 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-10-16T04:36:06.100Z,-31.012,-71.365,66.3,4.8,mb,42,120.3,,,us,usp000gkby,2014-11-07T01:37:29.660Z,"48 km SSW of Ovalle, Chile",earthquake,,,,2,reviewed,guc,us
+2008-10-15T10:12:18.200Z,-30.675,-71.632,36.2,3.9,md,8,211.2,,,us,usp000gka5,2014-11-07T01:37:29.354Z,"42 km W of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2008-10-12T19:05:12.400Z,-29.725,-71.229,58.7,3.6,m,5,199.9,,,us,usp000gk3n,2014-11-07T01:37:27.909Z,"19 km N of La Serena, Chile",earthquake,,,,,reviewed,guc,guc
+2008-10-07T11:30:35.900Z,-32.164,-71.64,32,2.6,ml,9,221.5,,,us,usp000gjmt,2014-11-07T01:37:24.919Z,"50 km NW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-10-07T09:12:59.800Z,-32.192,-71.719,26.1,3,ml,9,200.2,,,us,usp000gjmj,2014-11-07T01:37:24.856Z,"54 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-10-07T06:40:15.400Z,-32.045,-71.648,33.4,3,ml,11,201.3,,,us,usp000gjme,2014-11-07T01:37:24.845Z,"59 km NW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-10-07T05:33:49.400Z,-30.205,-71.474,40.5,3.8,m,5,229.8,,,us,usp000gjmb,2014-11-07T01:37:24.840Z,"30 km SSW of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2008-10-06T07:14:25.400Z,-31.951,-71.432,34.6,2.5,ml,5,329.6,,,us,usp000gjgm,2014-11-07T01:37:24.440Z,"43 km SW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2008-09-27T12:48:04.700Z,-31.328,-71.493,65.3,2.9,m,6,210.6,,,us,usp000ghue,2014-11-07T01:37:15.874Z,"45 km NW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2008-09-25T08:20:23.100Z,-31.672,-71.242,13.2,3,ml,7,189.2,,,us,usp000ghph,2014-11-07T01:37:14.856Z,"8 km WSW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2008-09-23T22:43:13.100Z,-32.347,-71.834,23.1,2.6,ml,5,319.7,,,us,usp000ghkh,2014-11-07T01:37:14.454Z,"57 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-09-22T04:56:51.300Z,-31.33,-71.907,30,3,ml,5,223.8,,,us,usp000ghgw,2014-11-07T01:37:14.132Z,"77 km WNW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2008-09-22T04:51:39.900Z,-30.169,-71.588,22.2,4.5,ml,23,198,,,us,usp000ghgv,2014-11-07T01:37:14.129Z,"33 km SW of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2008-09-20T15:17:47.700Z,-30.736,-71.657,16.5,3.2,ml,5,227.3,,,us,usp000ghe0,2014-11-07T01:37:13.817Z,"46 km WSW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2008-09-18T21:02:51.000Z,-30.811,-71.593,15,3.4,ml,6,221.4,,,us,usp000ghaf,2014-11-07T01:37:13.290Z,"44 km WSW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2008-09-18T02:40:10.200Z,-30.707,-71.613,16.1,3.4,ml,4,253.7,,,us,usp000gh8y,2014-11-07T01:37:13.037Z,"41 km WSW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2008-09-18T01:46:29.100Z,-32.234,-71.166,75,3.1,md,9,180.5,,,us,usp000gh8v,2014-11-07T01:37:13.019Z,"24 km NNE of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-09-17T22:53:12.500Z,-30.725,-71.535,30.5,4.8,mb,50,58.1,,,us,usp000gh8g,2014-11-07T01:37:12.963Z,"35 km WSW of Ovalle, Chile",earthquake,,,,19,reviewed,guc,us
+2008-09-14T18:14:40.300Z,-30.212,-71.521,13.9,2.7,ml,4,235.9,,,us,usp000gh1u,2014-11-07T01:37:12.032Z,"33 km SSW of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2008-09-14T07:28:44.200Z,-31.612,-71.753,31.2,3,ml,9,218.1,,,us,usp000gh0y,2014-11-07T01:37:11.935Z,"55 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2008-09-14T07:19:19.200Z,-31.613,-71.779,21.9,2.9,ml,5,219.1,,,us,usp000gh0x,2014-11-07T01:37:11.933Z,"57 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2008-09-12T22:50:15.000Z,-30.435,-71.56,41.5,2.6,m,4,241,,,us,usp000ggyd,2014-11-07T01:37:11.515Z,"39 km WNW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2008-09-11T06:31:17.700Z,-32.465,-71.714,27.1,3.4,ml,9,215,,,us,usp000ggv0,2014-11-07T01:37:11.089Z,"45 km W of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-09-08T10:33:19.800Z,-32.304,-71.468,35.6,3.3,md,4,315.4,,,us,usp000ggne,2014-11-07T01:37:09.296Z,"27 km NW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-09-04T06:18:52.100Z,-30.009,-71.918,35,4.5,mb,7,177.3,,,us,usp000ggce,2014-11-07T01:37:07.547Z,"56 km W of Coquimbo, Chile",earthquake,,,,1,reviewed,guc,us
+2008-09-02T23:24:35.600Z,-31.081,-71.621,35.1,3.4,ml,9,204.9,,,us,usp000gg9e,2014-11-07T01:37:06.975Z,"66 km SW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2008-09-02T22:54:58.800Z,-32.38,-71.237,68.5,3,md,8,175.8,,,us,usp000gg99,2014-11-07T01:37:06.948Z,"8 km N of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-08-31T01:15:49.300Z,-31.995,-71.622,19.1,2.9,ml,5,230.9,,,us,usp000gg1m,2014-11-07T01:37:02.200Z,"58 km SW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2008-08-30T07:49:05.900Z,-32.129,-71.244,76.4,2.9,md,12,186.7,,,us,usp000gfzw,2014-11-07T01:37:01.483Z,"35 km N of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-08-29T14:02:25.800Z,-31.042,-71.574,37.6,4,md,6,212.2,,,us,usp000gfxu,2014-11-07T01:37:01.117Z,"60 km SW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2008-08-29T00:07:22.600Z,-29.546,-71.148,64.6,2.9,md,4,213.9,,,us,usp000gfw3,2014-11-07T01:37:00.962Z,"40 km NNE of La Serena, Chile",earthquake,,,,,reviewed,guc,guc
+2008-08-28T08:48:51.900Z,-31.755,-71.856,6.7,2.9,ml,4,253.8,,,us,usp000gftu,2014-11-07T01:37:00.645Z,"66 km WSW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2008-08-28T07:44:35.500Z,-31.762,-71.821,7.1,2.8,ml,4,259.7,,,us,usp000gftk,2014-11-07T01:37:00.612Z,"63 km WSW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2008-08-25T22:43:56.700Z,-32.228,-71.849,10.9,3,ml,7,226.7,,,us,usp000gfj3,2014-11-07T01:36:59.337Z,"63 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-08-25T02:30:57.800Z,-32.142,-71.817,6.4,3.4,ml,9,223.3,,,us,usp000gff6,2014-11-07T01:36:58.907Z,"65 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-08-24T20:23:04.500Z,-32.145,-71.832,8.4,3.3,ml,8,208.6,,,us,usp000gfek,2014-11-07T01:36:58.842Z,"66 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-08-24T19:23:59.800Z,-32.153,-71.831,3.8,3.3,ml,7,243.6,,,us,usp000gfeg,2014-11-07T01:36:58.838Z,"65 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-08-22T14:01:37.000Z,-32.337,-71.523,15.1,3,ml,14,190.3,,,us,usp000gf8g,2014-11-07T01:36:57.819Z,"30 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-08-22T03:32:18.800Z,-30.804,-71.909,32.1,3.9,ml,14,156,,,us,usp000gf7e,2014-11-07T01:36:57.627Z,"71 km WSW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2008-08-22T03:28:04.400Z,-30.523,-71.579,48,3,m,4,244.4,,,us,usp000gf7d,2014-11-07T01:36:57.625Z,"37 km WNW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2008-08-20T17:03:13.700Z,-32.313,-72.236,25,3.4,ml,4,324.2,,,us,usp000gf3g,2014-11-07T01:36:57.218Z,"95 km W of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-08-19T10:13:39.900Z,-32.302,-71.265,40.5,3.4,md,5,315.3,,,us,usp000gf0b,2014-11-07T01:36:56.743Z,"16 km N of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-08-18T00:24:53.800Z,-32.257,-71.552,26.5,3.5,ml,14,189.7,,,us,usp000gexa,2014-11-07T01:36:56.099Z,"37 km NW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-08-17T20:25:38.300Z,-31.724,-71.613,58.2,2.6,m,5,322.4,,,us,usp000gewz,2014-11-07T01:36:55.927Z,"43 km WSW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2008-08-17T06:49:59.800Z,-31.327,-71.665,3.3,3.2,ml,6,214.8,,,us,usp000gev8,2014-11-07T01:36:55.609Z,"58 km NW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2008-08-14T05:41:25.700Z,-32.129,-71.726,27.8,2.5,ml,4,225.6,,,us,usp000gems,2014-11-07T01:36:53.829Z,"58 km NW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-08-11T09:15:37.500Z,-32.147,-71.574,25.3,2.9,ml,5,213.2,,,us,usp000gee1,2014-11-07T01:36:53.065Z,"46 km NW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-08-11T09:02:33.800Z,-32.143,-71.546,25.1,3.4,ml,6,322.5,,,us,usp000gedz,2014-11-07T01:36:53.063Z,"45 km NW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-08-10T08:52:11.600Z,-32.293,-71.598,15,3.1,ml,9,300.2,,,us,usp000geaw,2014-11-07T01:36:52.338Z,"38 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-08-07T23:05:24.900Z,-30.932,-71.659,26.2,3.5,ml,4,226.3,,,us,usp000ge4x,2014-11-07T01:36:51.550Z,"57 km SW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2008-08-06T10:22:14.100Z,-32.308,-71.457,3,3.5,md,4,209.3,,,us,usp000gdyr,2014-11-07T01:36:50.810Z,"26 km NW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-08-04T09:58:56.500Z,-29.851,-72.054,25.7,3,ml,4,256.1,,,us,usp000gdtz,2014-11-07T01:36:49.958Z,"69 km W of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2008-08-02T15:43:09.900Z,-31.971,-71.235,44.9,3.8,md,13,170.7,,,us,usp000gdp2,2014-11-07T01:36:48.946Z,"33 km SW of Salamanca, Chile",earthquake,,,,,reviewed,guc,guc
+2008-08-02T05:11:55.300Z,-32.065,-71.16,78,3.2,md,15,164.9,,,us,usp000gdn5,2014-11-07T01:36:48.401Z,"36 km SSW of Salamanca, Chile",earthquake,,,,,reviewed,guc,guc
+2008-07-29T13:44:25.600Z,-31.841,-71.45,43.9,3.5,md,8,194,,,us,usp000gdd4,2014-11-07T01:36:43.980Z,"35 km SW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2008-07-27T12:04:38.100Z,-31.961,-71.153,60.6,4,md,10,184.3,,,us,usp000gd8m,2014-11-07T01:36:43.402Z,"26 km SW of Salamanca, Chile",earthquake,,,,,reviewed,guc,guc
+2008-07-26T07:21:52.300Z,-32.25,-72.41,20.8,3.8,ml,10,230.9,,,us,usp000gd62,2014-11-07T01:36:43.169Z,"113 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-07-25T21:19:08.400Z,-31.763,-71.91,19.7,3.6,ml,12,216.7,,,us,usp000gd4v,2014-11-07T01:36:43.004Z,"71 km WSW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2008-07-25T15:42:08.800Z,-31.735,-71.912,22.8,3.5,ml,8,224.4,,,us,usp000gd4f,2014-11-07T01:36:42.955Z,"71 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2008-07-25T15:10:28.600Z,-31.752,-71.871,25.3,3.8,ml,10,224.6,,,us,usp000gd4d,2014-11-07T01:36:42.952Z,"67 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2008-07-22T20:49:40.800Z,-32.084,-71.733,23.7,2.7,ml,4,249.1,,,us,usp000gcx8,2014-11-07T01:36:41.579Z,"62 km NW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-07-21T11:39:06.400Z,-32.102,-72.245,29.4,3.3,ml,11,249.8,,,us,usp000gct1,2014-11-07T01:36:41.197Z,"103 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-07-20T05:19:57.100Z,-32.222,-71.859,9.1,2.8,ml,6,232.3,,,us,usp000gcp8,2014-11-07T01:36:40.754Z,"64 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-07-19T12:59:10.400Z,-31.775,-72.072,4.8,3.5,ml,7,241.3,,,us,usp000gcm1,2014-11-07T01:36:40.485Z,"86 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2008-07-19T02:40:42.200Z,-31.802,-72.099,5.6,3.9,ml,12,231.5,,,us,usp000gcjh,2014-11-07T01:36:40.160Z,"90 km WSW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2008-07-19T00:26:21.400Z,-32.197,-71.881,21.6,2.8,ml,6,229.1,,,us,usp000gcj5,2014-11-07T01:36:40.072Z,"67 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-07-18T13:59:04.100Z,-32.215,-71.894,28,3.2,ml,7,245.5,,,us,usp000gcgx,2014-11-07T01:36:39.960Z,"67 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-07-18T12:57:11.500Z,-32.209,-71.857,23.3,3.3,ml,9,232.2,,,us,usp000gcgn,2014-11-07T01:36:39.921Z,"64 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-07-18T12:32:39.500Z,-32.21,-71.843,26.1,3.4,ml,7,242.6,,,us,usp000gcgk,2014-11-07T01:36:39.909Z,"63 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-07-18T06:44:27.700Z,-32.044,-72.051,29,3.5,ml,13,217,,,us,usp000gcg6,2014-11-07T01:36:39.884Z,"89 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-07-18T04:14:22.300Z,-31.809,-72.038,7.4,3.2,ml,5,248.2,,,us,usp000gcfx,2014-11-07T01:36:39.840Z,"84 km WSW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2008-07-18T00:42:59.200Z,-31.855,-71.313,37.3,3.5,md,8,192.5,,,us,usp000gcfc,2014-11-07T01:36:39.546Z,"28 km SSW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2008-07-17T20:46:22.600Z,-32.128,-72.173,35.9,4.1,ml,22,158.7,,,us,usp000gcer,2014-11-07T01:36:39.332Z,"95 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-07-17T18:26:06.600Z,-31.891,-72.147,33.7,3.6,ml,11,230.7,,,us,usp000gceh,2014-11-07T01:36:39.247Z,"96 km WSW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2008-07-17T13:42:44.100Z,-32.148,-72.1,9.3,4,ml,10,310.7,,,us,usp000gcdw,2014-11-07T01:36:39.157Z,"88 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-07-17T12:56:53.000Z,-31.833,-72.019,52.7,3.6,md,8,331.8,,,us,usp000gcdt,2014-11-07T01:36:39.142Z,"83 km WSW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2008-07-17T05:03:51.900Z,-32.049,-72.159,20.3,3.1,ml,9,244.5,,,us,usp000gcd3,2014-11-07T01:36:39.090Z,"98 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-07-16T23:59:25.900Z,-32.238,-72.143,22.3,3.3,ml,9,244,,,us,usp000gccf,2014-11-07T01:36:39.030Z,"89 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-07-16T21:57:55.600Z,-31.929,-72.341,43.2,3.3,md,4,271.1,,,us,usp000gcc2,2014-11-07T01:36:38.954Z,"115 km WSW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2008-07-16T19:04:50.500Z,-32.115,-71.12,79.3,3.1,m,12,161.9,,,us,usp000gcbs,2014-11-07T01:36:38.890Z,"38 km NNE of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-07-16T17:03:25.200Z,-32.113,-72.166,27,3.4,ml,9,230.2,,,us,usp000gcbh,2014-11-07T01:36:38.853Z,"95 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-07-16T16:43:52.100Z,-32.065,-72.256,25,3.5,ml,6,265.3,,,us,usp000gcbg,2014-11-07T01:36:38.852Z,"105 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-07-16T16:08:32.700Z,-32.087,-72.161,29.1,4,ml,23,120.7,,,us,usp000gcbc,2014-11-07T01:36:38.842Z,"96 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-07-16T12:22:50.200Z,-32.128,-72.115,33.2,3.2,ml,8,228,,,us,usp000gcav,2014-11-07T01:36:38.674Z,"90 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-07-16T07:51:04.500Z,-32.11,-72.088,41.4,3.6,md,7,256.9,,,us,usp000gcad,2014-11-07T01:36:38.457Z,"89 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-07-16T07:26:04.800Z,-32.158,-72.07,30.5,3.8,ml,18,216.3,,,us,usp000gcab,2014-11-07T01:36:38.452Z,"85 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-07-16T06:47:40.000Z,-31.757,-72.151,2.1,4,ml,17,152.9,,,us,usp000gca7,2014-11-07T01:36:38.444Z,"94 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2008-07-16T06:03:37.200Z,-31.757,-72.159,4,3.4,ml,7,240.1,,,us,usp000gca6,2014-11-07T01:36:38.443Z,"94 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2008-07-16T04:26:20.500Z,-32.138,-72.23,27.2,3.3,ml,10,223.9,,,us,usp000gca0,2014-11-07T01:36:38.432Z,"100 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-07-16T02:47:42.100Z,-32.385,-71.637,30.5,2.8,ml,10,211.2,,,us,usp000gc9w,2014-11-07T01:36:38.424Z,"38 km W of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-07-16T02:10:43.000Z,-31.753,-72.062,28.6,3,ml,7,264,,,us,usp000gc9t,2014-11-07T01:36:38.419Z,"85 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2008-07-15T23:34:30.700Z,-32.2,-72.153,22.7,2.9,ml,10,243.9,,,us,usp000gc9g,2014-11-07T01:36:38.336Z,"91 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-07-15T03:39:43.000Z,-31.814,-72.231,3.7,4,ml,14,213.9,,,us,usp000gc74,2014-11-07T01:36:38.101Z,"102 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2008-07-14T22:04:51.300Z,-32.111,-72.084,31.2,3.2,ml,8,233.3,,,us,usp000gc6b,2014-11-07T01:36:37.954Z,"88 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-07-14T16:41:39.900Z,-31.821,-71.1,71.5,3.3,md,11,169,,,us,usp000gc5q,2014-11-07T01:36:37.878Z,"13 km WSW of Salamanca, Chile",earthquake,,,,,reviewed,guc,guc
+2008-07-14T02:11:43.900Z,-32.026,-72.099,23.4,2.9,ml,4,328.3,,,us,usp000gc3y,2014-11-07T01:36:37.626Z,"94 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-07-13T05:29:26.500Z,-31.886,-72.249,16.2,3.2,ml,7,247.7,,,us,usp000gc1f,2014-11-07T01:36:37.338Z,"106 km WSW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2008-07-11T07:08:45.600Z,-32.103,-71.52,51.6,2.6,m,5,223.1,,,us,usp000gbvz,2014-11-07T01:36:36.722Z,"Near the coast of Valparaiso, Chile",earthquake,,,,,reviewed,guc,guc
+2008-07-09T02:57:49.500Z,-32.155,-71.057,74.7,2.9,md,5,173.5,,,us,usp000gbpr,2014-11-07T01:36:35.926Z,"36 km NNE of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-07-08T12:08:39.700Z,-30.879,-71.642,27.3,4.8,ml,27,120.2,,,us,usp000gbn3,2014-11-07T01:36:35.766Z,"52 km SW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2008-07-08T03:02:27.600Z,-31.585,-72.166,31.9,4.2,ml,20,202.2,,,us,usp000gbma,2014-11-07T01:36:35.596Z,"94 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2008-07-07T03:41:40.600Z,-31.956,-71.671,30.5,2.9,ml,6,216,,,us,usp000gbhb,2014-11-07T01:36:35.248Z,"59 km SW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2008-07-03T23:04:50.800Z,-32.484,-71.386,42,4.3,mb,24,67.6,,,us,usp000gb94,2014-11-07T01:36:33.839Z,"14 km WSW of La Ligua, Chile",earthquake,,,,5,reviewed,guc,us
+2008-07-02T10:59:47.500Z,-32.016,-71.471,37,3.7,md,13,181.3,,,us,usp000gb58,2014-11-07T01:36:32.802Z,"51 km SW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2008-07-02T09:13:34.000Z,-30.614,-72.468,35.6,2.6,ml,4,254.5,,,us,usp000gb4z,2014-11-07T01:36:32.759Z,"121 km W of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2008-07-01T05:43:11.600Z,-30.92,-71.661,15.3,2.7,ml,4,226.4,,,us,usp000gb21,2014-11-07T01:36:31.518Z,"56 km SW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2008-06-30T08:30:20.100Z,-32.405,-71.538,50,3.7,md,10,217.8,,,us,usp000gb02,2014-11-07T01:36:28.827Z,"29 km W of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-06-29T00:42:16.500Z,-32.312,-71.15,53.6,3.8,md,11,156.3,,,us,usp000gawg,2014-11-07T01:36:27.879Z,"17 km NNE of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-06-26T02:42:34.300Z,-30.55,-71.358,53.9,2.5,m,4,226.8,,,us,usp000gakd,2014-11-07T01:36:26.234Z,"16 km WNW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2008-06-17T01:27:55.200Z,-32.444,-71.157,45.2,3.4,md,10,118.1,,,us,usp000g9v5,2014-11-07T01:36:22.269Z,"7 km E of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-06-16T21:02:34.970Z,-32.415,-71.168,55.2,4.8,mb,109,46.1,,0.84,us,usp000g9us,2014-11-07T01:36:22.217Z,"7 km NE of La Ligua, Chile",earthquake,,3.5,,24,reviewed,us,us
+2008-06-16T09:28:36.600Z,-31.564,-71.789,20.9,4.1,ml,17,198.7,,,us,usp000g9te,2014-11-07T01:36:22.088Z,"59 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2008-06-15T14:20:22.600Z,-32.104,-71.479,36.7,3.4,md,4,198.6,,,us,usp000g9qz,2014-11-07T01:36:21.730Z,"45 km NNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-06-15T06:13:48.600Z,-31.868,-71.929,22,4.4,mb,32,147.7,,,us,usp000g9q3,2014-11-07T01:36:21.597Z,"76 km WSW of Illapel, Chile",earthquake,,,,9,reviewed,guc,us
+2008-06-12T06:04:43.500Z,-31.661,-71.08,110,2.9,m,4,198,,,us,usp000g9an,2014-11-07T01:36:19.936Z,"9 km ESE of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2008-06-06T05:10:58.100Z,-30.048,-72.077,28.6,4.3,ml,10,172.6,,,us,usp000g8py,2014-11-07T01:36:15.427Z,"71 km W of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2008-06-04T09:24:54.100Z,-30.303,-71.574,33.3,4.6,ml,10,197.8,,,us,usp000g8hg,2014-11-07T01:36:14.436Z,"44 km SSW of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2008-05-25T13:22:58.690Z,-31.477,-71.904,51,4.7,mb,16,193.4,,0.7,us,usp000g7rp,2014-11-07T01:36:06.197Z,"71 km WNW of Illapel, Chile",earthquake,,13.3,,1,reviewed,us,us
+2008-05-23T10:27:23.000Z,-30.246,-72.199,41.5,3.7,m,7,202.8,,,us,usp000g7jd,2014-11-07T01:36:04.735Z,"88 km WSW of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2008-05-22T01:56:57.590Z,-30.322,-71.624,35,4.7,mb,42,147.2,,1.41,us,usp000g7f9,2014-11-07T01:36:04.332Z,"49 km SW of Coquimbo, Chile",earthquake,,,,25,reviewed,us,us
+2008-05-22T01:34:04.940Z,-30.221,-71.935,26.5,4.9,mb,30,149.9,,0.88,us,usp000g7f8,2014-11-07T01:36:04.330Z,"64 km WSW of Coquimbo, Chile",earthquake,,,,9,reviewed,us,us
+2008-05-18T17:14:50.700Z,-31.232,-71.967,24.8,4.7,mb,56,115.6,,,us,usp000g765,2014-11-07T01:36:02.958Z,"87 km WNW of Illapel, Chile",earthquake,,,,14,reviewed,guc,us
+2008-05-18T14:54:40.200Z,-32.418,-71.684,27.5,3.1,ml,9,289.6,,,us,usp000g75w,2014-11-07T01:36:02.702Z,"42 km W of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-05-16T23:41:00.500Z,-32.125,-71.54,43.3,3.9,md,10,299.6,,,us,usp000g70y,2014-11-07T01:36:01.727Z,"46 km NW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-05-08T16:19:47.500Z,-30.282,-72.199,41.4,3.6,md,4,275.2,,,us,usp000g5ve,2014-11-07T01:35:54.153Z,"90 km WSW of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2008-05-08T07:14:45.400Z,-31.718,-71.217,44.1,3.9,md,12,167.9,,,us,usp000g5uf,2014-11-07T01:35:54.025Z,"10 km SSW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2008-05-04T10:02:43.600Z,-31.719,-71.773,29.9,3,ml,6,250.5,,,us,usp000g5fr,2014-11-07T01:35:50.975Z,"57 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2008-04-21T02:51:53.200Z,-32.178,-71.879,24.6,2.5,ml,4,323.2,,,us,usp000g4f5,2014-11-07T01:35:41.152Z,"68 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-04-16T08:47:01.900Z,-30.473,-71.634,68.1,4.4,m,8,197.8,,,us,usp000g428,2014-11-07T01:35:38.119Z,"44 km WNW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2008-04-15T21:40:10.600Z,-30.691,-71.837,22.7,3.2,ml,4,234.1,,,us,usp000g40x,2014-11-07T01:35:37.719Z,"61 km W of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2008-04-07T12:15:58.000Z,-30.887,-71.49,36.1,4.1,m,6,267.4,,,us,usp000g39z,2014-11-07T01:35:33.043Z,"42 km SW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2008-04-06T22:24:31.300Z,-32.309,-71.841,30.1,3.3,ml,9,303,,,us,usp000g38k,2014-11-07T01:35:32.763Z,"59 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-04-03T17:22:44.000Z,-32.493,-71.528,56.7,4,m,10,181.7,,,us,usp000g31r,2014-11-07T01:35:29.757Z,"28 km W of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-04-03T03:25:17.400Z,-31.455,-71.609,25,3.5,ml,10,175.6,,,us,usp000g30c,2014-11-07T01:35:28.492Z,"46 km WNW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2008-04-01T21:16:21.400Z,-31.583,-71.703,22.5,2.9,ml,5,253.1,,,us,usp000g2x5,2014-11-07T01:35:27.070Z,"50 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2008-04-01T14:38:17.000Z,-31.832,-72.086,10.6,4.1,mb,19,157.9,,1.22,us,usp000g2wj,2014-11-07T01:35:26.798Z,"89 km WSW of Illapel, Chile",earthquake,,14.2,,1,reviewed,us,us
+2008-04-01T02:57:53.300Z,-29.842,-71.62,10.1,4.5,ml,16,198.4,,,us,usp000g2v5,2014-11-07T01:35:25.318Z,"29 km WNW of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2008-03-31T19:03:23.400Z,-31.438,-71.665,8.6,2.7,ml,4,232.6,,,us,usp000g2u1,2014-11-07T01:35:22.280Z,"51 km WNW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2008-03-30T01:02:05.100Z,-32.489,-71.284,64.2,2.9,m,8,204.4,,,us,usp000g2p1,2014-11-07T01:35:21.080Z,"6 km SW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-03-28T11:51:14.200Z,-30.421,-71.634,33.8,3.7,ml,5,220.5,,,us,usp000g2j4,2014-11-07T01:35:20.185Z,"46 km WNW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2008-03-28T06:01:27.300Z,-32.251,-71.759,37.9,3.6,md,5,237.3,,,us,usp000g2hk,2014-11-07T01:35:20.110Z,"54 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-03-26T08:46:24.000Z,-32.437,-71.515,45.7,4,md,10,185,,,us,usp000g2d7,2014-11-07T01:35:19.410Z,"26 km W of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-03-25T02:17:18.500Z,-32.307,-71.89,37.2,3.6,md,5,244.6,,,us,usp000g2a8,2014-11-07T01:35:19.131Z,"64 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-03-24T20:55:43.700Z,-30.181,-72.569,40,3.6,md,5,263,,,us,usp000g298,2014-11-07T01:35:18.961Z,"121 km WSW of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2008-03-23T19:36:21.200Z,-30.79,-71.539,34.9,3.3,ml,6,212.5,,,us,usp000g25e,2014-11-07T01:35:18.456Z,"38 km WSW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2008-03-22T14:24:40.600Z,-30.756,-71.381,66,3.4,m,6,199.7,,,us,usp000g225,2014-11-07T01:35:17.776Z,"24 km SW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2008-03-21T10:12:02.200Z,-31.992,-71.396,31,2.6,ml,4,328.5,,,us,usp000g1ym,2014-11-07T01:35:17.395Z,"45 km SSW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2008-03-19T15:44:21.420Z,-29.901,-71.44,53.8,4.7,mb,40,114.7,,0.81,us,usp000g1t6,2014-11-07T01:35:16.700Z,"11 km WNW of Coquimbo, Chile",earthquake,,,,5,reviewed,us,us
+2008-03-18T20:16:37.800Z,-29.764,-71.744,42.5,3.4,m,4,229.4,,,us,usp000g1rg,2014-11-07T01:35:16.539Z,"44 km WNW of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2008-03-16T00:41:00.800Z,-30.712,-71.646,19.2,3.4,ml,6,178.3,,,us,usp000g1js,2014-11-07T01:35:15.832Z,"44 km WSW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2008-03-14T06:46:38.100Z,-32.205,-72.124,5.9,2.6,ml,4,257.6,,,us,usp000g1f4,2014-11-07T01:35:15.244Z,"88 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-03-14T05:32:54.400Z,-30.36,-71.532,42.3,2.9,md,4,237.7,,,us,usp000g1ez,2014-11-07T01:35:15.236Z,"41 km NW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2008-03-13T01:48:38.700Z,-31.201,-71.689,41.7,4,md,5,278.3,,,us,usp000g1c5,2014-11-07T01:35:14.898Z,"68 km NW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2008-03-12T17:05:32.000Z,-32.37,-71.062,78.6,3.3,md,6,187.1,,,us,usp000g1b3,2014-11-07T01:35:14.736Z,"18 km ENE of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-03-12T03:24:56.600Z,-32.374,-71.402,45.1,3.4,md,5,212.9,,,us,usp000g19q,2014-11-07T01:35:14.120Z,"18 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-03-11T19:19:26.500Z,-32.262,-71.871,42.2,3.6,md,4,320.8,,,us,usp000g18s,2014-11-07T01:35:14.000Z,"63 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-03-11T15:08:40.300Z,-32.249,-71.178,75.3,3.3,md,6,319.4,,,us,usp000g17v,2014-11-07T01:35:13.928Z,"23 km NNE of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-03-10T07:47:37.400Z,-29.802,-71.332,38.8,4.1,m,6,205.3,,,us,usp000g14u,2014-11-07T01:35:13.601Z,"13 km NW of La Serena, Chile",earthquake,,,,,reviewed,guc,guc
+2008-03-09T19:46:17.200Z,-31.767,-71.336,43.3,3.4,md,5,195.8,,,us,usp000g12z,2014-11-07T01:35:13.366Z,"21 km SW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2008-03-08T08:48:16.200Z,-31.994,-71.52,33.7,3.1,ml,8,202.9,,,us,usp000g0yx,2014-11-07T01:35:12.864Z,"51 km SW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2008-03-06T21:38:57.900Z,-29.887,-71.733,46.6,4.5,m,17,169.8,,,us,usp000g0vm,2014-11-07T01:35:11.909Z,"38 km W of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2008-03-06T12:40:11.000Z,-32.392,-71.501,45.5,4.1,md,11,181.2,,,us,usp000g0uu,2014-11-07T01:35:11.849Z,"26 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-03-06T07:16:46.000Z,-31.814,-71.66,56.2,3.4,md,9,214.9,,,us,usp000g0u7,2014-11-07T01:35:11.733Z,"50 km WSW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2008-03-06T01:24:03.400Z,-31.83,-71.654,15.5,3.6,ml,13,197.1,,,us,usp000g0tq,2014-11-07T01:35:11.666Z,"50 km WSW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2008-03-05T22:30:13.700Z,-30.267,-71.107,53.7,3,m,4,182.5,,,us,usp000g0te,2014-11-07T01:35:11.617Z,"38 km NNE of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2008-02-28T06:46:53.100Z,-32.286,-71.839,32.2,3.6,ml,7,209.7,,,us,usp000g06b,2014-11-07T01:35:04.714Z,"60 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-02-27T14:41:33.200Z,-30.692,-71.339,46.4,4,md,10,194.5,,,us,usp000g04s,2014-11-07T01:35:04.513Z,"16 km SW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2008-02-24T18:09:11.900Z,-30.403,-71.083,53,4.4,mb,6,155.1,,,us,usp000fzva,2014-11-07T01:35:03.144Z,"24 km NNE of Ovalle, Chile",earthquake,,,,1,reviewed,guc,us
+2008-02-21T20:32:59.300Z,-30.921,-71.386,56,3.9,md,6,205.3,,,us,usp000fzjs,2014-11-07T01:35:00.712Z,"39 km SSW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2008-02-21T17:00:59.500Z,-30.702,-71.771,37.6,4.2,md,4,263.6,,,us,usp000fzhu,2014-11-07T01:35:00.590Z,"55 km WSW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2008-02-19T06:38:25.900Z,-31.076,-71.372,56.6,3.6,md,6,204,,,us,usp000fz7j,2014-11-07T01:34:58.613Z,"55 km SSW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2008-02-18T10:08:45.900Z,-31.671,-71.506,44.3,4,md,4,207.4,,,us,usp000fz5y,2014-11-07T01:34:58.455Z,"32 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2008-02-18T00:16:41.900Z,-30.851,-71.615,38.8,2.8,m,4,262.1,,,us,usp000fz50,2014-11-07T01:34:58.366Z,"48 km SW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2008-02-16T08:37:10.800Z,-30.941,-71.652,18.2,3.5,ml,5,226,,,us,usp000fz12,2014-11-07T01:34:57.499Z,"57 km SW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2008-02-15T23:11:05.400Z,-31.681,-71.583,59.1,3.7,md,14,194.1,,,us,usp000fz08,2014-11-07T01:34:57.421Z,"39 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2008-02-15T13:31:20.200Z,-30.568,-71.05,18.6,4.1,ml,4,195.2,,,us,usp000fyz4,2014-11-07T01:34:57.311Z,"14 km ENE of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2008-02-15T06:26:51.800Z,-32.165,-71.1,71.7,2.8,md,7,190.1,,,us,usp000fyyg,2014-11-07T01:34:57.245Z,"34 km NNE of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-02-14T08:40:14.200Z,-29.948,-71.566,42.7,4.1,md,7,208.9,,,us,usp000fyw0,2014-11-07T01:34:56.899Z,"21 km W of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2008-02-05T02:35:35.900Z,-30.752,-71.715,22.2,3.5,ml,8,218.5,,,us,usp000fy6r,2014-11-07T01:34:53.991Z,"52 km WSW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2008-02-03T12:00:31.500Z,-32.376,-71.467,45.1,2.8,md,6,194,,,us,usp000fy2b,2014-11-07T01:34:53.079Z,"23 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-02-03T03:16:32.500Z,-32.411,-71.498,45.8,4.4,mb,63,115.2,,,us,usp000fy1b,2014-11-07T01:34:52.667Z,"25 km W of La Ligua, Chile",earthquake,,,,21,reviewed,guc,us
+2008-02-02T21:46:46.800Z,-32.324,-71.701,11.8,2.9,ml,7,233.3,,,us,usp000fy0v,2014-11-07T01:34:52.571Z,"46 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-02-02T02:03:16.000Z,-30.954,-71.675,19.1,4.1,ml,23,115.1,,,us,usp000fxyv,2014-11-07T01:34:51.851Z,"60 km SW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2008-02-01T23:12:44.400Z,-29.943,-71.467,40.3,3.5,md,5,233.9,,,us,usp000fxyj,2014-11-07T01:34:51.474Z,"12 km W of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2008-01-28T10:47:11.300Z,-31.63,-71.626,25.4,2.9,ml,5,336.3,,,us,usp000fxmp,2014-11-07T01:34:46.484Z,"43 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2008-01-28T07:01:34.000Z,-30.828,-71.875,30,4.9,mb,30,120.1,,,us,usp000fxmd,2014-11-07T01:34:46.453Z,"69 km WSW of Ovalle, Chile",earthquake,,,,2,reviewed,guc,us
+2008-01-24T07:05:57.700Z,-32.193,-71.714,7.5,2.8,ml,6,321.5,,,us,usp000fxbb,2014-11-07T01:34:45.580Z,"53 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2008-01-20T21:09:30.700Z,-30.883,-71.309,59.2,3,m,4,331.8,,,us,usp000fx45,2014-11-07T01:34:44.286Z,"32 km SSW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2008-01-20T01:29:13.700Z,-29.87,-71.585,28.4,3.1,ml,4,246.5,,,us,usp000fx2h,2014-11-07T01:34:44.054Z,"25 km WNW of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2008-01-17T20:57:31.500Z,-30.895,-71.386,47.7,2.6,m,5,207.6,,,us,usp000fwx2,2014-11-07T01:34:43.239Z,"37 km SSW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2008-01-13T17:29:26.400Z,-31.786,-71.516,44.2,3.6,md,5,207.5,,,us,usp000fwn7,2014-11-07T01:34:41.527Z,"36 km WSW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2008-01-11T04:18:15.700Z,-32.062,-71.058,65.3,4,mb,31,110.4,,,us,usp000fwew,2014-11-07T01:34:40.192Z,"32 km SSW of Salamanca, Chile",earthquake,,,,2,reviewed,guc,us
+2008-01-10T01:59:24.400Z,-30.628,-72.122,24.4,4.1,ml,19,170.3,,,us,usp000fwcq,2014-11-07T01:34:39.951Z,"88 km W of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2008-01-10T01:38:29.400Z,-30.527,-72.189,28.3,4,ml,15,215.7,,,us,usp000fwcn,2014-11-07T01:34:39.946Z,"95 km W of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2008-01-09T11:09:55.740Z,-30.449,-71.945,46.8,4.7,mb,25,119.9,,1.18,us,usp000fwaw,2014-11-07T01:34:39.367Z,"73 km WNW of Ovalle, Chile",earthquake,,,,2,reviewed,us,us
+2008-01-09T10:28:21.170Z,-30.56,-71.925,28.1,4.8,mb,42,114.8,,1.01,us,usp000fwas,2014-11-07T01:34:39.282Z,"69 km W of Ovalle, Chile",earthquake,,,,11,reviewed,us,us
+2008-01-01T18:09:14.700Z,-32.078,-71.841,30.5,3,ml,8,216.1,,,us,usp000fvt4,2014-11-07T01:34:34.850Z,"70 km NW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-12-20T04:26:12.400Z,-32.464,-71.643,43.2,3.8,md,4,222.2,,,us,usp000fuvd,2014-11-07T01:34:27.218Z,"38 km W of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-12-15T15:36:11.900Z,-31.672,-71.051,42.1,4.3,md,19,125.6,,,us,usp000fuh0,2014-11-07T01:34:25.738Z,"12 km ESE of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-12-10T02:56:16.500Z,-29.753,-71.595,48,3.5,m,5,215.2,,,us,usp000fu5w,2014-11-07T01:34:23.372Z,"33 km NW of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2007-12-09T15:19:25.800Z,-30.324,-71.366,55.8,4.7,mb,55,84.8,,,us,usp000fu4n,2014-11-07T01:34:22.777Z,"34 km NNW of Ovalle, Chile",earthquake,,,,13,reviewed,guc,us
+2007-12-07T11:14:08.600Z,-29.936,-71.43,36.9,3.2,m,4,229.4,,,us,usp000ftzs,2014-11-07T01:34:22.177Z,"8 km WNW of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2007-12-07T05:17:17.400Z,-32.37,-71.614,40.9,2.6,m,4,288.1,,,us,usp000ftz5,2014-11-07T01:34:22.065Z,"37 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-12-03T03:58:43.200Z,-32.43,-71.68,32.5,2.6,ml,4,197.3,,,us,usp000ftrw,2014-11-07T01:34:20.539Z,"42 km W of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-11-25T13:20:01.000Z,-31.542,-71.461,41.3,4.6,mb,38,115.4,,,us,usp000ft92,2014-11-07T01:34:14.537Z,"29 km WNW of Illapel, Chile",earthquake,,,,2,reviewed,guc,us
+2007-11-16T18:57:32.000Z,-32.304,-71.351,40.9,4.1,md,11,171.2,,,us,usp000fsqt,2014-11-07T01:34:11.234Z,"19 km NW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-11-10T21:16:49.100Z,-30.562,-71.505,29.9,3.5,ml,5,210.4,,,us,usp000fsb5,2014-11-07T01:34:09.313Z,"29 km W of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-11-03T05:27:29.500Z,-32.247,-71.767,27.7,2.5,ml,7,301.6,,,us,usp000frw4,2014-11-07T01:34:06.525Z,"55 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-10-31T14:15:59.900Z,-32.214,-71.76,9.9,2.6,ml,5,227.6,,,us,usp000frpq,2014-11-07T01:34:01.813Z,"56 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-10-31T13:03:39.000Z,-32.19,-71.797,22.9,2.9,ml,8,229.2,,,us,usp000frpm,2014-11-07T01:34:01.668Z,"60 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-10-31T05:34:38.700Z,-32.199,-71.755,11,3.6,md,11,211.4,,,us,usp000frnv,2014-11-07T01:34:01.586Z,"56 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-10-31T00:07:01.600Z,-30.923,-71.848,24,4.3,mb,27,131,,,us,usp000frn5,2014-11-07T01:34:01.439Z,"71 km WSW of Ovalle, Chile",earthquake,,,,3,reviewed,guc,us
+2007-10-30T15:01:08.900Z,-30.691,-71.88,28.8,4.4,ml,21,120,,1.07,us,usp000frm7,2014-11-07T01:34:01.357Z,"66 km W of Ovalle, Chile",earthquake,,13.9,,,reviewed,us,guc
+2007-10-30T06:43:09.200Z,-30.589,-71.128,68.8,3,m,4,317.8,,,us,usp000frkg,2014-11-07T01:34:01.300Z,"6 km E of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-10-29T02:53:10.300Z,-29.732,-72.921,33.2,3.6,ml,9,264.3,,,us,usp000frgx,2014-11-07T01:34:00.354Z,"154 km W of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2007-10-26T06:08:16.400Z,-30.251,-71.319,51.1,3.1,md,5,206.6,,,us,usp000fr9e,2014-11-07T01:33:59.518Z,"33 km S of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2007-10-23T17:55:31.300Z,-29.626,-72.67,47.3,3,m,4,302.9,,,us,usp000fr49,2014-11-07T01:33:58.658Z,"133 km WNW of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2007-10-21T20:05:16.100Z,-31.449,-71.709,29.4,2.7,ml,4,220.3,,,us,usp000fr13,2014-11-07T01:33:58.304Z,"55 km WNW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-10-21T05:16:19.300Z,-30.024,-71.571,36.6,4.4,mb,27,119.7,,,us,usp000fqzp,2014-11-07T01:33:58.083Z,"23 km WSW of Coquimbo, Chile",earthquake,,,,1,reviewed,guc,us
+2007-10-20T07:23:08.400Z,-30.994,-71.15,71.4,2.7,md,5,180.1,,,us,usp000fqxy,2014-11-07T01:33:57.896Z,"37 km SSW of Monte Patria, Chile",earthquake,,,,,reviewed,guc,guc
+2007-10-19T14:01:05.300Z,-32.139,-71.072,72,2.9,m,6,148.9,,,us,usp000fqwh,2014-11-07T01:33:57.740Z,"37 km NNE of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-10-16T23:06:41.900Z,-29.729,-71.548,28.5,3.5,ml,6,226.4,,,us,usp000fqqx,2014-11-07T01:33:56.774Z,"32 km NW of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2007-10-11T15:36:06.100Z,-30.445,-71.381,44.6,3.4,m,6,208.5,,,us,usp000fqb1,2014-11-07T01:33:54.499Z,"24 km NW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-10-11T12:34:30.500Z,-30.845,-71.671,31.4,4.3,ml,12,211.9,,,us,usp000fqas,2014-11-07T01:33:54.168Z,"52 km WSW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-10-09T01:59:15.400Z,-32.159,-71.641,56.3,3.6,m,16,188.7,,,us,usp000fq5t,2014-11-07T01:33:52.356Z,"50 km NW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-10-08T23:45:37.600Z,-32.447,-72.694,34.3,4.3,ml,34,183,,,us,usp000fq5g,2014-11-07T01:33:52.318Z,"119 km WNW of Valparaíso, Chile",earthquake,,,,,reviewed,guc,guc
+2007-10-08T18:04:18.300Z,-31.3,-71.825,28.3,3.6,ml,10,211.4,,,us,usp000fq4w,2014-11-07T01:33:52.221Z,"72 km WNW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-10-08T15:45:04.900Z,-30.977,-71.261,61.6,2.9,md,5,200.3,,,us,usp000fq4q,2014-11-07T01:33:52.159Z,"42 km S of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-10-08T09:29:29.000Z,-30.182,-71.786,34.6,3.1,ml,4,269.1,,,us,usp000fq3v,2014-11-07T01:33:52.056Z,"49 km WSW of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2007-10-04T21:42:34.000Z,-30.9,-71.645,10,2.8,ml,4,225.9,,,us,usp000fpwc,2014-11-07T01:33:50.758Z,"54 km SW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-10-04T17:24:55.700Z,-31.538,-71.45,15,2.6,ml,4,210.1,,,us,usp000fpvp,2014-11-07T01:33:50.666Z,"28 km WNW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-10-04T12:12:09.900Z,-32.117,-71.716,22.3,3,ml,8,210,,,us,usp000fpv8,2014-11-07T01:33:50.415Z,"58 km NW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-10-04T03:06:42.300Z,-32.245,-71.37,43.8,3.7,md,7,182.3,,,us,usp000fpud,2014-11-07T01:33:50.136Z,"26 km NNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-10-03T02:25:03.600Z,-30.301,-71.498,43.2,4.5,mb,29,114.9,,,us,usp000fprp,2014-11-07T01:33:48.691Z,"41 km SSW of Coquimbo, Chile",earthquake,,,,6,reviewed,guc,us
+2007-10-02T16:07:15.650Z,-29.567,-72.106,10,3.5,ml,17,168.5,,1.04,us,usp000fpqf,2014-11-07T01:33:48.140Z,"85 km WNW of Coquimbo, Chile",earthquake,,,,,reviewed,us,guc
+2007-10-01T08:50:18.300Z,-32.425,-71.468,36.2,3.2,md,4,278.2,,,us,usp000fpm2,2014-11-07T01:33:46.260Z,"22 km W of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-10-01T01:06:36.000Z,-29.598,-71.213,46,2.5,m,4,196.3,,,us,usp000fpke,2014-11-07T01:33:45.477Z,"34 km N of La Serena, Chile",earthquake,,,,,reviewed,guc,guc
+2007-09-29T19:51:42.300Z,-32.498,-71.737,27.8,2.8,ml,11,207.9,,,us,usp000fpfd,2014-11-07T01:33:42.172Z,"47 km W of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-09-29T14:25:55.100Z,-30.732,-71.595,32.8,3.1,ml,4,310.2,,,us,usp000fpen,2014-11-07T01:33:42.064Z,"40 km WSW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-09-29T00:46:04.700Z,-29.53,-71.533,14.2,3.3,ml,5,230.6,,,us,usp000fpda,2014-11-07T01:33:41.882Z,"49 km NNW of La Serena, Chile",earthquake,,,,,reviewed,guc,guc
+2007-09-28T20:36:44.000Z,-32.256,-71.586,57.4,3.2,md,6,198.7,,,us,usp000fpcy,2014-11-07T01:33:41.860Z,"39 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-09-28T10:00:32.600Z,-30.018,-71.655,35.5,3.7,md,5,242.4,,,us,usp000fpbp,2014-11-07T01:33:41.619Z,"31 km WSW of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2007-09-28T07:27:14.400Z,-30.55,-71.374,14,4,ml,16,188.4,,,us,usp000fpb6,2014-11-07T01:33:41.558Z,"17 km WNW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-09-28T01:44:35.100Z,-31.124,-72.178,38.1,3.7,md,12,233.9,,,us,usp000fp9w,2014-11-07T01:33:41.406Z,"110 km WSW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-09-27T03:07:28.800Z,-30.736,-71.648,18.2,3.1,ml,9,214.5,,,us,usp000fp6j,2014-11-07T01:33:40.760Z,"45 km WSW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-09-21T09:36:48.100Z,-32.217,-71.68,30.2,2.5,ml,4,297.7,,,us,usp000fnu0,2014-11-07T01:33:37.903Z,"49 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-09-20T09:24:31.300Z,-32.483,-71.856,10.4,3.8,ml,14,209.9,,,us,usp000fns2,2014-11-07T01:33:37.679Z,"58 km W of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-09-19T11:15:31.900Z,-31.371,-71.328,46.5,4,md,14,173.8,,,us,usp000fnpd,2014-11-07T01:33:37.296Z,"32 km NNW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-09-18T21:22:30.800Z,-32.115,-71.389,47,2.9,md,4,304.7,,,us,usp000fnmq,2014-11-07T01:33:37.099Z,"40 km NNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-09-18T10:32:53.300Z,-32.492,-71.347,48.4,3.2,md,12,212.4,,,us,usp000fnkk,2014-11-07T01:33:36.995Z,"11 km WSW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-09-17T01:32:02.600Z,-31.559,-72.051,30.5,3.7,ml,7,218.3,,,us,usp000fngf,2014-11-07T01:33:36.226Z,"84 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-09-16T14:57:48.700Z,-31.684,-72.065,19.2,2.9,ml,6,238.7,,,us,usp000fney,2014-11-07T01:33:35.996Z,"85 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-09-14T21:50:54.300Z,-32.4,-71.667,31.4,2.7,ml,7,265.7,,,us,usp000fn9m,2014-11-07T01:33:35.257Z,"41 km W of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-09-12T09:34:25.700Z,-29.966,-71.477,35.4,2.9,ml,5,224.9,,,us,usp000fmyx,2014-11-07T01:33:33.262Z,"13 km W of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2007-09-11T18:28:43.600Z,-29.733,-72.042,3.1,2.7,ml,5,264.2,,,us,usp000fmxd,2014-11-07T01:33:33.049Z,"72 km WNW of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2007-09-11T18:15:06.200Z,-30.518,-71.391,11.2,3.7,ml,10,196.1,,,us,usp000fmxb,2014-11-07T01:33:33.044Z,"20 km WNW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-09-10T04:57:23.800Z,-30.719,-71.654,21.9,3.8,ml,9,211.8,,,us,usp000fmtw,2014-11-07T01:33:32.388Z,"45 km WSW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-09-09T03:29:00.400Z,-30.484,-71.36,9,3.2,ml,8,198.6,,,us,usp000fmrb,2014-11-07T01:33:31.956Z,"20 km NW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-09-08T04:41:14.400Z,-31.523,-71.678,30.5,2.5,ml,4,239.5,,,us,usp000fmp4,2014-11-07T01:33:31.712Z,"49 km WNW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-09-07T01:25:41.800Z,-30.911,-71.368,56.9,2.9,md,4,196.4,,,us,usp000fmkm,2014-11-07T01:33:31.250Z,"37 km SSW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-09-06T08:32:37.200Z,-32.39,-71.616,49,2.9,md,4,289.6,,,us,usp000fmj5,2014-11-07T01:33:31.010Z,"36 km W of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-09-06T06:25:00.700Z,-29.992,-71.695,37,4.7,mb,25,114.7,,,us,usp000fmhu,2014-11-07T01:33:30.981Z,"34 km W of Coquimbo, Chile",earthquake,,,,1,reviewed,guc,us
+2007-09-06T06:19:23.700Z,-30.004,-71.68,37.9,3.8,md,5,244.1,,,us,usp000fmht,2014-11-07T01:33:30.979Z,"33 km W of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2007-09-05T01:50:40.000Z,-32.461,-71.6,44.1,3.4,md,4,309.7,,,us,usp000fmf0,2014-11-07T01:33:30.471Z,"34 km W of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-09-04T18:36:04.500Z,-31.264,-71.725,14.8,3.1,ml,7,217.2,,,us,usp000fmec,2014-11-07T01:33:30.414Z,"66 km NW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-09-04T18:19:36.970Z,-31.184,-71.805,30.4,4.4,mb,28,120.3,,1.33,us,usp000fmeb,2014-11-07T01:33:30.410Z,"78 km NW of Illapel, Chile",earthquake,,19.2,,2,reviewed,us,us
+2007-09-04T16:12:00.000Z,-31.243,-71.808,15,3,ml,6,220.4,,,us,usp000fme3,2014-11-07T01:33:30.389Z,"74 km NW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-09-04T03:36:52.100Z,-30.85,-71.693,20,3.7,ml,4,331.3,,,us,usp000fmd7,2014-11-07T01:33:30.249Z,"54 km WSW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-09-03T21:09:31.500Z,-32.135,-71.32,40.2,4.2,md,16,164.8,,,us,usp000fmck,2014-11-07T01:33:30.114Z,"36 km NNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-09-03T17:38:43.000Z,-29.974,-71.653,39.7,4.2,md,11,200.8,,,us,usp000fmc9,2014-11-07T01:33:30.048Z,"30 km W of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2007-09-02T07:39:46.600Z,-31.686,-71.625,34.5,4.8,ml,40,115.4,,,us,usp000fm7r,2014-11-07T01:33:28.952Z,"43 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-08-31T11:21:44.200Z,-32.473,-71.698,13.5,2.6,ml,9,207.8,,,us,usp000fm2s,2014-11-07T01:33:24.882Z,"43 km W of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-08-31T01:59:35.600Z,-30.754,-71.733,35.4,3.6,md,7,219.6,,,us,usp000fm1v,2014-11-07T01:33:24.714Z,"53 km WSW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-08-29T19:48:45.900Z,-29.607,-71.283,71.6,3.9,m,4,210.5,,,us,usp000fkyy,2014-11-07T01:33:24.357Z,"33 km N of La Serena, Chile",earthquake,,,,,reviewed,guc,guc
+2007-08-27T08:05:04.300Z,-30.869,-71.423,60.5,3,md,8,194.3,,,us,usp000fkt3,2014-11-07T01:33:23.494Z,"36 km SW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-08-26T08:46:46.200Z,-30.928,-71.55,38.5,2.9,m,6,210.8,,,us,usp000fkqd,2014-11-07T01:33:23.080Z,"49 km SW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-08-25T15:59:01.000Z,-32.338,-71.111,63.2,2.6,md,9,246.2,,,us,usp000fkpa,2014-11-07T01:33:22.741Z,"16 km NE of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-08-25T06:51:01.200Z,-31.799,-72.061,24.3,3.6,ml,14,214.7,,,us,usp000fknb,2014-11-07T01:33:22.667Z,"86 km WSW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-08-24T12:21:12.000Z,-32.187,-71.639,6.6,2.6,ml,8,283.6,,,us,usp000fkkf,2014-11-07T01:33:22.495Z,"48 km NW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-08-23T14:26:36.600Z,-32.189,-71.619,0,2.8,ml,8,305.4,,,us,usp000fkha,2014-11-07T01:33:22.058Z,"46 km NW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-08-23T10:49:22.500Z,-31.745,-71.493,38.3,4.7,mb,95,104,,,us,usp000fkgz,2014-11-07T01:33:21.710Z,"33 km WSW of Illapel, Chile",earthquake,,,,25,reviewed,guc,us
+2007-08-23T05:28:33.100Z,-32.384,-72.151,34.1,2.9,ml,9,285.1,,,us,usp000fkgf,2014-11-07T01:33:21.373Z,"86 km W of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-08-18T18:58:23.500Z,-30.616,-71.681,21.9,2.8,ml,5,229.1,,,us,usp000fk4x,2014-11-07T01:33:19.042Z,"46 km W of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-08-16T15:06:45.300Z,-32.444,-72.109,0.7,2.8,ml,7,303.5,,,us,usp000fjxt,2014-11-07T01:33:17.397Z,"79 km NW of Valparaíso, Chile",earthquake,,,,,reviewed,guc,guc
+2007-08-16T11:44:29.900Z,-32.411,-72.015,0,3,ml,7,303.6,,,us,usp000fjx4,2014-11-07T01:33:17.316Z,"73 km W of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-08-16T09:54:26.600Z,-32.447,-71.486,19.6,2.5,ml,12,283.6,,,us,usp000fjwp,2014-11-07T01:33:17.243Z,"23 km W of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-08-15T22:43:35.900Z,-29.947,-71.121,85.1,4.2,mb,32,103.7,,,us,usp000fjt1,2014-11-07T01:33:16.462Z,"13 km ESE of La Serena, Chile",earthquake,,,,3,reviewed,guc,us
+2007-08-15T11:05:20.800Z,-29.886,-71.412,51.8,3.8,md,6,215.2,,,us,usp000fjrr,2014-11-07T01:33:16.241Z,"10 km NW of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2007-08-12T21:42:40.300Z,-32.436,-71.345,44.6,3.7,md,13,168.8,,,us,usp000fjhg,2014-11-07T01:33:15.358Z,"10 km W of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-08-12T19:12:50.800Z,-32.464,-71.695,15,2.5,ml,7,289.4,,,us,usp000fjh4,2014-11-07T01:33:15.322Z,"43 km W of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-08-12T15:36:13.480Z,-32.495,-71.874,10,3.8,ml,29,121,,0.95,us,usp000fjgr,2014-11-07T01:33:15.266Z,"60 km W of La Ligua, Chile",earthquake,,,,,reviewed,us,guc
+2007-08-12T15:27:09.300Z,-32.346,-71.537,42.8,3.6,md,13,194.9,,,us,usp000fjgq,2014-11-07T01:33:15.263Z,"31 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-08-12T08:49:18.900Z,-32.118,-71.805,27.9,2.5,ml,6,324.3,,,us,usp000fjfr,2014-11-07T01:33:15.102Z,"65 km NW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-08-12T05:45:27.500Z,-31.01,-71.576,55,3.5,md,10,202,,,us,usp000fjfb,2014-11-07T01:33:15.024Z,"57 km SW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-08-11T00:59:24.200Z,-31.435,-71.724,31.8,2.7,ml,4,228.8,,,us,usp000fjcg,2014-11-07T01:33:14.178Z,"57 km WNW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-08-10T22:24:38.000Z,-31.71,-71.003,9.2,2.6,ml,5,188,,,us,usp000fjc6,2014-11-07T01:33:14.152Z,"8 km NNW of Salamanca, Chile",earthquake,,,,,reviewed,guc,guc
+2007-08-09T03:02:37.400Z,-32.475,-71.69,27.8,2.5,ml,7,210.3,,,us,usp000fj7v,2014-11-07T01:33:13.609Z,"43 km W of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-08-08T19:21:58.300Z,-32.493,-71.726,35.6,4,md,20,201.1,,,us,usp000fj71,2014-11-07T01:33:13.473Z,"46 km W of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-08-08T18:09:40.500Z,-32.492,-71.685,24.9,3.5,ml,17,196.5,,,us,usp000fj6q,2014-11-07T01:33:13.441Z,"42 km W of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-08-08T14:28:13.900Z,-32.488,-71.704,27.5,3.2,ml,14,205.1,,,us,usp000fj68,2014-11-07T01:33:13.294Z,"44 km W of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-08-08T14:14:20.030Z,-32.475,-71.6,32.7,5.3,mwc,155,104,,0.84,us,usp000fj65,2022-07-14T05:02:26.290Z,"34 km W of La Ligua, Chile",earthquake,,3.9,,,reviewed,us,gcmt
+2007-08-08T07:23:06.700Z,-32.059,-71.678,32.8,2.5,ml,5,223.1,,,us,usp000fj5e,2014-11-07T01:33:13.192Z,"60 km NW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-08-08T06:25:49.000Z,-32.053,-71.691,36.8,3.9,md,14,201.7,,,us,usp000fj5c,2014-11-07T01:33:13.189Z,"61 km NW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-08-06T03:22:24.600Z,-30.913,-71.841,5.5,2.8,ml,5,277.3,,,us,usp000fhzw,2014-11-07T01:33:12.513Z,"70 km WSW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-08-05T10:39:28.500Z,-32.092,-71.866,21,2.6,ml,6,245.5,,,us,usp000fhxq,2014-11-07T01:33:12.087Z,"71 km NW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-08-04T23:47:52.100Z,-30.815,-71.135,64.9,3.8,m,15,167.4,,,us,usp000fhwg,2014-11-07T01:33:11.911Z,"21 km SW of Monte Patria, Chile",earthquake,,,,,reviewed,guc,guc
+2007-08-04T03:45:11.500Z,-32.251,-71.716,11.3,3.3,ml,14,199.8,,,us,usp000fhu8,2014-11-07T01:33:11.567Z,"50 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-08-03T10:05:26.500Z,-32.175,-71.035,70.5,3.5,md,14,292.7,,,us,usp000fhsw,2014-11-07T01:33:11.417Z,"35 km NNE of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-08-02T10:16:58.000Z,-32.436,-71.318,14.8,2.7,ml,6,198.8,,,us,usp000fhpq,2014-11-07T01:33:10.478Z,"8 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-08-02T04:41:03.300Z,-31.481,-71.639,27.2,3.5,ml,12,207.4,,,us,usp000fhnf,2014-11-07T01:33:09.912Z,"47 km WNW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-08-01T13:54:34.600Z,-30.867,-71.653,33.9,2.6,ml,4,265.5,,,us,usp000fhm0,2014-11-07T01:33:08.915Z,"52 km SW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-08-01T02:45:48.400Z,-31.689,-71.607,32,4,mb,29,159.2,,,us,usp000fhjw,2014-11-07T01:33:08.228Z,"41 km W of Illapel, Chile",earthquake,,,,1,reviewed,guc,us
+2007-07-31T21:32:42.700Z,-29.97,-72.048,8,3.4,ml,6,256,,,us,usp000fhja,2014-11-07T01:33:06.039Z,"68 km W of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2007-07-31T09:15:36.900Z,-31.581,-71.345,73.1,3.2,md,7,205.7,,,us,usp000fhgt,2014-11-07T01:33:05.732Z,"17 km WNW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-07-31T09:03:03.900Z,-31.725,-71.909,27,3,ml,4,243.2,,,us,usp000fhgs,2014-11-07T01:33:05.731Z,"70 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-07-30T15:37:25.780Z,-30.623,-71.309,42.3,4.2,md,14,187.7,,1.09,us,usp000fhex,2014-11-07T01:33:05.425Z,"10 km WSW of Ovalle, Chile",earthquake,,11.3,,,reviewed,us,guc
+2007-07-29T19:31:02.700Z,-30.364,-71.567,40.7,3.8,md,5,240.4,,,us,usp000fhcw,2014-11-07T01:33:05.212Z,"44 km NW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-07-29T07:52:39.600Z,-32.297,-71.759,5.1,2.5,ml,8,216.2,,,us,usp000fhbp,2014-11-07T01:33:05.105Z,"52 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-07-28T09:00:20.700Z,-30.918,-71.463,71,3,md,5,202.7,,,us,usp000fh93,2014-11-07T01:33:04.713Z,"43 km SW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-07-27T22:50:45.900Z,-30.393,-71.587,25.2,3.2,ml,6,227.9,,,us,usp000fh7w,2014-11-07T01:33:04.514Z,"43 km WNW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-07-26T21:49:59.100Z,-30.405,-71.613,31.2,4.5,mb,31,141.6,,,us,usp000fh5j,2014-11-07T01:33:04.172Z,"45 km WNW of Ovalle, Chile",earthquake,,,,7,reviewed,guc,us
+2007-07-26T20:46:53.600Z,-32.397,-71.326,46.1,3.5,md,7,207.3,,,us,usp000fh5c,2014-11-07T01:33:04.160Z,"10 km NW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-07-23T20:31:24.900Z,-31.924,-71.05,79.5,3.2,md,10,177.4,,,us,usp000fgyg,2014-11-07T01:33:02.805Z,"18 km SSW of Salamanca, Chile",earthquake,,,,,reviewed,guc,guc
+2007-07-21T20:40:57.600Z,-32.145,-71.685,51.2,3.5,md,6,213.8,,,us,usp000fgtk,2014-11-07T01:33:02.127Z,"54 km NW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-07-21T19:24:09.000Z,-30.232,-72.09,41.3,4,md,5,260.2,,,us,usp000fgtf,2014-11-07T01:33:02.098Z,"78 km WSW of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2007-07-21T07:40:03.300Z,-30.881,-71.705,28.6,2.6,ml,5,266.5,,,us,usp000fgs5,2014-11-07T01:33:01.790Z,"57 km WSW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-07-21T06:44:51.800Z,-31.698,-71.325,0,2.6,ml,6,201.5,,,us,usp000fgrz,2014-11-07T01:33:01.780Z,"16 km WSW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-07-19T08:19:32.800Z,-32.057,-71.266,72.8,3.1,md,5,327.5,,,us,usp000fgmf,2014-11-07T01:33:00.705Z,"42 km SW of Salamanca, Chile",earthquake,,,,,reviewed,guc,guc
+2007-07-18T00:41:11.400Z,-32.116,-71.627,30.2,3.5,ml,14,194,,,us,usp000fggq,2014-11-07T01:32:59.711Z,"52 km NW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-07-17T08:04:11.900Z,-31.064,-71.391,64.1,3.4,md,7,194.6,,,us,usp000fge8,2014-11-07T01:32:58.851Z,"54 km SSW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-07-16T20:00:52.700Z,-30.037,-71.463,37.8,3.7,md,4,280.1,,,us,usp000fgcp,2014-11-07T01:32:58.631Z,"15 km SW of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2007-07-16T08:20:33.900Z,-32.08,-71.136,79.7,2.5,md,6,328.7,,,us,usp000fgb4,2014-11-07T01:32:58.463Z,"37 km SSW of Salamanca, Chile",earthquake,,,,,reviewed,guc,guc
+2007-07-16T06:53:39.400Z,-31.458,-71.959,5.5,3.5,ml,6,231,,,us,usp000fgav,2014-11-07T01:32:58.446Z,"77 km WNW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-07-15T21:49:27.600Z,-31.533,-71.391,31.2,3.1,ml,9,200.1,,,us,usp000fg9g,2014-11-07T01:32:58.186Z,"23 km WNW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-07-15T19:26:15.400Z,-31.807,-71.218,72.2,3,md,6,196.5,,,us,usp000fg93,2014-11-07T01:32:58.093Z,"19 km SSW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-07-15T09:48:03.700Z,-32.212,-71.744,32,3.4,ml,15,207.9,,,us,usp000fg79,2014-11-07T01:32:57.717Z,"55 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-07-15T04:57:46.200Z,-30.709,-71.541,24.3,2.6,ml,4,217.4,,,us,usp000fg6w,2014-11-07T01:32:57.631Z,"34 km WSW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-07-13T05:30:31.300Z,-32.404,-71.407,15.2,3.3,ml,19,168.1,,,us,usp000fg2n,2014-11-07T01:32:57.121Z,"17 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-07-13T00:08:59.900Z,-32.254,-71.696,1.2,2.8,ml,7,213.8,,,us,usp000fg27,2014-11-07T01:32:57.086Z,"48 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-07-12T20:47:37.760Z,-30.838,-71.361,59.2,5,mb,85,81.6,,0.81,us,usp000fg1z,2014-11-07T01:32:57.054Z,"30 km SSW of Ovalle, Chile",earthquake,,,,31,reviewed,us,us
+2007-07-12T04:11:30.000Z,-32.418,-71.383,15.1,2.7,ml,7,211.6,,,us,usp000fg0m,2014-11-07T01:32:56.747Z,"14 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-07-11T13:50:17.600Z,-32.019,-71.55,30,2.6,ml,5,212.6,,,us,usp000ffzc,2014-11-07T01:32:56.486Z,"55 km SW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-07-09T20:34:15.600Z,-29.776,-71.72,45.9,3.1,m,6,239.2,,,us,usp000ffw1,2014-11-07T01:32:56.058Z,"41 km WNW of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2007-07-09T19:30:58.700Z,-32.335,-71.923,8.3,2.6,ml,6,222.4,,,us,usp000ffvx,2014-11-07T01:32:56.044Z,"66 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-07-09T08:16:18.700Z,-30.396,-71.559,31.6,3.2,ml,6,232.9,,,us,usp000ffuf,2014-11-07T01:32:55.891Z,"41 km WNW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-07-08T09:37:37.200Z,-32.216,-71.098,50.7,2.5,m,11,176,,,us,usp000ffrq,2014-11-07T01:32:55.568Z,"29 km NNE of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-07-08T00:53:06.900Z,-29.747,-71.166,46.4,3,m,6,173.9,,,us,usp000ffqc,2014-11-07T01:32:55.358Z,"19 km NNE of La Serena, Chile",earthquake,,,,,reviewed,guc,guc
+2007-07-06T23:24:39.500Z,-30.67,-71.56,44.3,2.8,m,5,243.4,,,us,usp000ffmj,2014-11-07T01:32:54.979Z,"35 km WSW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-07-06T10:40:40.600Z,-29.722,-71.284,48.7,2.8,m,4,211.5,,,us,usp000ffkf,2014-11-07T01:32:54.846Z,"20 km N of La Serena, Chile",earthquake,,,,,reviewed,guc,guc
+2007-07-06T09:06:00.900Z,-32.468,-71.763,15.6,2.7,ml,9,216,,,us,usp000ffke,2014-11-07T01:32:54.844Z,"50 km W of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-07-05T19:25:49.000Z,-30.35,-71.458,44.7,4.8,mb,107,82.3,,,us,usp000ffjb,2022-05-02T20:21:23.819Z,"37 km NW of Ovalle, Chile",earthquake,,,,41,reviewed,guc,us
+2007-07-04T17:54:04.000Z,-31.467,-71.68,26.7,2.9,ml,4,226.2,,,us,usp000ffg1,2014-11-07T01:32:54.340Z,"51 km WNW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-07-02T12:45:45.400Z,-31.653,-72.065,28.1,3.3,ml,11,220.8,,,us,usp000ff9z,2014-11-07T01:32:52.678Z,"84 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-07-02T04:22:31.900Z,-29.526,-71.057,47,3.6,md,5,172.3,,,us,usp000ff9b,2014-11-07T01:32:52.535Z,"45 km NNE of La Serena, Chile",earthquake,,,,,reviewed,guc,guc
+2007-07-01T10:48:03.700Z,-30.378,-71.606,64.6,2.7,m,6,235.7,,,us,usp000ff7j,2014-11-07T01:32:51.563Z,"46 km WNW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-06-28T19:25:21.370Z,-32.004,-71.34,68.8,5.7,mwb,252,46.3,,0.75,us,usp000ff1v,2022-07-14T06:00:49.698Z,"43 km SW of Salamanca, Chile",earthquake,,,,,reviewed,us,us
+2007-06-28T15:23:12.730Z,-30.165,-71.66,40,4.5,mb,23,147.5,,1.6,us,usp000ff1j,2014-11-07T01:32:46.758Z,"38 km SW of Coquimbo, Chile",earthquake,,0,,9,reviewed,us,us
+2007-06-27T04:47:54.200Z,-32.082,-71.262,67.7,3.8,md,13,176.6,,,us,usp000fey6,2014-11-07T01:32:46.345Z,"41 km N of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-06-26T04:16:22.900Z,-32.262,-71.961,25.4,2.6,ml,4,248.8,,,us,usp000fewg,2014-11-07T01:32:46.069Z,"71 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-06-25T10:14:36.100Z,-32.118,-71.746,24.2,2.8,ml,7,226.5,,,us,usp000feu5,2014-11-07T01:32:45.852Z,"61 km NW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-06-25T07:13:25.700Z,-30.668,-71.53,28.4,2.7,ml,4,240,,,us,usp000fetg,2014-11-07T01:32:45.804Z,"32 km WSW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-06-24T14:25:37.600Z,-31.457,-71.616,31.6,2.8,ml,4,234.9,,,us,usp000fer3,2014-11-07T01:32:45.597Z,"46 km WNW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-06-23T13:35:47.200Z,-30.93,-71.559,30.6,3.4,ml,8,205.8,,,us,usp000fen1,2014-11-07T01:32:45.215Z,"50 km SW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-06-23T09:11:05.700Z,-30.849,-71.31,59.8,2.9,md,4,222.7,,,us,usp000femp,2014-11-07T01:32:45.145Z,"29 km SSW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-06-22T00:28:25.600Z,-30.791,-71.284,49.5,4.2,md,13,188.2,,,us,usp000fehd,2014-11-07T01:32:44.693Z,"22 km SSW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-06-21T15:30:30.000Z,-31.702,-71.624,29.8,3.1,ml,8,221.3,,,us,usp000fegh,2014-11-07T01:32:44.617Z,"43 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-06-21T09:54:54.000Z,-31.755,-71.157,45,5.1,mwc,223,69.2,,,us,usp000feg1,2022-05-02T20:20:00.656Z,"13 km S of Illapel, Chile",earthquake,,,,,reviewed,guc,gcmt
+2007-06-21T09:52:42.800Z,-31.728,-71.072,42.8,3.6,md,6,168,,,us,usp000feg0,2014-11-07T01:32:44.466Z,"11 km WNW of Salamanca, Chile",earthquake,,,,,reviewed,guc,guc
+2007-06-20T03:50:39.300Z,-31.441,-71.778,47.3,4.2,mb,40,144.8,,,us,usp000fedb,2014-11-07T01:32:43.928Z,"61 km WNW of Illapel, Chile",earthquake,,,,5,reviewed,guc,us
+2007-06-19T14:18:41.100Z,-30.041,-71.165,61.4,3.1,md,6,155.4,,,us,usp000fec0,2014-11-07T01:32:43.791Z,"17 km SSE of La Serena, Chile",earthquake,,,,,reviewed,guc,guc
+2007-06-14T23:25:17.200Z,-30.391,-71.466,24.6,3.3,ml,7,209.5,,,us,usp000fe1a,2014-11-07T01:32:42.597Z,"34 km NW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-06-14T22:57:08.100Z,-32.302,-71.399,41.4,4,md,10,186.7,,,us,usp000fe17,2014-11-07T01:32:42.568Z,"22 km NW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-06-13T17:15:57.200Z,-32.16,-71.549,42.7,4.1,md,14,192.6,,,us,usp000fdyt,2014-11-07T01:32:42.041Z,"44 km NW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-06-13T09:46:45.900Z,-32.178,-71.731,24.5,2.9,ml,10,303.8,,,us,usp000fdy4,2014-11-07T01:32:41.997Z,"56 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-06-12T21:45:58.400Z,-32.441,-71.046,70.6,2.7,md,4,306.5,,,us,usp000fdxa,2014-11-07T01:32:41.904Z,"17 km E of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-06-07T01:03:03.600Z,-31.693,-72.088,15.3,2.8,ml,4,267.2,,,us,usp000fdh7,2014-11-07T01:32:39.914Z,"87 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-06-06T19:46:19.300Z,-31.417,-71.708,29.5,3,ml,6,224.6,,,us,usp000fdgq,2014-11-07T01:32:39.802Z,"56 km WNW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-06-06T10:53:25.800Z,-31.523,-71.663,30.6,3.9,ml,13,197.7,,,us,usp000fdfz,2014-11-07T01:32:39.691Z,"48 km WNW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-06-06T07:15:43.300Z,-32.448,-71.832,21.8,2.8,ml,5,226.6,,,us,usp000fdfn,2014-11-07T01:32:39.666Z,"56 km W of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-06-05T06:42:12.100Z,-32.156,-71.835,35.8,4.1,md,14,215,,,us,usp000fddh,2014-11-07T01:32:39.317Z,"65 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-06-05T03:24:25.900Z,-32.144,-71.857,35,3.5,md,5,244.2,,,us,usp000fdd4,2014-11-07T01:32:39.236Z,"68 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-06-02T10:44:14.900Z,-30.168,-71.143,68.8,2.9,m,7,154.6,,,us,usp000fd7a,2014-11-07T01:32:37.557Z,"30 km SE of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2007-06-02T10:06:29.000Z,-31.053,-71.218,62.7,3,m,6,195.7,,,us,usp000fd77,2014-11-07T01:32:37.451Z,"46 km SSW of Monte Patria, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-26T00:08:22.800Z,-32.06,-71.388,36.8,4.7,mb,34,115.6,,,us,usp000fcre,2014-11-07T01:32:31.795Z,"45 km NNW of La Ligua, Chile",earthquake,,,,1,reviewed,guc,us
+2007-05-25T12:57:57.200Z,-31.318,-71.61,19.9,3.3,ml,10,206.2,,,us,usp000fcqf,2014-11-07T01:32:31.649Z,"54 km NW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-25T02:20:22.900Z,-30.68,-71.288,49.9,3.7,md,4,209.3,,,us,usp000fcpm,2014-11-07T01:32:31.572Z,"12 km SW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-24T11:19:50.600Z,-32.324,-71.407,40.4,3.7,md,4,334.8,,,us,usp000fcn1,2014-11-07T01:32:31.371Z,"21 km NW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-23T12:19:55.300Z,-30.544,-71.619,29.4,4.4,ml,28,114.9,,,us,usp000fcjt,2014-11-07T01:32:31.078Z,"40 km W of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-23T06:29:15.800Z,-29.618,-71.102,49.7,3.4,m,7,173,,,us,usp000fcjb,2014-11-07T01:32:31.013Z,"34 km NNE of La Serena, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-22T16:26:23.700Z,-29.607,-71.167,60.7,3.3,md,6,186.5,,,us,usp000fcgs,2014-11-07T01:32:30.754Z,"33 km NNE of La Serena, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-21T18:35:00.900Z,-31.708,-72.032,14,3.1,ml,5,228.7,,,us,usp000fcf3,2014-11-07T01:32:30.591Z,"82 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-21T18:17:24.400Z,-29.578,-71.214,51.4,4.2,m,9,194.4,,,us,usp000fcf2,2014-11-07T01:32:30.589Z,"36 km N of La Serena, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-21T16:30:46.400Z,-29.559,-71.208,50.7,3.6,m,8,191.9,,,us,usp000fcev,2014-11-07T01:32:30.547Z,"38 km N of La Serena, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-21T14:14:51.500Z,-29.692,-71.254,50.2,3.7,md,6,203.5,,,us,usp000fcer,2014-11-07T01:32:30.535Z,"23 km N of La Serena, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-21T14:06:45.400Z,-31.633,-71.548,36.5,3.8,md,5,219.8,,,us,usp000fcep,2014-11-07T01:32:30.528Z,"35 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-21T02:54:57.400Z,-31.981,-71.275,32.7,2.6,ml,5,192.2,,,us,usp000fcdx,2014-11-07T01:32:30.449Z,"36 km SW of Salamanca, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-21T00:20:28.400Z,-29.622,-71.136,50.9,4.1,md,9,178.8,,,us,usp000fcdn,2014-11-07T01:32:30.389Z,"33 km NNE of La Serena, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-20T23:36:47.500Z,-29.55,-71.132,46.8,3.1,m,6,183.3,,,us,usp000fcdk,2014-11-07T01:32:30.367Z,"40 km NNE of La Serena, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-20T19:59:35.900Z,-29.605,-71.218,56.5,3.2,m,6,197.1,,,us,usp000fcd6,2014-11-07T01:32:30.294Z,"33 km N of La Serena, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-20T19:41:34.900Z,-29.582,-71.093,51.7,4.5,m,22,127,,,us,usp000fcd3,2014-11-07T01:32:30.284Z,"38 km NNE of La Serena, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-20T19:13:07.100Z,-29.56,-71.144,43.7,2.8,m,5,184.9,,,us,usp000fcd1,2014-11-07T01:32:30.280Z,"39 km NNE of La Serena, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-20T14:30:05.700Z,-29.593,-71.219,55.8,3.3,md,5,197.7,,,us,usp000fccn,2014-11-07T01:32:30.250Z,"34 km N of La Serena, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-20T13:06:14.700Z,-29.559,-71.146,58.1,3.3,md,5,185.3,,,us,usp000fccj,2014-11-07T01:32:30.217Z,"39 km NNE of La Serena, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-20T12:44:29.300Z,-29.542,-71.179,50.6,2.9,m,5,192.1,,,us,usp000fccg,2014-11-07T01:32:30.210Z,"40 km N of La Serena, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-20T12:15:45.000Z,-29.588,-71.12,46.2,5.4,mwb,229,66.4,,0.75,us,usp000fcce,2022-07-14T06:18:09.533Z,"37 km NNE of La Serena, Chile",earthquake,,,,,reviewed,us,us
+2007-05-20T03:38:06.700Z,-30.923,-71.66,33.9,3.8,ml,12,207,,,us,usp000fcbj,2014-11-07T01:32:30.123Z,"56 km SW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-20T02:35:07.600Z,-31.029,-71.309,47.8,3.9,md,7,189.6,,,us,usp000fcbe,2014-11-07T01:32:30.102Z,"48 km SSW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-20T00:47:51.700Z,-32.475,-71.904,31.7,3,ml,7,232.8,,,us,usp000fcb7,2014-11-07T01:32:30.092Z,"63 km W of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-19T05:02:13.400Z,-30.951,-71.692,15.6,3.2,ml,6,223.7,,,us,usp000fc9m,2014-11-07T01:32:29.795Z,"61 km SW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-19T04:39:35.300Z,-30.932,-71.665,36.9,4.3,mb,25,124.6,,,us,usp000fc9j,2014-11-07T01:32:29.790Z,"57 km SW of Ovalle, Chile",earthquake,,,,1,reviewed,guc,us
+2007-05-18T19:59:02.400Z,-31.552,-71.376,46.5,4.1,md,10,194.7,,,us,usp000fc8n,2014-11-07T01:32:29.428Z,"21 km WNW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-18T00:09:58.600Z,-31.354,-71.729,32.6,3.5,ml,11,212.3,,,us,usp000fc6k,2014-11-07T01:32:29.113Z,"61 km WNW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-17T05:56:14.700Z,-31.711,-71.554,58.2,3.4,md,14,192.3,,,us,usp000fc4y,2014-11-07T01:32:28.914Z,"37 km WSW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-17T05:47:10.800Z,-31.883,-71.278,47,3.4,md,4,212.4,,,us,usp000fc4u,2014-11-07T01:32:28.907Z,"29 km SSW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-17T01:13:05.100Z,-32.413,-71.42,15,2.7,ml,8,179.3,,,us,usp000fc46,2014-11-07T01:32:28.802Z,"18 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-15T20:25:50.800Z,-29.984,-71.63,42.7,2.5,m,5,244.5,,,us,usp000fc1p,2014-11-07T01:32:28.473Z,"28 km W of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-14T11:52:36.970Z,-30.623,-71.461,22,3.1,ml,7,202.9,,0.15,us,usp000fbym,2014-11-07T01:32:28.101Z,"25 km W of Ovalle, Chile",earthquake,,18.6,,,reviewed,us,guc
+2007-05-14T06:59:50.900Z,-31.54,-71.711,30.1,2.7,ml,5,238.4,,,us,usp000fby8,2014-11-07T01:32:28.022Z,"Near the coast of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-13T23:11:44.100Z,-30.971,-71.726,20.2,2.6,ml,4,248.8,,,us,usp000fbxk,2014-11-07T01:32:27.967Z,"65 km SW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-13T07:20:19.200Z,-31.634,-71.709,28.6,2.8,ml,6,225.9,,,us,usp000fbw8,2014-11-07T01:32:27.740Z,"51 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-12T23:02:52.800Z,-31.442,-71.656,32.6,2.7,ml,4,220.5,,,us,usp000fbv5,2014-11-07T01:32:27.623Z,"50 km WNW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-12T21:44:47.600Z,-31.466,-71.654,22.5,3.2,ml,9,219.9,,,us,usp000fbv0,2014-11-07T01:32:27.616Z,"49 km WNW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-12T08:18:17.100Z,-31.568,-71.582,38,3.7,md,7,220.3,,,us,usp000fbu0,2014-11-07T01:32:27.486Z,"39 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-12T01:14:05.700Z,-31.903,-71.093,86.1,2.9,md,6,187.6,,,us,usp000fbt9,2014-11-07T01:32:27.414Z,"18 km SW of Salamanca, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-09T21:44:52.400Z,-32.397,-71.378,15.1,2.7,ml,10,193.8,,,us,usp000fbmw,2014-11-07T01:32:26.192Z,"15 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-09T21:08:18.400Z,-31.438,-71.153,85,3.4,md,8,185.1,,,us,usp000fbmp,2014-11-07T01:32:26.168Z,"21 km N of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-09T00:57:57.400Z,-31.759,-72.07,32.8,3.6,ml,17,217.2,,,us,usp000fbjp,2014-11-07T01:32:25.926Z,"86 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-08T23:44:33.000Z,-31.702,-71.947,31.6,3.2,ml,11,225.6,,,us,usp000fbjg,2014-11-07T01:32:25.902Z,"74 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-08T22:31:27.500Z,-31.705,-71.972,29.6,4.8,mb,38,144.9,,,us,usp000fbjc,2014-11-07T01:32:25.889Z,"76 km W of Illapel, Chile",earthquake,,,,1,reviewed,guc,us
+2007-05-08T22:17:34.000Z,-31.777,-71.945,30.9,4.4,ml,34,115.3,,,us,usp000fbja,2014-11-07T01:32:25.880Z,"75 km WSW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-08T10:08:20.800Z,-31.699,-71.964,34.4,3.9,ml,13,214.1,,,us,usp000fbh9,2014-11-07T01:32:25.767Z,"75 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-08T10:04:45.800Z,-32.143,-71.787,22.8,3.7,ml,16,204.9,,,us,usp000fbh8,2014-11-07T01:32:25.765Z,"62 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-08T09:44:23.800Z,-31.944,-71.322,47,3.6,md,7,210.4,,,us,usp000fbh7,2014-11-07T01:32:25.763Z,"37 km SSW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-08T07:35:50.600Z,-32.151,-71.244,69.1,2.7,m,11,200.6,,,us,usp000fbh3,2014-11-07T01:32:25.756Z,"33 km N of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-08T06:28:40.200Z,-31.697,-71.936,34.2,3.5,ml,16,220.9,,,us,usp000fbh0,2014-11-07T01:32:25.739Z,"73 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-07T15:36:13.200Z,-31.731,-71.968,46.1,3.7,md,5,241.9,,,us,usp000fbfr,2014-11-07T01:32:25.603Z,"76 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-07T04:16:22.300Z,-30.556,-71.291,45,3.7,md,4,205.5,,,us,usp000fbek,2014-11-07T01:32:25.411Z,"10 km WNW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-07T00:06:11.700Z,-30.74,-71.672,25.5,3.3,ml,7,212.4,,,us,usp000fbe0,2014-11-07T01:32:25.293Z,"47 km WSW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-06T19:12:00.700Z,-31.647,-72.063,30.3,2.9,ml,5,267.9,,,us,usp000fbde,2014-11-07T01:32:25.086Z,"84 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-06T07:23:51.200Z,-31.66,-71.891,31.3,2.7,ml,4,238.8,,,us,usp000fbce,2014-11-07T01:32:24.949Z,"68 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-06T05:08:44.500Z,-31.704,-72.053,8.5,3.4,ml,9,231.4,,,us,usp000fbc3,2014-11-07T01:32:24.911Z,"84 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-05T16:09:36.900Z,-31.699,-71.446,65.3,3.4,md,13,178.5,,,us,usp000fbab,2014-11-07T01:32:24.603Z,"27 km WSW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-05T11:12:03.400Z,-29.821,-72.131,28.8,4.4,ml,18,202.4,,,us,usp000fb9v,2014-11-07T01:32:24.557Z,"77 km W of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-05T06:47:34.900Z,-29.772,-71.384,50,4,md,7,215.5,,,us,usp000fb9c,2014-11-07T01:32:24.439Z,"19 km NW of La Serena, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-03T02:19:15.200Z,-30.625,-71.142,44,4.1,md,11,133.7,,,us,usp000fb4c,2014-11-07T01:32:23.349Z,"6 km ESE of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-02T12:25:33.200Z,-30.21,-71.512,35.7,3,m,6,226.6,,,us,usp000fb32,2014-11-07T01:32:22.942Z,"32 km SSW of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-02T04:31:51.300Z,-30.936,-72.025,25.8,3.1,ml,6,233,,,us,usp000fb29,2014-11-07T01:32:22.154Z,"87 km WSW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-01T23:38:53.600Z,-32.361,-71.523,15,2.6,ml,5,228.7,,,us,usp000fb1w,2014-11-07T01:32:22.065Z,"29 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-01T23:33:19.600Z,-32.388,-71.52,16.4,3.5,ml,17,179.7,,,us,usp000fb1u,2014-11-07T01:32:22.047Z,"28 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-01T03:49:31.900Z,-31.947,-71.459,25.7,2.6,ml,8,194.3,,,us,usp000fazt,2014-11-07T01:32:21.287Z,"44 km SW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-05-01T02:15:11.200Z,-31.204,-71.725,28.6,3.8,ml,8,216.5,,,us,usp000fazh,2014-11-07T01:32:21.203Z,"71 km NW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-04-30T15:53:17.400Z,-32.39,-71.499,22.2,2.8,ml,6,192.1,,,us,usp000faya,2014-11-07T01:32:18.693Z,"Near the coast of Valparaiso, Chile",earthquake,,,,,reviewed,guc,guc
+2007-04-30T10:18:04.800Z,-32.343,-71.435,33.5,3.3,md,4,218.8,,,us,usp000faxm,2014-11-07T01:32:18.619Z,"22 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-04-29T17:52:57.100Z,-31.505,-71.7,23.9,3.7,ml,10,208.9,,,us,usp000faw3,2014-11-07T01:32:18.445Z,"52 km WNW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-04-28T16:07:07.300Z,-30.192,-71.428,55.3,3.2,md,4,229.8,,,us,usp000fatc,2014-11-07T01:32:18.025Z,"27 km SSW of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2007-04-27T02:56:22.500Z,-31.603,-72.26,33.4,3.8,ml,15,240.4,,,us,usp000faq1,2014-11-07T01:32:17.589Z,"103 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-04-27T00:35:34.400Z,-31.759,-72.206,25,4.3,mb,33,144.3,,,us,usp000faps,2014-11-07T01:32:17.558Z,"99 km W of Illapel, Chile",earthquake,,,,3,reviewed,guc,us
+2007-04-26T16:45:43.900Z,-31.672,-71.872,5,4.4,mb,37,115.3,,,us,usp000fap0,2014-11-07T01:32:17.481Z,"66 km W of Illapel, Chile",earthquake,,,,4,reviewed,guc,us
+2007-04-26T09:34:17.050Z,-31.503,-71.67,45.2,4.8,mb,59,115.3,,0.97,us,usp000fana,2014-11-07T01:32:17.321Z,"49 km WNW of Illapel, Chile",earthquake,,8.3,,13,reviewed,us,us
+2007-04-24T17:25:20.400Z,-30.427,-71.624,30.7,3.1,ml,6,220,,,us,usp000fagp,2014-11-07T01:32:15.983Z,"45 km WNW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-04-24T10:52:14.000Z,-31.632,-72.101,31.2,3.1,ml,9,231.6,,,us,usp000fafw,2014-11-07T01:32:15.866Z,"88 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-04-24T10:47:38.900Z,-31.731,-72.108,24.5,2.9,ml,5,243,,,us,usp000fafv,2014-11-07T01:32:15.865Z,"Off the coast of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2007-04-23T17:15:13.200Z,-32.227,-71.808,1.6,3,ml,6,224.3,,,us,usp000fae6,2014-11-07T01:32:15.617Z,"59 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-04-23T06:30:25.400Z,-31.659,-72.066,31.2,3.8,ml,19,201.4,,,us,usp000fad0,2014-11-07T01:32:15.512Z,"85 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-04-22T23:09:35.000Z,-31.596,-71.769,33.8,3.1,ml,7,225.1,,,us,usp000faca,2014-11-07T01:32:15.367Z,"57 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-04-22T13:49:19.200Z,-32.419,-71.409,18.3,2.6,ml,8,177.9,,,us,usp000fabh,2014-11-07T01:32:15.298Z,"Near the coast of Valparaiso, Chile",earthquake,,,,,reviewed,guc,guc
+2007-04-22T10:22:02.200Z,-32.388,-71.448,25.6,5.3,mb,215,89,,,us,usp000fab4,2022-07-14T06:39:54.078Z,"21 km WNW of La Ligua, Chile",earthquake,,,,112,reviewed,guc,us
+2007-04-22T06:05:28.540Z,-31.526,-71.862,29.9,5.1,mwc,103,113.4,,1,us,usp000faak,2022-05-02T20:12:00.098Z,"66 km W of Illapel, Chile",earthquake,,,,,reviewed,us,gcmt
+2007-04-21T04:08:20.900Z,-31.709,-72.073,30.3,3.6,ml,12,230.1,,,us,usp000fa81,2014-11-07T01:32:14.749Z,"86 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-04-20T19:03:33.300Z,-31.43,-71.416,69.5,3.3,md,12,182,,,us,usp000fa75,2014-11-07T01:32:14.609Z,"32 km NW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-04-20T03:54:06.400Z,-31.632,-72.022,29.8,3.1,ml,4,264.8,,,us,usp000fa4u,2014-11-07T01:32:14.253Z,"80 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-04-19T11:01:32.100Z,-29.885,-71.162,63.1,3.8,md,5,201.3,,,us,usp000fa1y,2014-11-07T01:32:13.537Z,"8 km ENE of La Serena, Chile",earthquake,,,,,reviewed,guc,guc
+2007-04-19T09:13:48.900Z,-29.702,-71.286,47.1,3.2,md,4,211.9,,,us,usp000fa1p,2014-11-07T01:32:13.474Z,"22 km N of La Serena, Chile",earthquake,,,,,reviewed,guc,guc
+2007-04-18T05:31:45.700Z,-30.367,-72.031,21.5,3.1,ml,4,268.4,,,us,usp000f9za,2014-11-07T01:32:13.184Z,"80 km SW of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2007-04-18T03:40:43.400Z,-30.876,-71.722,6.9,2.8,ml,4,270,,,us,usp000f9z3,2014-11-07T01:32:13.174Z,"58 km WSW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-04-17T02:15:04.100Z,-31.645,-72.044,26.1,3.1,ml,8,269.3,,,us,usp000f9wq,2014-11-07T01:32:12.861Z,"82 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-04-16T16:53:02.300Z,-31.655,-72.17,17.5,3.7,ml,10,221.5,,,us,usp000f9vr,2014-11-07T01:32:12.753Z,"94 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-04-16T10:36:45.400Z,-31.716,-71.981,31.4,2.8,ml,5,248.2,,,us,usp000f9v2,2014-11-07T01:32:12.660Z,"77 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-04-16T10:10:38.200Z,-31.696,-72.122,20.1,3.7,ml,7,239.6,,,us,usp000f9v0,2014-11-07T01:32:12.657Z,"90 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-04-16T09:31:51.600Z,-31.786,-72.135,21.3,3.8,ml,16,201.9,,,us,usp000f9ux,2014-11-07T01:32:12.650Z,"93 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-04-16T08:33:02.000Z,-31.72,-72.115,22.6,3.8,ml,16,219.4,,,us,usp000f9ut,2014-11-07T01:32:12.632Z,"90 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-04-16T08:21:52.300Z,-31.681,-72.029,35.5,4.1,md,14,201,,,us,usp000f9us,2014-11-07T01:32:12.629Z,"81 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-04-14T21:22:20.300Z,-32.157,-71.121,75,2.9,md,5,197.2,,,us,usp000f9r0,2014-11-07T01:32:12.060Z,"34 km NNE of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-04-14T19:42:46.000Z,-30.623,-72.08,22.8,2.9,ml,4,276.2,,,us,usp000f9qs,2014-11-07T01:32:12.043Z,"84 km W of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-04-14T03:50:52.700Z,-30.702,-71.231,45.3,4.1,md,13,185.7,,,us,usp000f9nw,2014-11-07T01:32:11.865Z,"11 km SSW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-04-14T02:36:46.100Z,-30.974,-71.259,51.7,3.1,m,6,193.5,,,us,usp000f9nr,2014-11-07T01:32:11.830Z,"41 km S of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-04-14T02:31:41.000Z,-30.953,-71.347,55.9,4,md,33,121.3,,,us,usp000f9np,2014-11-07T01:32:11.825Z,"41 km SSW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-04-12T10:52:46.600Z,-30.206,-71.516,30.5,2.8,ml,4,235.6,,,us,usp000f9h7,2014-11-07T01:32:11.083Z,"32 km SSW of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2007-04-11T05:33:35.400Z,-31.614,-71.804,69,3.3,md,5,237.2,,,us,usp000f9dt,2014-11-07T01:32:10.154Z,"Near the coast of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2007-04-11T00:24:00.200Z,-31.626,-72.038,31.6,3.1,ml,5,242,,,us,usp000f9d0,2014-11-07T01:32:10.074Z,"82 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-04-10T19:07:07.200Z,-31.611,-72.025,4.1,3.1,ml,4,320.4,,,us,usp000f9cb,2014-11-07T01:32:09.991Z,"81 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-04-10T17:33:11.600Z,-31.678,-71.98,33.1,3.3,ml,9,236,,,us,usp000f9c1,2014-11-07T01:32:09.970Z,"77 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-04-10T11:24:56.100Z,-32.127,-71.803,22.3,3.6,md,8,229.3,,,us,usp000f9aj,2014-11-07T01:32:09.806Z,"64 km NW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-04-10T08:34:58.000Z,-32.125,-71.793,22.4,3.6,md,5,240.7,,,us,usp000f9a2,2014-11-07T01:32:09.748Z,"64 km NW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-04-10T07:28:04.020Z,-29.798,-71.107,93.4,3,m,7,146.5,,0.38,us,usp000f99j,2014-11-07T01:32:09.672Z,"18 km NE of La Serena, Chile",earthquake,,22.4,,,reviewed,us,guc
+2007-04-10T05:58:37.500Z,-32.176,-71.758,8.7,3.3,ml,17,203,,,us,usp000f98z,2014-11-07T01:32:09.591Z,"58 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-04-10T05:44:41.000Z,-32.146,-71.774,9.3,2.7,ml,14,210.4,,,us,usp000f98x,2014-11-07T01:32:09.586Z,"61 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-04-09T19:01:24.130Z,-30.881,-72.049,22.8,4.7,mb,22,120.1,,1.26,us,usp000f96p,2014-11-07T01:32:09.373Z,"87 km WSW of Ovalle, Chile",earthquake,,24.3,,2,reviewed,us,us
+2007-04-09T16:57:55.000Z,-30.838,-71.976,36.8,4.5,md,17,214.1,,,us,usp000f96h,2014-11-07T01:32:09.363Z,"78 km WSW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-04-09T04:26:39.900Z,-31.732,-71.547,37.9,3,md,5,230.3,,,us,usp000f94w,2014-11-07T01:32:09.111Z,"37 km WSW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-04-08T04:13:12.200Z,-31.722,-72.061,32.3,2.9,ml,4,250.4,,,us,usp000f91q,2014-11-07T01:32:08.625Z,"85 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-04-07T18:20:05.140Z,-31.695,-71.995,27.2,4.7,mb,55,113.4,,0.75,us,usp000f909,2014-11-07T01:32:08.455Z,"78 km W of Illapel, Chile",earthquake,,,,24,reviewed,us,us
+2007-04-06T23:00:09.300Z,-30.757,-71.558,28.5,3.3,ml,8,201.1,,,us,usp000f8xc,2014-11-07T01:32:07.969Z,"38 km WSW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-04-06T22:00:05.140Z,-31.608,-72.579,10,3.3,mb,6,205.5,,1.38,us,usp000f8x7,2014-11-07T01:32:07.961Z,"133 km W of Illapel, Chile",earthquake,,,,1,reviewed,us,us
+2007-04-06T16:04:40.980Z,-31.672,-71.951,9.4,4,mb,14,144.9,,0.97,us,usp000f8wm,2014-11-07T01:32:07.845Z,"74 km W of Illapel, Chile",earthquake,,26,,2,reviewed,us,us
+2007-04-06T11:34:21.100Z,-31.714,-71.976,29.6,3.2,ml,13,213.5,,,us,usp000f8vt,2014-11-07T01:32:07.467Z,"76 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-04-05T07:07:41.100Z,-31.65,-72.094,23.9,4.3,ml,27,199.5,,,us,usp000f8rp,2014-11-07T01:32:06.958Z,"87 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-04-03T02:46:43.400Z,-31.714,-72.14,9.2,3.5,ml,11,232.5,,,us,usp000f8de,2014-11-07T01:32:04.313Z,"92 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-04-02T20:19:56.300Z,-31.571,-71.812,8.6,3,ml,7,227,,,us,usp000f8bb,2014-11-07T01:32:03.952Z,"61 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-04-01T22:52:43.600Z,-30.188,-71.556,15,2.9,ml,5,238.4,,,us,usp000f84n,2014-11-07T01:32:02.644Z,"33 km SW of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2007-04-01T21:02:19.200Z,-31.637,-71.917,26.2,3.9,ml,19,208,,,us,usp000f83s,2014-11-07T01:32:02.234Z,"70 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-04-01T16:50:37.100Z,-31.613,-71.837,27.2,3.9,ml,27,163.7,,,us,usp000f82v,2014-11-07T01:32:01.615Z,"63 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-04-01T13:40:31.600Z,-31.988,-71.554,59.4,3.6,md,7,209.8,,,us,usp000f82c,2014-11-07T01:32:01.490Z,"53 km SW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-04-01T01:38:11.000Z,-31.642,-71.88,30.6,2.7,ml,4,244.7,,,us,usp000f815,2014-11-07T01:32:00.542Z,"Near the coast of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2007-03-31T23:54:29.200Z,-32.096,-71.792,15,2.7,ml,5,241.1,,,us,usp000f80y,2014-11-07T01:31:58.638Z,"65 km NW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-03-31T13:26:07.300Z,-31.969,-71.611,30.3,3.2,ml,5,228,,,us,usp000f7zs,2014-11-07T01:31:58.466Z,"55 km SW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-03-31T12:25:17.900Z,-31.578,-71.791,33.7,3.4,ml,12,212.5,,,us,usp000f7zn,2014-11-07T01:31:58.431Z,"59 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-03-31T11:01:29.900Z,-31.579,-71.992,9,3.3,ml,9,214.5,,,us,usp000f7zf,2014-11-07T01:31:58.419Z,"78 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-03-31T10:55:27.700Z,-31.655,-71.862,37.7,3.7,md,4,243.9,,,us,usp000f7ze,2014-11-07T01:31:58.418Z,"65 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-03-31T09:25:24.900Z,-31.57,-72.083,30.5,4.5,ml,23,201.5,,,us,usp000f7z6,2014-11-07T01:31:58.401Z,"86 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-03-31T08:02:33.700Z,-31.637,-71.89,30.2,2.9,ml,9,234.3,,,us,usp000f7yz,2014-11-07T01:31:58.384Z,"68 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-03-31T07:52:56.100Z,-31.691,-71.956,33.1,3.1,ml,10,236.8,,,us,usp000f7yy,2014-11-07T01:31:58.383Z,"74 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-03-31T00:48:08.000Z,-31.669,-71.91,33,3.1,ml,11,232.3,,,us,usp000f7xx,2014-11-07T01:31:58.239Z,"70 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-03-31T00:23:00.900Z,-31.699,-71.848,32.5,3.6,ml,12,208.1,,,us,usp000f7xu,2014-11-07T01:31:58.233Z,"64 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-03-30T22:34:14.100Z,-31.679,-71.923,25.7,3.3,ml,11,224.6,,,us,usp000f7xj,2014-11-07T01:31:58.220Z,"71 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-03-30T18:41:04.600Z,-31.641,-72.068,23.9,3.3,ml,6,246.8,,,us,usp000f7we,2014-11-07T01:31:58.115Z,"85 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-03-30T18:36:19.100Z,-31.661,-71.939,40.4,3.2,m,7,237.1,,,us,usp000f7wc,2014-11-07T01:31:58.112Z,"73 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-03-30T18:07:55.100Z,-31.596,-72.016,33,3.6,ml,9,219.5,,,us,usp000f7w8,2014-11-07T01:31:58.105Z,"80 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-03-30T16:44:42.000Z,-31.675,-71.882,34.3,3,ml,8,230.7,,,us,usp000f7w1,2014-11-07T01:31:58.076Z,"67 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-03-30T16:33:52.700Z,-31.642,-71.911,25.3,4.1,ml,11,212.5,,,us,usp000f7vz,2014-11-07T01:31:58.073Z,"70 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-03-30T16:02:12.840Z,-31.577,-72.092,10,4.9,mb,29,115.2,,0.77,us,usp000f7vx,2014-11-07T01:31:58.068Z,"87 km W of Illapel, Chile",earthquake,,,,8,reviewed,us,us
+2007-03-30T14:24:03.400Z,-31.597,-72.042,32.4,3.5,ml,8,228.7,,,us,usp000f7vr,2014-11-07T01:31:58.031Z,"82 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-03-30T08:48:30.700Z,-31.68,-71.911,31.5,3.7,ml,17,207.7,,,us,usp000f7v2,2014-11-07T01:31:57.937Z,"70 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-03-30T06:42:43.500Z,-31.68,-71.869,34.9,3.1,ml,9,216.5,,,us,usp000f7uw,2014-11-07T01:31:57.842Z,"66 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-03-30T06:13:14.300Z,-31.743,-71.853,30.6,3.7,md,4,239.2,,,us,usp000f7ut,2014-11-07T01:31:57.839Z,"65 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-03-30T03:45:08.700Z,-31.706,-71.892,20.4,3.8,ml,6,206.5,,,us,usp000f7uc,2014-11-07T01:31:57.803Z,"68 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-03-30T03:08:42.200Z,-31.662,-71.905,31.4,4.5,ml,34,151.5,,,us,usp000f7ua,2014-11-07T01:31:57.798Z,"69 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-03-30T02:57:50.000Z,-31.651,-71.962,27,4.6,ml,37,151.8,,,us,usp000f7u8,2014-11-07T01:31:57.790Z,"75 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-03-29T22:09:15.500Z,-31.581,-71.969,18.1,3,ml,5,233.6,,,us,usp000f7tq,2014-11-07T01:31:57.743Z,"76 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-03-29T20:33:29.100Z,-31.658,-71.8,8.4,3.4,ml,6,226.9,,,us,usp000f7tk,2014-11-07T01:31:57.712Z,"59 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-03-29T20:21:10.900Z,-31.616,-71.913,15.4,3.3,ml,6,233.3,,,us,usp000f7th,2014-11-07T01:31:57.691Z,"70 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-03-29T20:18:53.200Z,-31.614,-71.955,24.8,3.3,ml,7,225.6,,,us,usp000f7tg,2014-11-07T01:31:57.689Z,"74 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-03-29T19:21:54.300Z,-31.627,-71.95,4.4,3.2,ml,6,225.5,,,us,usp000f7tf,2014-11-07T01:31:57.688Z,"74 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-03-29T18:31:58.200Z,-31.582,-71.901,29.1,5,mwc,95,102.7,,,us,usp000f7tb,2022-05-02T20:05:18.976Z,"69 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,gcmt
+2007-03-29T18:22:46.740Z,-31.558,-72.003,18.2,4.8,mb,48,115.2,,0.83,us,usp000f7ta,2014-11-07T01:31:57.668Z,"79 km W of Illapel, Chile",earthquake,,12.8,,2,reviewed,us,us
+2007-03-29T18:08:20.400Z,-31.619,-71.853,33.1,3.8,ml,12,221.9,,,us,usp000f7t7,2014-11-07T01:31:57.646Z,"64 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-03-29T17:46:20.750Z,-31.566,-72.075,4,5.3,mwc,62,115.2,,0.94,us,usp000f7t4,2022-05-02T20:05:17.394Z,"86 km W of Illapel, Chile",earthquake,,7.4,,,reviewed,us,gcmt
+2007-03-29T17:28:04.400Z,-31.601,-71.833,31.7,4.1,ml,13,207.5,,,us,usp000f7t2,2014-11-07T01:31:57.628Z,"63 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-03-29T17:18:06.200Z,-31.634,-72.006,19.6,3.9,ml,12,213.5,,,us,usp000f7sz,2014-11-07T01:31:57.618Z,"79 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-03-29T17:09:07.050Z,-31.604,-71.708,33.9,5.8,mwb,183,79.9,,0.91,us,usp000f7sy,2022-05-02T20:05:15.381Z,"51 km W of Illapel, Chile",earthquake,,7.5,,,reviewed,us,us
+2007-03-29T15:43:31.400Z,-31.633,-71.913,30.7,3.2,ml,10,225,,,us,usp000f7ss,2014-11-07T01:31:57.584Z,"70 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-03-29T15:22:56.500Z,-31.623,-71.902,28.5,3,ml,4,236.6,,,us,usp000f7sq,2014-11-07T01:31:57.581Z,"69 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-03-29T15:12:55.700Z,-31.611,-71.883,34.3,2.8,ml,5,241.4,,,us,usp000f7sp,2014-11-07T01:31:57.580Z,"67 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-03-29T14:40:44.070Z,-31.591,-71.837,25.1,5.6,mwc,171,77.8,,0.79,us,usp000f7sm,2022-05-02T20:05:10.054Z,"63 km W of Illapel, Chile",earthquake,,6.5,,,reviewed,us,gcmt
+2007-03-29T13:14:31.200Z,-31.931,-71.342,41.6,2.5,m,4,193.6,,,us,usp000f7se,2014-11-07T01:31:57.543Z,"36 km SSW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-03-28T10:19:58.300Z,-32.284,-71.602,57.7,3.7,md,20,184.9,,,us,usp000f7q0,2014-11-07T01:31:57.182Z,"39 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-03-27T05:23:34.500Z,-32.386,-71.473,59.7,3.4,md,13,206.1,,,us,usp000f7kk,2014-11-07T01:31:56.747Z,"23 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-03-26T17:01:01.100Z,-30.461,-71.959,75,3.5,md,5,266.4,,,us,usp000f7h9,2014-11-07T01:31:56.262Z,"74 km WNW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-03-26T07:10:13.700Z,-30.781,-71.374,47,2.7,m,5,226.5,,,us,usp000f7fx,2014-11-07T01:31:56.109Z,"26 km SW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-03-26T05:10:26.700Z,-29.799,-71.259,60.7,2.9,m,6,203.4,,,us,usp000f7ff,2014-11-07T01:31:56.044Z,"11 km N of La Serena, Chile",earthquake,,,,,reviewed,guc,guc
+2007-03-24T10:14:39.560Z,-31.907,-71.591,53.8,4.5,m,25,163,,0.49,us,usp000f79r,2014-11-07T01:31:55.203Z,"50 km SW of Illapel, Chile",earthquake,,7.8,,,reviewed,us,guc
+2007-03-23T11:15:07.700Z,-29.775,-71.223,69.8,3,m,6,190.7,,,us,usp000f77q,2014-11-07T01:31:54.893Z,"14 km N of La Serena, Chile",earthquake,,,,,reviewed,guc,guc
+2007-03-22T02:53:54.400Z,-30.134,-71.561,46.6,2.8,m,6,229.3,,,us,usp000f752,2014-11-07T01:31:54.557Z,"29 km SW of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2007-03-21T20:37:56.900Z,-30.518,-72.192,18.2,3.2,ml,4,280.5,,,us,usp000f74j,2014-11-07T01:31:54.483Z,"95 km W of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-03-18T22:52:29.300Z,-32.231,-71.586,2.1,2.9,ml,7,198.4,,,us,usp000f6z1,2014-11-07T01:31:53.886Z,"41 km NW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-03-18T06:42:54.300Z,-30.849,-71.679,11.9,2.6,ml,5,262.7,,,us,usp000f6xf,2014-11-07T01:31:53.733Z,"53 km WSW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-03-18T03:42:34.100Z,-30.882,-71.395,56.2,3.1,md,5,236.9,,,us,usp000f6x3,2014-11-07T01:31:53.693Z,"36 km SSW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-03-16T23:16:43.400Z,-32.042,-71.461,19.7,3.1,ml,7,197.1,,,us,usp000f6v4,2014-11-07T01:31:53.060Z,"50 km NNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-03-16T22:42:03.500Z,-30.861,-71.259,44.3,3.5,m,4,226.5,,,us,usp000f6v1,2014-11-07T01:31:53.055Z,"29 km SSW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-03-16T20:05:53.500Z,-32.222,-71.514,3.5,2.9,ml,5,221.4,,,us,usp000f6ur,2014-11-07T01:31:53.025Z,"36 km NW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-03-14T17:36:25.900Z,-32.253,-71.699,23.8,2.9,ml,8,208.5,,,us,usp000f6qe,2014-11-07T01:31:52.515Z,"49 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-03-12T02:09:49.500Z,-32.276,-71.161,49.5,3.5,md,6,326,,,us,usp000f6hw,2014-11-07T01:31:51.656Z,"20 km NNE of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-03-11T00:27:12.500Z,-32.411,-71.396,41.7,4.1,md,17,171.6,,,us,usp000f6ff,2014-11-07T01:31:51.209Z,"16 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-03-06T13:47:57.900Z,-29.856,-71.567,63.6,3.2,m,6,229.4,,,us,usp000f671,2014-11-07T01:31:49.460Z,"24 km WNW of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2007-03-04T15:57:50.000Z,-29.694,-71.84,15,3.5,ml,6,246.5,,,us,usp000f62x,2014-11-07T01:31:48.651Z,"56 km WNW of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2007-03-04T05:36:42.100Z,-29.507,-71.118,70.7,3.9,m,8,170.6,,,us,usp000f61m,2014-11-07T01:31:48.400Z,"45 km NNE of La Serena, Chile",earthquake,,,,,reviewed,guc,guc
+2007-03-02T13:07:31.320Z,-30.882,-71.193,48.3,5.4,mwb,137,45.5,,0.86,us,usp000f5y4,2022-07-14T07:33:35.311Z,"30 km SW of Monte Patria, Chile",earthquake,,,,,reviewed,us,us
+2007-02-28T06:19:25.700Z,-29.587,-71.024,74,2.9,m,5,162.1,,,us,usp000f5tw,2014-11-07T01:31:43.163Z,"41 km NNE of La Serena, Chile",earthquake,,,,,reviewed,guc,guc
+2007-02-28T05:22:35.600Z,-29.745,-72.034,3.3,3.7,ml,6,227.6,,,us,usp000f5tp,2014-11-07T01:31:43.147Z,"70 km WNW of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2007-02-27T13:41:44.200Z,-31.017,-71.355,43.1,3.9,md,11,184,,,us,usp000f5s6,2014-11-07T01:31:42.905Z,"48 km SSW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-02-26T15:22:58.200Z,-30.912,-71.381,55.4,3.4,md,7,191.4,,,us,usp000f5pn,2014-11-07T01:31:42.561Z,"38 km SSW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-02-26T02:53:10.600Z,-32.325,-71.931,45.2,3.9,md,12,217.3,,,us,usp000f5nq,2014-11-07T01:31:42.415Z,"67 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-02-25T09:24:05.600Z,-32.482,-71.643,30.5,3.4,md,7,210.4,,,us,usp000f5kq,2014-11-07T01:31:42.093Z,"38 km W of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-02-25T07:56:07.700Z,-31.566,-71.747,7.5,3.2,ml,8,209.9,,,us,usp000f5kh,2014-11-07T01:31:42.000Z,"55 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-02-22T01:55:34.800Z,-32.178,-71.627,43.5,4.6,mb,72,115.6,,,us,usp000f5c7,2014-11-07T01:31:40.757Z,"48 km NW of La Ligua, Chile",earthquake,,,,15,reviewed,guc,us
+2007-02-21T03:42:07.600Z,-31.145,-71.668,13.3,3.3,ml,6,213.5,,,us,usp000f59r,2014-11-07T01:31:40.499Z,"71 km NW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-02-20T23:24:18.300Z,-31.157,-71.655,36.6,3.8,md,4,284.1,,,us,usp000f596,2014-11-07T01:31:40.412Z,"70 km NW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-02-20T23:11:24.300Z,-31.22,-71.758,15,4.6,mb,34,120.3,,,us,usp000f593,2014-11-07T01:31:40.394Z,"72 km NW of Illapel, Chile",earthquake,,,,3,reviewed,guc,us
+2007-02-14T07:34:14.400Z,-30.854,-72.243,26.7,3.4,ml,4,289.5,,,us,usp000f4v1,2014-11-07T01:31:37.666Z,"103 km WSW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-02-11T21:44:07.400Z,-31.587,-71.688,29,2.7,ml,6,218.9,,,us,usp000f4q0,2014-11-07T01:31:36.826Z,"49 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-02-10T19:14:03.900Z,-32.013,-71.46,38.3,4,md,14,180.5,,,us,usp000f4mv,2014-11-07T01:31:36.353Z,"50 km SSW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-02-09T07:14:49.300Z,-30.507,-71.243,43.4,4.1,m,13,184.9,,,us,usp000f4j1,2014-11-07T01:31:35.940Z,"11 km NNW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-02-08T22:14:59.800Z,-30.734,-71.258,43.3,4,md,9,196.8,,,us,usp000f4h5,2014-11-07T01:31:35.828Z,"15 km SSW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-02-06T16:07:55.400Z,-30.824,-71.222,60.5,2.9,m,4,194.6,,,us,usp000f4cv,2014-11-07T01:31:35.174Z,"24 km S of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-02-05T05:49:01.400Z,-32.263,-71.186,64.6,2.9,md,4,202.8,,,us,usp000f4a7,2014-11-07T01:31:34.668Z,"21 km NNE of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-02-04T10:56:14.000Z,-32.293,-71.397,54.1,4.1,md,25,115.7,,,us,usp000f490,2014-11-07T01:31:34.242Z,"23 km NW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-02-04T07:40:45.000Z,-30.988,-71.732,5,2.7,ml,4,252.7,,,us,usp000f48g,2014-11-07T01:31:34.076Z,"66 km SW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-02-02T20:37:24.900Z,-29.88,-71.59,33,3.8,ml,6,222.6,,,us,usp000f45j,2014-11-07T01:31:32.939Z,"25 km WNW of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2007-02-01T23:11:46.000Z,-32.264,-71.855,30.2,2.9,ml,9,215.9,,,us,usp000f441,2014-11-07T01:31:32.404Z,"62 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-01-29T11:34:01.900Z,-30.905,-71.524,36.5,3.4,md,5,221.3,,,us,usp000f3w4,2014-11-07T01:31:28.844Z,"45 km SW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-01-28T20:27:59.080Z,-29.792,-71.456,64.3,4.5,mb,45,114.7,,0.95,us,usp000f3ud,2014-11-07T01:31:28.539Z,"21 km NNW of Coquimbo, Chile",earthquake,,6.5,,12,reviewed,us,us
+2007-01-24T05:54:38.200Z,-31.446,-71.718,26.3,2.6,ml,4,232.4,,,us,usp000f3fd,2014-11-07T01:31:26.958Z,"56 km WNW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-01-22T04:48:16.600Z,-31.958,-71.565,24,2.5,ml,4,234.3,,,us,usp000f390,2014-11-07T01:31:26.248Z,"51 km SW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-01-19T23:19:29.900Z,-30.77,-71.715,10.6,3.1,ml,5,231,,,us,usp000f30x,2014-11-07T01:31:24.668Z,"Near the coast of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2007-01-19T07:36:22.100Z,-29.828,-71.364,71.6,4.4,m,10,205.4,,,us,usp000f2z4,2014-11-07T01:31:24.523Z,"13 km NW of La Serena, Chile",earthquake,,,,,reviewed,guc,guc
+2007-01-18T19:21:09.500Z,-30.93,-71.647,33.3,3.7,ml,9,213.1,,,us,usp000f2xz,2014-11-07T01:31:24.327Z,"56 km SW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-01-17T09:14:10.500Z,-30.882,-71.991,32.5,3,ml,5,244.4,,,us,usp000f2uy,2014-11-07T01:31:23.913Z,"81 km WSW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-01-16T18:03:57.100Z,-31.342,-71.675,28.7,2.9,ml,7,218.9,,,us,usp000f2t2,2014-11-07T01:31:23.687Z,"57 km NW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-01-16T08:19:55.300Z,-30.96,-71.673,10.7,2.7,ml,4,229.5,,,us,usp000f2s4,2014-11-07T01:31:23.598Z,"60 km SW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-01-16T07:14:21.900Z,-30.968,-71.667,27.6,3.4,ml,5,229.3,,,us,usp000f2ru,2014-11-07T01:31:23.520Z,"60 km SW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-01-15T07:04:46.300Z,-30.853,-71.292,57.6,4.2,md,17,195.2,,,us,usp000f2ne,2014-11-07T01:31:23.072Z,"29 km SSW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-01-15T04:15:09.400Z,-30.925,-71.59,34.1,2.7,ml,5,225,,,us,usp000f2my,2014-11-07T01:31:23.025Z,"51 km SW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-01-14T22:54:54.000Z,-30.916,-71.553,35,2.8,ml,5,222.9,,,us,usp000f2kv,2014-11-07T01:31:22.847Z,"48 km SW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-01-12T04:57:30.300Z,-31.773,-71.582,39.2,3.9,md,8,196,,,us,usp000f28f,2014-11-07T01:31:21.077Z,"42 km WSW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-01-12T03:05:38.900Z,-29.733,-72.141,2.6,4.1,ml,10,237.5,,,us,usp000f289,2014-11-07T01:31:21.051Z,"81 km WNW of Coquimbo, Chile",earthquake,,,,,reviewed,guc,guc
+2007-01-12T00:09:25.200Z,-29.695,-71.305,62.5,3.1,md,5,208.9,,,us,usp000f280,2014-11-07T01:31:21.030Z,"23 km NNW of La Serena, Chile",earthquake,,,,,reviewed,guc,guc
+2007-01-11T07:32:47.800Z,-30.903,-71.733,37.8,4,m,6,229.8,,,us,usp000f265,2014-11-07T01:31:20.831Z,"61 km WSW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-01-11T06:50:12.100Z,-30.894,-71.981,33.6,3.3,ml,6,244,,,us,usp000f262,2014-11-07T01:31:20.825Z,"81 km WSW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-01-11T06:42:01.700Z,-30.869,-72.032,33.9,4.5,ml,11,224.3,,,us,usp000f261,2014-11-07T01:31:20.823Z,"85 km WSW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-01-11T06:38:57.900Z,-30.866,-71.975,34.5,4,ml,8,222.4,,,us,usp000f260,2014-11-07T01:31:20.822Z,"79 km WSW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-01-11T06:10:03.900Z,-30.864,-72.09,12.7,4.7,ml,28,114.9,,,us,usp000f25y,2014-11-07T01:31:20.817Z,"90 km WSW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-01-11T05:48:13.000Z,-30.952,-71.693,5.8,3.6,ml,7,225.4,,,us,usp000f25w,2014-11-07T01:31:20.813Z,"61 km SW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-01-10T22:29:19.600Z,-30.889,-71.949,33.9,4.6,ml,13,199.8,,,us,usp000f253,2014-11-07T01:31:20.713Z,"78 km WSW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-01-10T12:55:31.000Z,-31.735,-71.281,83.1,3.5,md,9,182.7,,,us,usp000f242,2014-11-07T01:31:20.604Z,"15 km SW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-01-10T01:25:58.000Z,-32.218,-71.599,45.2,3.6,md,7,211.4,,,us,usp000f230,2014-11-07T01:31:20.482Z,"43 km NW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-01-09T17:20:18.600Z,-31.767,-72.175,10.2,3.8,ml,8,221.8,,,us,usp000f21z,2014-11-07T01:31:20.359Z,"96 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-01-09T11:41:35.900Z,-32.482,-71.524,30.3,2.6,ml,8,192.9,,,us,usp000f21e,2014-11-07T01:31:20.240Z,"27 km W of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-01-09T08:55:33.300Z,-30.892,-72.009,18.5,3.1,ml,4,283.3,,,us,usp000f219,2014-11-07T01:31:20.224Z,"84 km WSW of Ovalle, Chile",earthquake,,,,,reviewed,guc,guc
+2007-01-08T12:00:14.200Z,-31.615,-71.683,33.6,3.3,ml,8,215.4,,,us,usp000f1z5,2014-11-07T01:31:19.874Z,"48 km W of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-01-08T04:13:27.500Z,-31.797,-72.046,4.3,3.1,ml,4,267.6,,,us,usp000f1y6,2014-11-07T01:31:19.788Z,"85 km WSW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-01-08T01:52:25.000Z,-29.755,-71.206,60.5,4.2,m,10,187.5,,,us,usp000f1xj,2014-11-07T01:31:19.724Z,"17 km NNE of La Serena, Chile",earthquake,,,,,reviewed,guc,guc
+2007-01-07T09:14:00.900Z,-31.957,-71.357,45,3.3,md,5,213,,,us,usp000f1vn,2014-11-07T01:31:19.553Z,"40 km SSW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-01-06T01:58:48.000Z,-30.905,-71.151,46.3,3.5,md,5,179.6,,,us,usp000f1sq,2014-11-07T01:31:18.992Z,"29 km SW of Monte Patria, Chile",earthquake,,,,,reviewed,guc,guc
+2007-01-05T14:21:57.500Z,-31.478,-71.671,21.8,2.8,ml,5,237.7,,,us,usp000f1rr,2014-11-07T01:31:18.808Z,"50 km WNW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
+2007-01-04T14:40:15.900Z,-32.188,-71.756,18.7,3.2,ml,8,216.5,,,us,usp000f1q0,2014-11-07T01:31:18.410Z,"57 km WNW of La Ligua, Chile",earthquake,,,,,reviewed,guc,guc
+2007-01-04T06:43:47.100Z,-31.874,-72.142,35.7,4.3,md,14,216.7,,,us,usp000f1pe,2014-11-07T01:31:18.297Z,"95 km WSW of Illapel, Chile",earthquake,,,,,reviewed,guc,guc
